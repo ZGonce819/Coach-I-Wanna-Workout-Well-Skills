@@ -44,3 +44,7 @@ Coach-I-Wanna-Workout-Well-Skills/
 ## License
 
 本项目采用 MIT License，详见 [LICENSE](LICENSE)。
+
+## 文献与致谢
+
+文献来源、引用信息、开放获取文件、版权说明和安全提示见 [REFERENCES.md](REFERENCES.md)。
