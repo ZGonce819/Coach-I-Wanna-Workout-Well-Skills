@@ -13,7 +13,7 @@ SKILL_ROOT = Path(__file__).resolve().parents[1]
 SOURCES = {
     "cn": {
         "repository": "https://gitee.com/zgonce819/Coach-I-Wanna-Workout-Well-Skills",
-        "manifest": "https://gitee.com/zgonce819/Coach-I-Wanna-Workout-Well-Skills/raw/main/Coach-I-Wanna-Workout-Well-Skills/version.json",
+        "manifest": "https://raw.giteeusercontent.com/zgonce819/Coach-I-Wanna-Workout-Well-Skills/raw/main/Coach-I-Wanna-Workout-Well-Skills/version.json",
     },
     "global": {
         "repository": "https://github.com/ZGonce819/Coach-I-Wanna-Workout-Well-Skills",
