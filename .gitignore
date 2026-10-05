@@ -1,5 +1,6 @@
 # 白名单式忽略：默认忽略仓库根目录下所有内容，仅保留以下条目
-# 保留：Coach-I-Wanna-Workout-Well-Skills、knowledge-base、README.md、REFERENCES.md
+# 保留：Coach-I-Wanna-Workout-Well-Skills、README.md、REFERENCES.md
+# 主目录 knowledge-base 为本地镜像（与源目录同步），不进仓库
 
 # 忽略根目录下的一切（默认）
 /*
@@ -9,7 +10,6 @@
 
 # 保留目录（目录内文件不受 /* 影响，会全部保留）
 !/Coach-I-Wanna-Workout-Well-Skills/
-!/knowledge-base/
 
 # 保留文件
 !/README.md
