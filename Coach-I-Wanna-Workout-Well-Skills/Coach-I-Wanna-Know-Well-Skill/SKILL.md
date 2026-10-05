@@ -9,6 +9,8 @@ description: 解释肌肥大、发力、运动生理和训练建议的依据，�
 
 ## 按需检索
 
+单独调用时先按 [版本检查与地区来源](../references/version-updates.md) 检查更新，工具位于 `../scripts/check_version.py`；总控本次已检查时不重复执行。危险信号优先处理，不等待检查。
+
 读 [索引](../knowledge-base/topic-index.md)，肌肥大与机制问题优先 [肌肥大机制与训练原理](../knowledge-base/Know-Well/hypertrophy/hypertrophy-mechanisms-and-training-principles.md)，运动解剖、动作定位或代偿排查问题读取 [运动解剖基础与训练应用](../knowledge-base/Know-Well/anatomy/sports-anatomy-foundations.md)；"为什么训练会变强/停练会掉/肌肉记忆"等机制总论读取 [训练适应生理机制](../knowledge-base/Know-Well/physiology/training-adaptation-physiology.md)。需要剂量、热身、营养或恢复结论时，再加最多两份相关主题。安全问题不受默认数量限制。
 
 ## 判断证据

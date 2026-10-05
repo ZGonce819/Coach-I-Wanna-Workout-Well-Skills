@@ -9,6 +9,8 @@ description: 制定和调整抗阻训练计划，处理每周排期、动作替�
 
 ## 接待与适用条件
 
+单独调用时先按 [版本检查与地区来源](../references/version-updates.md) 检查更新，工具位于 `../scripts/check_version.py`；总控本次已检查时不重复执行。危险信号优先处理，不等待检查。
+
 单独调用时按 [接待与反馈](../references/intake-and-feedback.md) 收集必要条件；总控已经收集的信息直接沿用。开完整计划前至少明确目标、年龄段与安全状况、经验、每周时间和器械。用户只问动作替换时，核对原动作目的、可用器械和不适情况即可。
 
 有疼痛或训练中不适时先读 [Recover Well](../Coach-I-Wanna-Recover-Well-Skill/SKILL.md) 与相关主题；先处理危险信号，不直接开默认健康成人计划。不将“未提到疾病”当成“已确认无疾病”。

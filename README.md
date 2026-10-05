@@ -6,66 +6,33 @@
 
 ## 安装
 
-本技能以目录形式加载：把整个技能包放进豆包的用户技能目录，重启客户端即可使用。
+根据所在地区，将对应的安装口令发送给你使用的 AI 助手：
 
-### 1. 获取技能包
+### 中国用户
 
-```text
-git clone git@github.com:ZGonce819/Coach-I-Wanna-Workout-Well-Skills.git
-```
-
-没有 Git 时，在仓库页面 Download ZIP 后解压。技能包是 `Coach-I-Wanna-Workout-Well-Skills/` 整个目录；知识库、引用模板和本地工具都在该目录内，不能只复制单个 `SKILL.md`。
-
-### 2. 找到用户技能目录
-
-豆包 Windows 客户端的用户技能目录通常为：
+仓库：[Gitee](https://gitee.com/zgonce819/Coach-I-Wanna-Workout-Well-Skills)。
 
 ```text
-<用户数据目录>\User Data\Default\.doubao\agent_mode\workspace\.user_skills\
+请将公开仓库 https://gitee.com/zgonce819/Coach-I-Wanna-Workout-Well-Skills 下载并安装为本地 Skill。
+请安装仓库内完整的 Coach-I-Wanna-Workout-Well-Skills/ 目录，包含五个领域子 Skill、knowledge-base/、references/、scripts/ 和 version.json。
+安装后运行 scripts/check_version.py --region cn --remember-region，保存中国更新来源。
 ```
 
-本机默认路径示例（将 `<用户名>` 替换为实际 Windows 用户名）：
+### 国外用户
+
+仓库：[GitHub](https://github.com/ZGonce819/Coach-I-Wanna-Workout-Well-Skills/tree/main)。
 
 ```text
-C:\Users\<用户名>\AppData\Local\Doubao\User Data\Default\.doubao\agent_mode\workspace\.user_skills\
+请将公开仓库 https://github.com/ZGonce819/Coach-I-Wanna-Workout-Well-Skills 下载并安装为本地 Skill。
+请安装仓库内完整的 Coach-I-Wanna-Workout-Well-Skills/ 目录，包含五个领域子 Skill、knowledge-base/、references/、scripts/ 和 version.json。
+安装后运行 scripts/check_version.py --region global --remember-region，保存国外更新来源。
 ```
 
-### 3. 放入技能包
+### 使用时检查更新
 
-将 `Coach-I-Wanna-Workout-Well-Skills/` 整个目录复制到上述 `.user_skills\` 下，并重命名为技能名（全小写连字符）：
+每次调用 Skill 时，AI 助手先根据已保存的地区选择查询对应仓库。尚未选择时，先确认使用中国还是国外更新来源。版本检查逻辑集中在 [check_version.py](Coach-I-Wanna-Workout-Well-Skills/scripts/check_version.py)，输出当前版本、最新版本、检查状态和更新仓库地址；发现新版时提醒用户，更新须遵循当前平台权限及用户授权。离线或检查失败时继续使用本地版本。
 
-```text
-.user_skills\coach-i-wanna-workout-well\
-```
-
-复制后校验目录结构，必须包含以下条目：
-
-```text
-coach-i-wanna-workout-well\
-|-- SKILL.md                              # 总控
-|-- Coach-I-Wanna-Train-Well-Skill\       # 五个领域子 skill
-|-- Coach-I-Wanna-Eat-Well-Skill\
-|-- Coach-I-Wanna-Know-Well-Skill\
-|-- Coach-I-Wanna-Flex-Well-Skill\
-|-- Coach-I-Wanna-Recover-Well-Skill\
-|-- knowledge-base\                       # 导读索引 + 三十九份主题指南
-|-- references\                           # 接待与反馈、案例模板
-`-- scripts\memory_store.py               # 本地档案工具（默认关闭）
-```
-
-### 4. 重启并验证
-
-重启豆包客户端（或新开对话），然后提问：
-
-- “帮我制定一个增肌训练计划” —— 应进入总控接待与筛查流程
-- “深蹲怎么做才是对的？” —— 应从知识库动作技术主题作答
-
-若回答明显未使用知识库，依次检查：目录名是否为 `coach-i-wanna-workout-well`、`SKILL.md` 是否位于技能目录根、`knowledge-base\` 是否完整。
-
-### 更新与卸载
-
-- **更新**：`git pull` 获取最新内容后，用仓库内 `Coach-I-Wanna-Workout-Well-Skills/` 整体覆盖已安装副本，保持技能目录名不变。
-- **卸载**：删除 `.user_skills\coach-i-wanna-workout-well\` 目录即可。本地档案数据库（`memory.sqlite3`）存放在技能目录之外的独立位置；曾启用过档案的需要单独清除（见[本地长期档案](#本地长期档案)）。
+发布新版时，修改技能包内 [version.json](Coach-I-Wanna-Workout-Well-Skills/version.json) 的版本号，并将相同版本和完整技能包同步到 Gitee 与 GitHub 的 `main` 分支。版本号采用 `主版本.次版本.修订版本`，例如 `1.0.1`。仅修改文件而不提高版本号不会触发新版提醒；镜像尚未同步时，以对应来源实际发布的版本为准。
 
 ## 使用入口
 
@@ -182,7 +149,10 @@ python -X utf8 Coach-I-Wanna-Workout-Well-Skills/scripts/memory_store.py status
 | | |-- domain-worked-examples.md
 | |   `-- long-term-memory.md
 | |-- scripts/memory_store.py
+| |-- scripts/check_version.py
+| |-- version.json
 | |-- tests/test_memory_store.py
+| |-- tests/test_check_version.py
 |   `-- knowledge-base/
 |       |-- topic-index.md
 |       |-- Train-Well/
@@ -199,13 +169,15 @@ python -X utf8 Coach-I-Wanna-Workout-Well-Skills/scripts/memory_store.py status
 
 ## 验证
 
-在项目根目录运行档案工具测试：
+在项目根目录运行工具测试：
 
 ```text
 python -X utf8 -m unittest discover -s Coach-I-Wanna-Workout-Well-Skills/tests -v
 ```
 
 测试使用临时目录与虚构数据，不启用个人档案，覆盖同意状态、持久化与重复更新、暂停、撤销、删除、来源约束、容量上限、压缩召回和 UTF-8 输入。
+
+版本检查测试覆盖中国与国外来源选择、跨调用保存地区、数字版本比较、镜像落后、网络失败、无效远程响应和损坏的配置文件；测试不联网，也不修改个人配置。
 
 截至 2026-10-04，已完成六个 skill 的格式校验、十三项工具测试、二百二十四个本地链接检查，以及四个独立虚构场景试用。格式与工具检查不代表真实咨询效果或医疗安全已被验证；案例文件列出持续试用时应观察的行为。
 

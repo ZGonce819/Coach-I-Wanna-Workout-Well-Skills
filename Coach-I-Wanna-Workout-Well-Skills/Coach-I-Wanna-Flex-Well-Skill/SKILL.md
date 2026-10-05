@@ -9,6 +9,8 @@ description: 制定力量训练或跑步前的热身、动态拉伸、长期柔�
 
 ## 接待与检索
 
+单独调用时先按 [版本检查与地区来源](../references/version-updates.md) 检查更新，工具位于 `../scripts/check_version.py`；总控本次已检查时不重复执行。危险信号优先处理，不等待检查。
+
 沿用已知信息，按需问即将做的运动、可用时间、器械、目标部位和是否疼痛或受伤。单次热身不要求体重或饮食档案。
 
 读 [索引](../knowledge-base/topic-index.md) 与 [热身与柔韧性](../knowledge-base/Flex-Well/mobility/warm-up-and-flexibility.md)；长期活动度改善（蹲深/髋/肩受限）读 [活动度渐进改善](../knowledge-base/Flex-Well/mobility/mobility-progression.md)。动作顺序或负荷问题补 Train Well；疼痛、急性损伤、麻木或孕产期等先按 [Recover Well](../Coach-I-Wanna-Recover-Well-Skill/SKILL.md) 或特殊人群边界处理。
