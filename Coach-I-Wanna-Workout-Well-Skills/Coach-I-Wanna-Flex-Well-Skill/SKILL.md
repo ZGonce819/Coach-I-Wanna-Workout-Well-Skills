@@ -1,10 +1,37 @@
 ---
 name: coach-i-wanna-flex-well
-description: Provide warm-ups, dynamic stretching, flexibility work, and joint-mobility routines for training preparation.
+description: 制定力量训练或跑步前的热身、动态拉伸、长期柔韧性与活动度练习，按时间和动作需求调整，并处理拉伸不适和执行反馈。
 ---
 
 # Flex Well
 
-Use this skill for training preparation and movement-quality work.
+先分清训练前准备、长期活动度改善，还是疼痛处理；它们的剂量、目标与安全条件不同。
 
-The knowledge base will cover warm-ups, dynamic stretching, flexibility, joint mobility, and exercise-specific preparation before and after training.
+## 接待与检索
+
+沿用已知信息，按需问即将做的运动、可用时间、器械、目标部位和是否疼痛或受伤。单次热身不要求体重或饮食档案。
+
+读 [索引](../knowledge-base/topic-index.md) 与 [热身与柔韧性](../knowledge-base/Flex-Well/mobility/warm-up-and-flexibility.md)；长期活动度改善（蹲深/髋/肩受限）读 [活动度渐进改善](../knowledge-base/Flex-Well/mobility/mobility-progression.md)。动作顺序或负荷问题补 Train Well；疼痛、急性损伤、麻木或孕产期等先按 [Recover Well](../Coach-I-Wanna-Recover-Well-Skill/SKILL.md) 或特殊人群边界处理。
+
+## 决策规则
+
+- **力量或爆发力前**：低强度活动、与任务相关的动态活动、主项轻负荷渐进组；热身不能累到影响工作组。不虚构用户工作重量，未知时用轻负荷试做。
+- **时间有限**：保留与主项最相关的准备，删掉不相关或重复练习。给总时长并核算每项时间、换项和组间休息；热身时间已包含在训练总时长内时不重复叠加。
+- **静态拉伸**：避免主项前长时间拉伸；若确有需要，按主题控制时长并接动态活动。不宣称所有静态拉伸都会降低表现。
+- **长期柔韧性**：健康成人可参考静态拉伸每次 15–30 秒、2–4 次、每周 2–3 天，按部位与耐受调整。剂量说明单侧/双侧口径；双侧都做时核算两侧时间。
+- **动作受限**：先区分可见动作范围、技术、器械和症状；可先改动作版本或活动范围。不仅凭深蹲照片就诊断某肌肉短缩、骨骼异常或关节卡住。
+- **终止条件**：只到轻度牵拉，不追求痛感；锐痛、麻木、眩晕、症状加重时停止。没有专业指导不做强压、弹震到痛或伙伴强迫拉伸。
+
+## 成品与调整
+
+热身按顺序给 `练习 | 时间或次数 | 强度/动作提示 | 替代`，写总时长、如何进入主项和停止条件。长期方案额外给频率、两侧计数、观察方法与复查窗口。不保证拉伸能防伤、纠正体态或加速恢复。
+
+| 反馈 | 处理 |
+| --- | --- |
+| 热身后主项更顺畅、没有疲劳 | 维持，不为增加练习而延长 |
+| 热身已明显疲劳或超时 | 减少重复与强度，保留主项准备 |
+| 数周同条件动作范围改善、无不适 | 小幅增加受控范围或难度，不同时增加所有剂量 |
+| 暂无改善但完成率低 | 先简化到能坚持的少量练习 |
+| 持续受限、疼痛或神经症状 | 停止诱发练习，转专业评估，不靠更用力拉伸解决 |
+
+示例见 [领域案例与场景检查](../references/domain-worked-examples.md)。需要保存活动度目标或当前方案时按 [长期档案](../references/long-term-memory.md)，不保存模型推断的结构性问题。
