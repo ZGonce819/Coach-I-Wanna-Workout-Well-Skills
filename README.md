@@ -4,6 +4,69 @@
 
 从用户目标和现实条件出发，按需检索相关知识，交付可执行的方案，并根据实际完成情况、训练表现和恢复反馈持续调整。当前包含一个总控、五个领域 skill、接待与案例模板，以及默认关闭的本地长期档案工具。
 
+## 安装
+
+本技能以目录形式加载：把整个技能包放进豆包的用户技能目录，重启客户端即可使用。
+
+### 1. 获取技能包
+
+```text
+git clone git@github.com:ZGonce819/Coach-I-Wanna-Workout-Well-Skills.git
+```
+
+没有 Git 时，在仓库页面 Download ZIP 后解压。技能包是 `Coach-I-Wanna-Workout-Well-Skills/` 整个目录；知识库、引用模板和本地工具都在该目录内，不能只复制单个 `SKILL.md`。
+
+### 2. 找到用户技能目录
+
+豆包 Windows 客户端的用户技能目录通常为：
+
+```text
+<用户数据目录>\User Data\Default\.doubao\agent_mode\workspace\.user_skills\
+```
+
+本机默认路径示例（将 `<用户名>` 替换为实际 Windows 用户名）：
+
+```text
+C:\Users\<用户名>\AppData\Local\Doubao\User Data\Default\.doubao\agent_mode\workspace\.user_skills\
+```
+
+### 3. 放入技能包
+
+将 `Coach-I-Wanna-Workout-Well-Skills/` 整个目录复制到上述 `.user_skills\` 下，并重命名为技能名（全小写连字符）：
+
+```text
+.user_skills\coach-i-wanna-workout-well\
+```
+
+复制后校验目录结构，必须包含以下条目：
+
+```text
+coach-i-wanna-workout-well\
+|-- SKILL.md                              # 总控
+|-- Coach-I-Wanna-Train-Well-Skill\       # 五个领域子 skill
+|-- Coach-I-Wanna-Eat-Well-Skill\
+|-- Coach-I-Wanna-Know-Well-Skill\
+|-- Coach-I-Wanna-Flex-Well-Skill\
+|-- Coach-I-Wanna-Recover-Well-Skill\
+|-- knowledge-base\                       # 导读索引 + 三十九份主题指南
+|-- references\                           # 接待与反馈、案例模板
+`-- scripts\memory_store.py               # 本地档案工具（默认关闭）
+```
+
+### 4. 重启并验证
+
+重启豆包客户端（或新开对话），然后提问：
+
+- “帮我制定一个增肌训练计划” —— 应进入总控接待与筛查流程
+- “深蹲怎么做才是对的？” —— 应从知识库动作技术主题作答
+
+若回答明显未使用知识库，依次检查：目录名是否为 `coach-i-wanna-workout-well`、`SKILL.md` 是否位于技能目录根、`knowledge-base\` 是否完整。
+
+### 更新与卸载
+
+- **更新**：`git pull` 获取最新内容后，用仓库内 `Coach-I-Wanna-Workout-Well-Skills/` 整体覆盖已安装副本，保持技能目录名不变。
+- **卸载**：删除 `.user_skills\coach-i-wanna-workout-well\` 目录即可。本地档案数据库（`memory.sqlite3`）存放在技能目录之外的独立位置；曾启用过档案的需要单独清除（见[本地长期档案](#本地长期档案)）。
+
 ## 使用入口
 
 综合需求从 [总控 skill](Coach-I-Wanna-Workout-Well-Skills/SKILL.md) 开始，单一需求也可以直接使用对应领域。安装时请复制完整的 `Coach-I-Wanna-Workout-Well-Skills/` 目录；知识库、引用模板和本地工具已经放在这个目录内，不能只复制一个 `SKILL.md`。
