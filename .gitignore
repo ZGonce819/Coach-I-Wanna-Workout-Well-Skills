@@ -8,6 +8,9 @@
 # 但保留 .gitignore 自身
 !/.gitignore
 
+# 保留开源协议
+!/LICENSE
+
 # 保留目录（目录内文件不受 /* 影响，会全部保留）
 !/Coach-I-Wanna-Workout-Well-Skills/
 
@@ -20,3 +23,6 @@
 **/*.pyc
 **/memory.sqlite3*
 **/memory-update*.json
+
+# 测试目录不进仓库（本地自测用）
+Coach-I-Wanna-Workout-Well-Skills/tests/
