@@ -54,14 +54,22 @@
 | [初始评估与体测流程](Train-Well/assessment/initial-assessment-and-testing.md) | Train Well | 筛查后体测项目/顺序/复测/解读沟通 | [168][126][127][39] |
 | [团课/循环/HIIT 课程设计](Train-Well/group-training/group-class-and-circuit-design.md) | Train Well | 课程结构/HIIT 编程/进退阶/强度监控 | [166][130][131][128] |
 | [特殊人群营养补遗：青少年与素食者](Eat-Well/special-populations/special-population-nutrition.md) | Eat Well | 青少年蛋白/补剂边界、素食蛋白与微量营养素 | [164][165][157][86] |
+| [体态与姿势管理](Train-Well/posture/posture-and-alignment-management.md) | Train Well | 姿势-疼痛证据边界/正常变异/方向性训练/关节松弛谱系 | [169][170][171][175][183] |
+| [脊柱侧弯与运动](Recover-Well/screening-and-injury-spectrum/scoliosis-and-exercise.md) | Recover Well | Cobb 角确诊/生长期与成人管理/运动安全/转介边界 | [172][173][126] |
+| [足部结构与扁平足](Recover-Well/injuries-and-behavior/foot-structure-and-flat-feet.md) | Recover Well | 足弓正常变异/无症状与有症状边界/矫形器转介 | [174][49][126] |
+| [颈痛/颈椎](Recover-Well/injuries-and-behavior/neck-pain-and-cervical-spine.md) | Recover Well | 颈痛运动治疗/落枕/红旗转介/久坐办公 | [176][169][7] |
+| [肩关节不稳与冻结肩](Recover-Well/injuries-and-behavior/shoulder-instability-and-frozen-shoulder.md) | Recover Well | 不稳稳定康复/冻结肩分期渐进/手术边界 | [181][178][45] |
+| [膝部结构损伤：半月板与 ACL](Recover-Well/injuries-and-behavior/knee-structural-injuries.md) | Recover Well | 退变性半月板保守优先/ACL 术后回归标准 | [182][179][180] |
+| [慢性踝关节不稳](Recover-Well/injuries-and-behavior/chronic-ankle-instability.md) | Recover Well | 反复崴脚识别/平衡训练剂量/回归与转介 | [177][174][126] |
+| [伤后重返运动总框架](Recover-Well/recovery-and-pain/return-to-sport-framework.md) | Recover Well | StARRT 三要素/分级渐进/专项标准/监控 | [180][179][163] |
 
 ---
 
 ## 二、本轮校验记录（2026-10-04）
 
-- 文件数：41 份 Markdown（本导读 1 份、主题文件 39 份、[关键处方原文核验](prescription-source-check.md) 1 份）；五个领域目录均已建立，主题文件只保留一个主要归属；主题文件位于五个领域的主题子目录，新增文件不使用序号。
+- 文件数：49 份 Markdown（本导读 1 份、主题文件 47 份、[关键处方原文核验](prescription-source-check.md) 1 份）；五个领域目录均已建立，主题文件只保留一个主要归属；主题文件位于五个领域的主题子目录，新增文件不使用序号。
 - 原始来源：`references/` 下 27 个 PDF，`output/` 下转换结果保留原样；其中两份蛋白立场声明 PDF 内容重复，`2026年中国居民膳食指南` 文件名与版权页核对后实际为 2022 版。
-- 编号与引用：主题文件使用的文献编号均能在本导读第八节找到；[35][45]–[48][58]–[60][83][114][115][123][124] 已于第四轮（2026-10-05）分配给运动解剖与执教技术文献，[125]–[150] 于第五轮（2026-10-05，全补充）分配给 11 个缺口主题，[151]–[158] 于第六轮（2026-10-05，补剂第二梯队）分配，[159]–[168] 于第七轮（2026-10-05，训练服务闭环）分配。没有发现主题文件引用未列入总表的编号。
+- 编号与引用：主题文件使用的文献编号均能在本导读第八节找到；[35][45]–[48][58]–[60][83][114][115][123][124] 已于第四轮（2026-10-05）分配给运动解剖与执教技术文献，[125]–[150] 于第五轮（2026-10-05，全补充）分配给 11 个缺口主题，[151]–[158] 于第六轮（2026-10-05，补剂第二梯队）分配，[159]–[168] 于第七轮（2026-10-05，训练服务闭环）分配，[169]–[183] 于第八轮（2026-10-05，P0/P1 缺口）分配。没有发现主题文件引用未列入总表的编号。
 - 链接：知识库内本地 Markdown 链接已逐一解析，当前 0 个断链；跨领域内容通过相对链接回到唯一主文件，未创建重复副本。
 - 数据核对口径：文本整理与原文处方核验分开记录。2026-10-04 首轮关键处方核验检查十五份本地来源的选定条目，范围、来源文献和修正见[核验报告](prescription-source-check.md)。ACSM 两份仅完成译本与英文摘要核对；其余未核验条目不得因文件存在或全文已读取而视为原文审校通过。
 
@@ -91,6 +99,14 @@
 | 增肌期多吃多少热量？长太快是不是变胖？怎么追踪？ | [增肌期营养实操](Eat-Well/muscle-gain/muscle-gain-nutrition-practice.md) | [Eat Well](Eat-Well/fundamentals/sports-nutrition-basics.md)、[减脂与特殊人群食养](Eat-Well/weight-management/fat-loss-and-special-populations.md) |
 | 蛋白粉要不要买？吃啥蛋白好？ | [Eat Well](Eat-Well/fundamentals/sports-nutrition-basics.md) | — |
 | 初中生练力量怎么吃？素食/纯素训练者缺什么？ | [特殊人群营养补遗：青少年与素食者](Eat-Well/special-populations/special-population-nutrition.md) | [补剂第二梯队与证据边界](Eat-Well/supplements-and-activity/second-tier-supplement-evidence.md)、[儿童青少年与长期效应](Train-Well/youth-and-long-term/youth-and-long-term-effects.md) |
+| 我是不是骨盆前倾/圆肩/头前伸？要不要矫正？关节特别松正常吗？ | [体态与姿势管理](Train-Well/posture/posture-and-alignment-management.md) | [运动解剖基础与训练应用](Know-Well/anatomy/sports-anatomy-foundations.md)、[脊柱侧弯与运动](Recover-Well/screening-and-injury-spectrum/scoliosis-and-exercise.md) |
+| 有脊柱侧弯能练吗？会不会越练越弯？ | [脊柱侧弯与运动](Recover-Well/screening-and-injury-spectrum/scoliosis-and-exercise.md) | [体态与姿势管理](Train-Well/posture/posture-and-alignment-management.md)、[慢性病与运动处方](Train-Well/chronic-conditions/chronic-conditions-and-exercise.md) |
+| 扁平足要不要买鞋垫？还能跑步深蹲吗？ | [足部结构与扁平足](Recover-Well/injuries-and-behavior/foot-structure-and-flat-feet.md) | [足底筋膜炎](Recover-Well/injuries-and-behavior/common-injuries-and-behavior-support.md)、[慢性踝关节不稳](Recover-Well/injuries-and-behavior/chronic-ankle-instability.md) |
+| 脖子疼/颈椎不舒服，能练吗？练什么？ | [颈痛/颈椎](Recover-Well/injuries-and-behavior/neck-pain-and-cervical-spine.md) | [热身与久坐](Flex-Well/mobility/mobility-progression.md)、[体态与姿势管理](Train-Well/posture/posture-and-alignment-management.md) |
+| 肩关节反复脱位/不稳？冻结肩/肩周炎怎么练？ | [肩关节不稳与冻结肩](Recover-Well/injuries-and-behavior/shoulder-instability-and-frozen-shoulder.md) | [肩袖与肩部损伤](Recover-Well/injuries-and-behavior/common-injuries-and-behavior-support.md) |
+| 半月板损伤/ACL 术后，怎么恢复？多久能打球？ | [膝部结构损伤：半月板与 ACL](Recover-Well/injuries-and-behavior/knee-structural-injuries.md) | [伤后重返运动总框架](Recover-Well/recovery-and-pain/return-to-sport-framework.md) |
+| 经常崴脚/脚踝不稳怎么办？ | [慢性踝关节不稳](Recover-Well/injuries-and-behavior/chronic-ankle-instability.md) | [急性踝扭伤处理](Recover-Well/injuries-and-behavior/common-injuries-and-behavior-support.md)、[足部结构与扁平足](Recover-Well/injuries-and-behavior/foot-structure-and-flat-feet.md) |
+| 伤好了多久能回去练？怎么才算"能回去"？ | [伤后重返运动总框架](Recover-Well/recovery-and-pain/return-to-sport-framework.md) | [训练监控与调整工作流](Train-Well/monitoring/training-monitoring-and-adjustment.md)、[睡眠恢复与训练管理](Recover-Well/sleep-and-load/sleep-recovery-and-training-load.md) |
 | 减脂怎么吃才能不掉肌肉？ | [Eat Well](Eat-Well/fundamentals/sports-nutrition-basics.md) | [Eat Well](Eat-Well/weight-management/fat-loss-and-special-populations.md) |
 | 运动前后碳水怎么吃？怎么补水？ | [Eat Well](Eat-Well/fundamentals/sports-nutrition-basics.md) | — |
 | 我该减多少斤？减多快？怎么定目标？ | [Eat Well](Eat-Well/weight-management/fat-loss-and-special-populations.md) | [Eat Well](Eat-Well/fundamentals/sports-nutrition-basics.md) |
@@ -182,6 +198,14 @@
 - **"体测评估"**：主归 初始评估与体测流程（Train Well）；能否开始的筛查看 运动前健康筛查与风险分层，测试数值标准看 ACSM 指南 [126]，结果解读的个体差异看 训练适应生理机制。
 - **"团课设计"**：主归 团课/循环/HIIT 课程设计（Train Well）；心肺剂量看 有氧与心肺训练处方，HIIT 效果证据看 [130][131]，课中安全与补水看 补剂第二梯队（电解质节）。
 - **"青少年与素食营养"**：主归 特殊人群营养补遗（Eat Well）；儿童训练安全看 儿童青少年与长期效应，女性铁看 补剂第二梯队与证据边界、女性全生命周期训练，补剂交互看 药物补剂相互作用。
+- **"体态与姿势"**：主归 体态与姿势管理（Train Well）；姿势-疼痛证据与解剖看 运动解剖基础与训练应用，颈痛处理看 颈痛/颈椎，侧弯边界看 脊柱侧弯与运动，关节松弛与损伤交互看 肩关节不稳与冻结肩、慢性踝关节不稳，不替代疼痛主题。
+- **"脊柱侧弯"**：主归 脊柱侧弯与运动（Recover Well）；确诊与转介是核心边界，训练框架看 训练方案与进阶，疼痛并存看 恢复与疼痛管理，不虚构禁忌清单。
+- **"扁平足"**：主归 足部结构与扁平足（Recover Well）；疼痛路径看 足底筋膜炎，踝反复扭伤看 慢性踝关节不稳，平衡衔接看 老年防跌倒与平衡训练，不按足弓形态处方矫形器。
+- **"颈痛"**：主归 颈痛/颈椎（Recover Well）；姿势因素看 体态与姿势管理，热身与久坐看 活动度渐进改善，红旗转介看 运动前健康筛查与风险分层。
+- **"肩不稳与冻结肩"**：主归 肩关节不稳与冻结肩（Recover Well）；两者方向相反（稳 vs 活动度），肩袖与滑囊鉴别看 常见损伤与行为支持，上肢训练衔接看 训练方案与进阶。
+- **"膝结构损伤"**：主归 膝部结构损伤：半月板与 ACL（Recover Well）；回归放行看 伤后重返运动总框架，力量训练衔接看 训练方案与进阶，慢病并发（OA）看 慢性病与运动处方。
+- **"踝不稳"**：主归 慢性踝关节不稳（Recover Well）；急性处理衔接 PEACE&LOVE，足部结构看 足部结构与扁平足，回归看 伤后重返运动总框架。
+- **"重返运动"**：主归 伤后重返运动总框架（Recover Well）；各损伤具体标准看 踝不稳/膝结构损伤/肩不稳/ITBS/腘绳肌文件，负荷监控看 训练监控与调整工作流，放行职责在医疗/康复团队。
 
 ---
 
@@ -312,6 +336,28 @@
 | [168] | Hubal MJ, et al. Variability in Muscle Size and Strength Gain after Unilateral Resistance Training. Med Sci Sports Exerc, 2005;37(6):964–972（PMID 15976842） | 体测/增肌速率/个体差异 | 题名/PMID 已核验 |
 
 > 说明：第七轮为"训练服务闭环"补齐（动作技术→机制→营养→监控→体测→团课→特殊人群营养），全部网络检索引证式入库；[165][167] 作者/期刊细节未逐条核对，仅登记题名与 PMC 链接供网络复核。主题文件同时复用既有编号 [3][7][15][33][39][45][48][52][61][86][126][127][128][130][131][132][151][157] 等。
+
+### 第八轮新增文献（2026-10-05：P0/P1 缺口 8 项——体态姿势/脊柱侧弯/扁平足/颈痛/肩不稳与冻结肩/膝结构损伤/慢性踝不稳/重返运动框架，网络检索引证式入库，未下载新 PDF）
+
+| 编号 | 文献 | 主题 | 读取状态 |
+|---|---|---|---|
+| [169] | Is Neck Pain Related to Sagittal Head and Neck Posture? A Systematic Review and Meta-Analysis, 2023（PMC9941407） | 体态-疼痛证据 | 题名已核验，作者/期刊细节未核对 |
+| [170] | Therapeutic Exercise for Forward Head Posture in Neck Pain Patients: SR & MA. J Pain Res, 2025（DOI 10.2147/JPR.S614524） | 头前伸治疗性运动 | 题名/DOI 已核验 |
+| [171] | The Human Pelvis: Variation in Structure and Function during Gait（PMC5545133） | 骨盆正常变异 | 题名已核验，作者/期刊细节未核对 |
+| [172] | Negrini S, et al. 2011 SOSORT Guidelines: Orthopaedic and Rehabilitation Treatment of Idiopathic Scoliosis during Growth. Scoliosis, 2012;7:3（PMC3292965） | 脊柱侧弯指南 | 题名已核验 |
+| [173] | What Type of Therapeutic Exercise Is Best for Treating Scoliosis in Adolescents? Cochrane, 2024（CD007837） | 侧弯运动证据 | 题名已核验，作者细节未核对 |
+| [174] | Foot Orthoses for Flexible Flatfeet in Children and Adults: SR & MA. BMC Musculoskelet Disord, 2022（PMC9825043） | 扁平足矫形器 | 题名已核验，作者/期刊细节未核对 |
+| [175] | Children with Generalised Joint Hypermobility and Musculoskeletal Complaints, 2013（PMC3736514） | 关节松弛谱系 | 题名已核验 |
+| [176] | de Zoete RMJ, et al. Comparative Effectiveness of Physical Exercise Interventions for Chronic Non-Specific Neck Pain: NMA of 40 RCTs. BJSM, 2021;55(13):730–742 | 颈痛运动 | 题名/卷期已核验 |
+| [177] | Meta-Analysis of the Dosage of Balance Training on Ankle Function and Dynamic Balance Ability in CAI, 2024（PMC11365157） | 踝不稳平衡剂量 | 题名已核验，作者/期刊细节未核对 |
+| [178] | Kirker K, et al. Manual Therapy and Exercise for Adhesive Capsulitis: SR with MA. J Man Manip Ther, 2023（PMC10566414） | 冻结肩 | 题名已核验，卷期细节未核对 |
+| [179] | When Is It Safe to Return to Sport After ACL Reconstruction? Reviewing the Criteria. Sports Health, 2019（PMC6600576） | ACL 回归标准 | 题名已核验，作者细节未核对 |
+| [180] | A Framework for Clinicians to Improve the Decision-Making Process in Return to Sport. Sports Health, 2022（PMC9008084） | 重返运动框架 | 题名已核验，作者细节未核对 |
+| [181] | Current Clinical Concepts: Nonoperative Management of Shoulder Instability. J Athl Train, 2024;59(3):243–257（PMC10976332） | 肩不稳非手术 | 题名/卷期已核验，作者细节未核对 |
+| [182] | The Formal EU-US Meniscus Rehabilitation 2024 Consensus: ESSKA-AOSSM-AASPT Initiative. Part II（DOI 10.1002/ksa.12689） | 半月板康复共识 | 题名已核验，作者细节未核对 |
+| [183] | Muscle Strength, Muscle Power and Body Composition in College-Aged Young Women and Men with Generalized Joint Hypermobility. PLoS One, 2020（DOI 10.1371/journal.pone.0236266） | 关节松弛肌力 | 题名已核验 |
+
+> 说明：第八轮为 P0/P1 缺口补齐（体态姿势含关节松弛谱系、脊柱侧弯、扁平足、颈痛、肩不稳与冻结肩、膝结构损伤、慢性踝不稳、重返运动框架），全部网络检索引证式入库；[169][171][173][174][177][178][179][180][181][182][183] 作者/期刊细节未逐条核对，仅登记题名与 PMC/DOI 链接供网络复核。主题文件同时复用既有编号 [7][45][49][126][163] 等；P2 证据空白（6.5–7h 睡眠 RCT、助眠补剂、ITBS 精确跑量增幅、DOAC×omega-3 等药物交互、中国儿童高血压硬终点、MBSR 运动表现）维持既有登记，不新增文件。
 
 ---
 
@@ -517,8 +563,23 @@
 166. Buchheit M, Laursen PB. High-Intensity Interval Training, Solutions to the Programming Puzzle. Part I: Cardiopulmonary Emphasis. Sports Med, 2013;43(5):313–338. https://doi.org/10.1007/s40279-013-0029-x；Part II: Anaerobic Energy, Neuromuscular Load and Practical Applications. Sports Med, 2013;43(10):927–954（DOI 10.1007/s40279-013-0066-5 供复核）
 167. Monitoring Training Adaptation and Recovery Status in Athletes Using Heart Rate Variability via Mobile Devices: A Narrative Review, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12787763/（作者/期刊细节未核对）
 168. Hubal MJ, Gordish-Dressman H, Thompson PD, et al. Variability in Muscle Size and Strength Gain after Unilateral Resistance Training. Med Sci Sports Exerc, 2005;37(6):964–972. https://pubmed.ncbi.nlm.nih.gov/15976842/
+169. Is Neck Pain Related to Sagittal Head and Neck Posture?: A Systematic Review and Meta-Analysis, 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC9941407/（作者/期刊细节未核对）
+170. Therapeutic Exercise for Forward Head Posture in Neck Pain Patients: A Systematic Review and Meta-Analysis. J Pain Res, 2025. https://doi.org/10.2147/JPR.S614524
+171. The Human Pelvis: Variation in Structure and Function during Gait. https://pmc.ncbi.nlm.nih.gov/articles/PMC5545133/（作者/期刊细节未核对）
+172. Negrini S, Aulisa AG, Aulisa L, et al. 2011 SOSORT Guidelines: Orthopaedic and Rehabilitation Treatment of Idiopathic Scoliosis during Growth. Scoliosis, 2012;7:3. https://pmc.ncbi.nlm.nih.gov/articles/PMC3292965/
+173. What Type of Therapeutic Exercise Is Best for Treating Scoliosis in Adolescents? Cochrane Database Syst Rev, 2024. https://www.cochrane.org/CD007837/BACK_what-type-therapeutic-exercise-best-treating-scoliosis-adolescents（作者细节未核对）
+174. Foot Orthoses for Flexible Flatfeet in Children and Adults: A Systematic Review and Meta-Analysis of Patient-Reported Outcomes. BMC Musculoskelet Disord, 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC9825043/（作者/卷期细节未核对）
+175. Children with Generalised Joint Hypermobility and Musculoskeletal Complaints: State of the Art on Diagnostics, Clinical Characteristics, and Treatment, 2013. https://pmc.ncbi.nlm.nih.gov/articles/PMC3736514/
+176. de Zoete RMJ, et al. Comparative Effectiveness of Physical Exercise Interventions for Chronic Non-Specific Neck Pain: A Systematic Review with Network Meta-Analysis of 40 Randomised Controlled Trials. Br J Sports Med, 2021;55(13):730–742. https://bjsm.bmj.com/content/55/13/730
+177. Meta-Analysis of the Dosage of Balance Training on Ankle Function and Dynamic Balance Ability in Patients with Chronic Ankle Instability, 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC11365157/（作者/期刊细节未核对）
+178. Kirker K, O'Connell M, Bradley L, et al. Manual Therapy and Exercise for Adhesive Capsulitis: A Systematic Review with Meta-Analysis. J Man Manip Ther, 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC10566414/（卷期细节未核对）
+179. When Is It Safe to Return to Sport After ACL Reconstruction? Reviewing the Criteria. Sports Health, 2019. https://pmc.ncbi.nlm.nih.gov/articles/PMC6600576/（作者细节未核对）
+180. A Framework for Clinicians to Improve the Decision-Making Process in Return to Sport. Sports Health, 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC9008084/（作者细节未核对）
+181. Current Clinical Concepts: Nonoperative Management of Shoulder Instability. J Athl Train, 2024;59(3):243–257. https://pmc.ncbi.nlm.nih.gov/articles/PMC10976332/（作者细节未核对）
+182. The Formal EU-US Meniscus Rehabilitation 2024 Consensus: An ESSKA-AOSSM-AASPT Initiative. Part II—Prevention, Non-Operative Treatment and Return to Sport. Knee Surg Sports Traumatol Arthrosc, 2025. https://doi.org/10.1002/ksa.12689（作者细节未核对）
+183. Muscle Strength, Muscle Power and Body Composition in College-Aged Young Women and Men with Generalized Joint Hypermobility. PLoS One, 2020;15(7):e0236266. https://doi.org/10.1371/journal.pone.0236266
 
-> 注：新编号 [27]–[122] 按文件分配（07: 27–34；08: 36–44；09: 49–57；10: 61–66；11: 67–74；12: 75–82；13: 84–89；14: 90–96；15: 97–103；16: 104–109；17: 110–113；18: 116–122）；[35][45]–[48][58]–[60][83][114][115] 原为预留编号，已于第四轮（19 运动解剖、20 执教技术）分配使用；[123][124] 为第四轮新分配编号，[125]–[150] 为第五轮（2026-10-05，全补充 11 个缺口主题）分配，[151]–[158] 为第六轮（2026-10-05，补剂第二梯队）分配，[159]–[168] 为第七轮（2026-10-05，训练服务闭环 7 项）分配，后续补充文献从 [169] 起分配。
+> 注：新编号 [27]–[122] 按文件分配（07: 27–34；08: 36–44；09: 49–57；10: 61–66；11: 67–74；12: 75–82；13: 84–89；14: 90–96；15: 97–103；16: 104–109；17: 110–113；18: 116–122）；[35][45]–[48][58]–[60][83][114][115] 原为预留编号，已于第四轮（19 运动解剖、20 执教技术）分配使用；[123][124] 为第四轮新分配编号，[125]–[150] 为第五轮（2026-10-05，全补充 11 个缺口主题）分配，[151]–[158] 为第六轮（2026-10-05，补剂第二梯队）分配，[159]–[168] 为第七轮（2026-10-05，训练服务闭环 7 项）分配，[169]–[183] 为第八轮（2026-10-05，P0/P1 缺口 8 项）分配，后续补充文献从 [184] 起分配。
 
 > 引用规则：主题文件引用文献编号或文献名称，编号与上表一致；优先提供题名、作者／机构、年份、DOI 或公开链接，便于网络检索，不要求具体页码。仅核对摘要、译本、间接引述或尚未核实的结论仍须明确标注。
 

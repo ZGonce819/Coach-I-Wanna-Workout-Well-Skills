@@ -29,6 +29,13 @@ description: 筛查运动相关疼痛与恢复问题，识别需要医疗处理�
 - 回归跑量：[ITBS回归跑量与负荷证据](../knowledge-base/Recover-Well/injuries-and-behavior/itbs-running-return-and-load-evidence.md)；正念练习：[MBSR与正念元素](../knowledge-base/Recover-Well/injuries-and-behavior/mbsr-and-mindfulness-elements.md)。
 - 训练开始前的筛查与分层（能否开始/强度/转介阈值）：[运动前健康筛查与风险分层](../knowledge-base/Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md)。
 - 训练后恢复手段（泡沫轴/冷水浴/拉伸/按摩证据）：[恢复手段证据](../knowledge-base/Recover-Well/recovery-and-pain/recovery-methods-evidence.md)。
+- 脖子疼/颈椎不适（落枕、久坐颈痛、红旗转介）：[颈痛/颈椎](../knowledge-base/Recover-Well/injuries-and-behavior/neck-pain-and-cervical-spine.md)。
+- 肩反复脱位/不稳与冻结肩（方向相反，不混处理）：[肩关节不稳与冻结肩](../knowledge-base/Recover-Well/injuries-and-behavior/shoulder-instability-and-frozen-shoulder.md)。
+- 半月板损伤/ACL 术后（保守优先与回归标准）：[膝部结构损伤：半月板与 ACL](../knowledge-base/Recover-Well/injuries-and-behavior/knee-structural-injuries.md)。
+- 反复崴脚/脚踝不稳（识别与平衡训练剂量）：[慢性踝关节不稳](../knowledge-base/Recover-Well/injuries-and-behavior/chronic-ankle-instability.md)。
+- 扁平足/足弓问题（正常变异与矫形器转介）：[足部结构与扁平足](../knowledge-base/Recover-Well/injuries-and-behavior/foot-structure-and-flat-feet.md)。
+- 脊柱侧弯与运动（Cobb 角确诊边界与训练安全）：[脊柱侧弯与运动](../knowledge-base/Recover-Well/screening-and-injury-spectrum/scoliosis-and-exercise.md)。
+- 伤后"多久能回去练"的通用阶段框架：[伤后重返运动总框架](../knowledge-base/Recover-Well/recovery-and-pain/return-to-sport-framework.md)。
 
 ## 判断与安排
 

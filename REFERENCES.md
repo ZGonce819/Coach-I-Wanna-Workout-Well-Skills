@@ -123,6 +123,26 @@
 84. *Monitoring Training Adaptation and Recovery Status in Athletes Using Heart Rate Variability via Mobile Devices: A Narrative Review*, 2025. PMC: [12787763](https://pmc.ncbi.nlm.nih.gov/articles/PMC12787763/)（作者/期刊细节未核对）.
 85. Hubal MJ, et al. *Variability in Muscle Size and Strength Gain after Unilateral Resistance Training*. Medicine & Science in Sports & Exercise, 2005. PMID: [15976842](https://pubmed.ncbi.nlm.nih.gov/15976842/).
 
+## 第八轮：P0/P1 缺口（体态姿势/脊柱侧弯/扁平足/颈痛/肩不稳与冻结肩/膝结构损伤/慢性踝不稳/重返运动框架）
+
+> 2026-10-05 补齐用户缺口分析 P0 4 项 + P1 5 项（关节松弛谱系并入体态专题）：新增 8 份主题文件；编号与知识库总表 [169]–[183] 对应，网络检索引证式入库（未下载新 PDF）；P2 证据空白维持既有登记，不新增文件。
+
+86. *Is Neck Pain Related to Sagittal Head and Neck Posture?: A Systematic Review and Meta-Analysis*, 2023. PMC: [9941407](https://pmc.ncbi.nlm.nih.gov/articles/PMC9941407/)（作者/期刊细节未核对）.
+87. *Therapeutic Exercise for Forward Head Posture in Neck Pain Patients: A Systematic Review and Meta-Analysis*. Journal of Pain Research, 2025. DOI: [10.2147/JPR.S614524](https://doi.org/10.2147/JPR.S614524).
+88. *The Human Pelvis: Variation in Structure and Function during Gait*. PMC: [5545133](https://pmc.ncbi.nlm.nih.gov/articles/PMC5545133/)（作者/期刊细节未核对）.
+89. Negrini S, et al. *2011 SOSORT Guidelines: Orthopaedic and Rehabilitation Treatment of Idiopathic Scoliosis during Growth*. Scoliosis, 2012. PMC: [3292965](https://pmc.ncbi.nlm.nih.gov/articles/PMC3292965/).
+90. *What Type of Therapeutic Exercise Is Best for Treating Scoliosis in Adolescents?* Cochrane Database of Systematic Reviews, 2024. [CD007837](https://www.cochrane.org/CD007837/BACK_what-type-therapeutic-exercise-best-treating-scoliosis-adolescents)（作者细节未核对）.
+91. *Foot Orthoses for Flexible Flatfeet in Children and Adults: A Systematic Review and Meta-Analysis of Patient-Reported Outcomes*. BMC Musculoskeletal Disorders, 2022. PMC: [9825043](https://pmc.ncbi.nlm.nih.gov/articles/PMC9825043/)（作者/卷期细节未核对）.
+92. *Children with Generalised Joint Hypermobility and Musculoskeletal Complaints: State of the Art on Diagnostics, Clinical Characteristics, and Treatment*, 2013. PMC: [3736514](https://pmc.ncbi.nlm.nih.gov/articles/PMC3736514/).
+93. de Zoete RMJ, et al. *Comparative Effectiveness of Physical Exercise Interventions for Chronic Non-Specific Neck Pain: A Systematic Review with Network Meta-Analysis of 40 Randomised Controlled Trials*. British Journal of Sports Medicine, 2021. DOI: [10.1136/bjsports-2020-102664](https://bjsm.bmj.com/content/55/13/730).
+94. *Meta-Analysis of the Dosage of Balance Training on Ankle Function and Dynamic Balance Ability in Patients with Chronic Ankle Instability*, 2024. PMC: [11365157](https://pmc.ncbi.nlm.nih.gov/articles/PMC11365157/)（作者/期刊细节未核对）.
+95. Kirker K, et al. *Manual Therapy and Exercise for Adhesive Capsulitis: A Systematic Review with Meta-Analysis*. Journal of Manual & Manipulative Therapy, 2023. PMC: [10566414](https://pmc.ncbi.nlm.nih.gov/articles/PMC10566414/)（卷期细节未核对）.
+96. *When Is It Safe to Return to Sport After ACL Reconstruction? Reviewing the Criteria*. Sports Health, 2019. PMC: [6600576](https://pmc.ncbi.nlm.nih.gov/articles/PMC6600576/)（作者细节未核对）.
+97. *A Framework for Clinicians to Improve the Decision-Making Process in Return to Sport*. Sports Health, 2022. PMC: [9008084](https://pmc.ncbi.nlm.nih.gov/articles/PMC9008084/)（作者细节未核对）.
+98. *Current Clinical Concepts: Nonoperative Management of Shoulder Instability*. Journal of Athletic Training, 2024. PMC: [10976332](https://pmc.ncbi.nlm.nih.gov/articles/PMC10976332/)（作者细节未核对）.
+99. *The Formal EU-US Meniscus Rehabilitation 2024 Consensus: An ESSKA-AOSSM-AASPT Initiative. Part II—Prevention, Non-Operative Treatment and Return to Sport*. Knee Surgery, Sports Traumatology, Arthroscopy, 2025. DOI: [10.1002/ksa.12689](https://doi.org/10.1002/ksa.12689)（作者细节未核对）.
+100. *Muscle Strength, Muscle Power and Body Composition in College-Aged Young Women and Men with Generalized Joint Hypermobility*. PLOS ONE, 2020. DOI: [10.1371/journal.pone.0236266](https://doi.org/10.1371/journal.pone.0236266).
+
 ## 引用与安全提示
 
 - 本项目优先使用共识声明、临床指南、系统综述和 Meta 分析；单项研究只用于补充机制或具体问题。

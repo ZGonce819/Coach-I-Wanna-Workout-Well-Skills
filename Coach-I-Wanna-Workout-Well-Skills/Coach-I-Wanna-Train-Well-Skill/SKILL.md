@@ -35,6 +35,7 @@ description: 制定和调整抗阻训练计划，处理每周排期、动作替�
 - 怎么判断有效果、何时加量/减量、RPE/RIR/HRV 怎么用：[训练监控与调整工作流](../knowledge-base/Train-Well/monitoring/training-monitoring-and-adjustment.md)。
 - 第一次建档/体测项目与复测：[初始评估与体测流程](../knowledge-base/Train-Well/assessment/initial-assessment-and-testing.md)。
 - 团课/循环/HIIT 课程设计：[团课/循环/HIIT 课程设计](../knowledge-base/Train-Well/group-training/group-class-and-circuit-design.md)。
+- 体态标签（骨盆前倾/圆肩/头前伸/关节松）要不要矫正：[体态与姿势管理](../knowledge-base/Train-Well/posture/posture-and-alignment-management.md)。
 - 热身、睡眠、饮食或疼痛只有在影响计划时才按索引补读对应主题。
 
 ## 制定计划
