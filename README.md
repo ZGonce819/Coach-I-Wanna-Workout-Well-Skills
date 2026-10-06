@@ -94,7 +94,7 @@
 
 ## 知识库与证据
 
-[导读与主题索引](knowledge-base/topic-index.md) 将典型问题映射到主题文件。当前知识库包含导读、五十六份主题指南及一份[关键处方原文核验报告](knowledge-base/prescription-source-check.md)，主题分属五个领域。
+[导读与主题索引](knowledge-base/topic-index.md) 将典型问题映射到主题文件。当前知识库包含导读、五十七份主题指南及一份[关键处方原文核验报告](knowledge-base/prescription-source-check.md)，主题分属五个领域。
 
 默认读取一至三份与当前问题直接相关的主题；安全筛查需要时补读。每次结合适用人群、决策规则、剂量、例外与证据限制，不把群体平均、机制推断或经验策略当成个体保证。
 

@@ -21,6 +21,7 @@ description: 制定和调整增肌、减脂与维持体重的饮食安排，计�
 - BCAA/碳酸氢钠/甜菜根/瓜氨酸/HMB/电解质/铁 等第二梯队补剂：[补剂第二梯队与证据边界](../knowledge-base/Eat-Well/supplements-and-activity/second-tier-supplement-evidence.md)。
 - 增肌期盈余与追踪：[增肌期营养实操](../knowledge-base/Eat-Well/muscle-gain/muscle-gain-nutrition-practice.md)；青少年或素食/纯素训练者：[特殊人群营养补遗：青少年与素食者](../knowledge-base/Eat-Well/special-populations/special-population-nutrition.md)。
 - 有相关用药的补剂问题：[药物补剂相互作用](../knowledge-base/Eat-Well/supplements-and-activity/drug-supplement-interactions.md)；维D治疗剂量或更新交互证据：[维D剂量与药物交互补遗](../knowledge-base/Eat-Well/supplements-and-activity/vitamin-d-dosing-and-drug-interactions.md)。
+- 常见食物每 100g 热量/蛋白/碳水/脂肪参考值、份量换算与外食估算、营养成分表阅读：[食物营养含量速查](../knowledge-base/Eat-Well/fundamentals/food-nutrition-content-quick-reference.md)。
 
 ## 决策与计算
 

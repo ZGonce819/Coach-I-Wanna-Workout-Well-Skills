@@ -170,6 +170,13 @@
 121. *Bone Health in Athletes: The Role of Exercise, Nutrition, and Hormones*. Sports Health, 2017. PMC: [5349390](https://pmc.ncbi.nlm.nih.gov/articles/PMC5349390/)（作者细节未核对）.
 122. *Identification of Predictive Risk Factors for the Development of a Stress Fracture within 6 Months in Highly Trained Female Long-Distance Runners: A Prospective Cohort Study*, 2025. PMC: [12789398](https://pmc.ncbi.nlm.nih.gov/articles/PMC12789398/)（作者/期刊细节未核对）.
 
+## 第十轮：食物营养含量速查（常见食物参考值/份量换算/外食估算/标签阅读）
+
+> 2026-10-06 按用户"尽量补全"补齐食物营养含量主题：新增 1 份主题文件（常见食物每 100g 热量/蛋白/碳水/脂肪参考值、份量换算、外食估算、营养标签阅读）；编号与知识库总表 [206][207] 对应，网络检索引证式入库（未下载新 PDF）；数值为参考近似值，以包装标签与权威数据库为准。
+
+123. 杨月欣主编. *中国食物成分表（标准版第6版）* 第1册（2018）/第2册（2019）. 北京大学医学出版社；中国疾病预防控制中心营养与健康所食物营养成分查询平台（在线数据库，营养素按每 100g 可食部）. https://nlc.chinanutri.cn/
+124. U.S. Department of Agriculture, Agricultural Research Service. *FoodData Central*（在线食物成分数据库）. https://fdc.nal.usda.gov/
+
 ## 引用与安全提示
 
 - 本项目优先使用共识声明、临床指南、系统综述和 Meta 分析；单项研究只用于补充机制或具体问题。
