@@ -36,6 +36,7 @@ description: 筛查运动相关疼痛与恢复问题，识别需要医疗处理�
 - 扁平足/足弓问题（正常变异与矫形器转介）：[足部结构与扁平足](../knowledge-base/Recover-Well/injuries-and-behavior/foot-structure-and-flat-feet.md)。
 - 脊柱侧弯与运动（Cobb 角确诊边界与训练安全）：[脊柱侧弯与运动](../knowledge-base/Recover-Well/screening-and-injury-spectrum/scoliosis-and-exercise.md)。
 - 伤后"多久能回去练"的通用阶段框架：[伤后重返运动总框架](../knowledge-base/Recover-Well/recovery-and-pain/return-to-sport-framework.md)。
+- 身材焦虑/进食障碍信号/LEA 警示与转介边界：[身材焦虑与进食障碍：教练边界](../knowledge-base/Recover-Well/injuries-and-behavior/body-image-and-eating-disorder-boundaries.md)。
 
 ## 判断与安排
 

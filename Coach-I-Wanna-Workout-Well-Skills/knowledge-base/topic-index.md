@@ -7,10 +7,12 @@
 > 补齐轮（2026-10）：三轮补齐——第一轮 07–10（文献 [27]–[66]）、第二轮 11–14（文献 [67]–[96]）、第三轮新增四份主题文件（文献 [97]–[122]）；网络检索权威来源，书目与 URL 见第八节总表。
 > 第四轮（2026-10-05）：新增运动解剖与执教技术两份主题文件，补齐解剖基础与执教教学文献（文献 [35][45]–[48][58]–[60][83][114][115][123][124]）；三份开放获取 PDF 已入 references/coaching/。
 > 第五轮（2026-10-05，全补充）：按缺口分析补齐 11 个缺失主题——高优先 4（运动前筛查、有氧处方、女性全生命周期、慢病运动处方）、中优先 3（恢复手段证据、活动度渐进改善、运动坚持与行为改变）、低优先 4（居家/自重训练、高级抗阻技术、跑步专项、防跌倒与平衡）；新增文献 [125]–[150]，引用式入库、未下载新 PDF。
+> 第八轮（2026-10-05，P0/P1 缺口）：新增 8 份主题文件（体态姿势含关节松弛谱系、脊柱侧弯、扁平足、颈痛、肩不稳与冻结肩、膝结构损伤、慢性踝不稳、重返运动框架），文献 [169]–[183]。
+> 第九轮（2026-10-06，女性专题深化）：按用户"继续补充"补齐 9 项女性专题（塑形审美、经期专题深化、盆底健康、身材焦虑与进食障碍边界、产后回归实操、围绝经期骨健康、运动内衣、备孕与运动、女跑者专项）；新增文献 [184]–[205]（22 条），网络检索引证式入库、未下载新 PDF。
 
 ---
 
-## 一、知识库结构（33 份 Markdown 文件；原始 PDF 与转换结果另存于 references/ 与 output/）
+## 一、知识库结构（58 份 Markdown 文件；原始 PDF 与转换结果另存于 references/ 与 output/）
 
 | 文件 | 领域 | 主要回答 | 覆盖文献 |
 |---|---|---|--- |
@@ -28,6 +30,7 @@
 | [儿童青少年与长期效应](Train-Well/youth-and-long-term/youth-and-long-term-effects.md) | Train Well + 长期健康 | 儿童青少年抗阻处方、力量训练对骨密度/血压的长期效应 | [61]–[66] |
 | [睡眠证据缺口与助眠补剂](Recover-Well/sleep-evidence-gaps/sleep-evidence-gaps-and-sleep-aids.md) | Recover Well | 6.5–7h 灰色睡眠区证据缺口分析、助眠补剂证据评估 | [67]–[74] |
 | [损伤谱补充与心理筛查](Recover-Well/screening-and-injury-spectrum/injury-spectrum-and-psychological-screening.md) | Recover Well | 网球肘/高尔夫球肘/踝扭伤/髌腱病；PHQ-9/GAD-7 教练使用边界 | [75]–[82] |
+| [身材焦虑与进食障碍：教练边界](Recover-Well/injuries-and-behavior/body-image-and-eating-disorder-boundaries.md) | Recover Well | 身体意象风险识别/LEA-RED-S 警示/转介边界/功能向沟通 | [202][203][186][187] |
 | [药物补剂相互作用](Eat-Well/supplements-and-activity/drug-supplement-interactions.md) | Eat Well | 慢病药物 × 运动补剂交互风险提示清单 | [84]–[89] |
 | [中国儿童实证与等长处方](Train-Well/youth-and-long-term/china-youth-evidence-and-isometric-prescriptions.md) | Train Well + 长期健康 | 中国儿童运动干预实证、等长抗阻降压处方细节 | [90]–[96] |
 | [MBSR与正念元素](Recover-Well/injuries-and-behavior/mbsr-and-mindfulness-elements.md) | Recover Well | MBSR 完整 8 周课程结构、教练可操作正念元素、疗效证据 | [97]–[103] |
@@ -39,6 +42,13 @@
 | [运动前健康筛查与风险分层](Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md) | Recover Well | ACSM 三因素决策/PAR-Q+ 使用/强度分层/转介阈值 | [125][126][127] |
 | [有氧与心肺训练处方](Train-Well/cardio/aerobic-and-conditioning-programming.md) | Train Well | 有氧 FITT/心率区间/HIIT vs 匀速/渐进原则 | [128][129][130][131] |
 | [女性全生命周期训练](Train-Well/women/women-across-lifespan.md) | Train Well | 经期表现/孕期运动边界/产后回归/围绝经期 | [132][133] |
+| [女性塑形与体型审美](Train-Well/women/female-body-shaping-and-aesthetics.md) | Train Well | 局部减脂认知/增肌预期管理/臀肩背塑形设计/审美焦虑正常化 | [184][185][168] |
+| [经期专题：周期、激素与训练](Train-Well/women/menstrual-cycle-and-training.md) | Train Well | 痛经运动/周期同步训练/避孕药×力量/女性ACL风险/月经消失转介 | [186]–[191][133] |
+| [盆底健康与训练](Train-Well/women/pelvic-floor-health-and-training.md) | Train Well | 漏尿分诊/PFMT 剂量/跑跳分级回归/转介信号 | [192][193][132] |
+| [产后回归实操](Train-Well/women/postpartum-return-to-training.md) | Train Well | 腹直肌分离评估与渐进/剖宫产会阴时间线/跑跳门槛 | [194][195][192][193] |
+| [围绝经期骨健康整合](Train-Well/women/perimenopause-bone-health.md) | Train Well | 力量剂量/钙维D联合/HRT 边界/骨质疏松安全 | [196][197] |
+| [运动内衣与乳房健康](Train-Well/women/sports-bra-and-breast-health.md) | Train Well | 支撑等级匹配/跑步乳房痛/练胸≠乳房形态/转介 | [198][199][45] |
+| [备孕与运动](Train-Well/women/preconception-and-exercise.md) | Train Well | 运动与生育力/孕前体能储备/能量与月经/转介 | [200][201][186] |
 | [慢病运动处方](Train-Well/chronic-conditions/chronic-conditions-and-exercise.md) | Train Well | 2型糖尿病/高血压/骨质疏松/心血管疾病运动边界 | [134][135][136][137] |
 | [恢复手段证据](Recover-Well/recovery-and-pain/recovery-methods-evidence.md) | Recover Well | 泡沫轴/冷水浴/拉伸/按摩/主动恢复的证据边界 | [138][139][140] |
 | [活动度渐进改善](Flex-Well/mobility/mobility-progression.md) | Flex Well | 力量训练改善活动度/踝髋肩渐进方案/复测 | [141][138][7][8] |
@@ -46,6 +56,7 @@
 | [居家/自重/弹力带训练](Train-Well/home-and-equipment/home-and-bodyweight-training.md) | Train Well | 低负荷增肌/弹力带等效/自重渐进/居家计划 | [144][145][2] |
 | [高级抗阻技术](Train-Well/advanced-techniques/advanced-resistance-techniques.md) | Train Well | 超级组/渐降组/簇组/暂停休息/BFR 证据边界 | [146][147][148] |
 | [跑步与耐力专项训练](Train-Well/running/running-and-endurance-programming.md) | Train Well | 跑者起步/跑量渐进/防伤力量/强度结构 | [149][128][104]–[109] |
+| [女跑者专项](Train-Well/running/female-runner-specific.md) | Train Well | 应力性骨折风险与识别/月经与骨健康/铁缺乏边界 | [204][205][157][186] |
 | [老年防跌倒与平衡训练](Train-Well/falls-prevention/falls-prevention-and-balance.md) | Train Well | 平衡训练/跌倒风险评估/老年功能训练 | [150][137][126] |
 | [核心动作技术与进退阶](Train-Well/technique/core-lift-technique-library.md) | Train Well | 深蹲/硬拉/卧推/推举/引体/划船/臀推/弓步 技术要点与进退阶 | [159][39][45][48] |
 | [训练适应生理机制](Know-Well/physiology/training-adaptation-physiology.md) | Know Well | 力量/肥大/耐力的适应机制、停训、个体差异 | [160][161][39][126] |
@@ -67,9 +78,9 @@
 
 ## 二、本轮校验记录（2026-10-04）
 
-- 文件数：49 份 Markdown（本导读 1 份、主题文件 47 份、[关键处方原文核验](prescription-source-check.md) 1 份）；五个领域目录均已建立，主题文件只保留一个主要归属；主题文件位于五个领域的主题子目录，新增文件不使用序号。
+- 文件数：58 份 Markdown（本导读 1 份、主题文件 56 份、[关键处方原文核验](prescription-source-check.md) 1 份）；五个领域目录均已建立，主题文件只保留一个主要归属；主题文件位于五个领域的主题子目录，新增文件不使用序号。
 - 原始来源：`references/` 下 27 个 PDF，`output/` 下转换结果保留原样；其中两份蛋白立场声明 PDF 内容重复，`2026年中国居民膳食指南` 文件名与版权页核对后实际为 2022 版。
-- 编号与引用：主题文件使用的文献编号均能在本导读第八节找到；[35][45]–[48][58]–[60][83][114][115][123][124] 已于第四轮（2026-10-05）分配给运动解剖与执教技术文献，[125]–[150] 于第五轮（2026-10-05，全补充）分配给 11 个缺口主题，[151]–[158] 于第六轮（2026-10-05，补剂第二梯队）分配，[159]–[168] 于第七轮（2026-10-05，训练服务闭环）分配，[169]–[183] 于第八轮（2026-10-05，P0/P1 缺口）分配。没有发现主题文件引用未列入总表的编号。
+- 编号与引用：主题文件使用的文献编号均能在本导读第八节找到；[35][45]–[48][58]–[60][83][114][115][123][124] 已于第四轮（2026-10-05）分配给运动解剖与执教技术文献，[125]–[150] 于第五轮（2026-10-05，全补充）分配给 11 个缺口主题，[151]–[158] 于第六轮（2026-10-05，补剂第二梯队）分配，[159]–[168] 于第七轮（2026-10-05，训练服务闭环）分配，[169]–[183] 于第八轮（2026-10-05，P0/P1 缺口）分配，[184]–[205] 于第九轮（2026-10-06，女性专题深化）分配。没有发现主题文件引用未列入总表的编号。
 - 链接：知识库内本地 Markdown 链接已逐一解析，当前 0 个断链；跨领域内容通过相对链接回到唯一主文件，未创建重复副本。
 - 数据核对口径：文本整理与原文处方核验分开记录。2026-10-04 首轮关键处方核验检查十五份本地来源的选定条目，范围、来源文献和修正见[核验报告](prescription-source-check.md)。ACSM 两份仅完成译本与英文摘要核对；其余未核验条目不得因文件存在或全文已读取而视为原文审校通过。
 
@@ -147,6 +158,16 @@
 | 第一次建档，体测测什么？多久复测？结果怎么解读？ | [初始评估与体测流程](Train-Well/assessment/initial-assessment-and-testing.md) | [运动前健康筛查与风险分层](Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md)、[训练监控与调整工作流](Train-Well/monitoring/training-monitoring-and-adjustment.md) |
 | 有氧练多久、什么强度？HIIT 还是匀速？ | [有氧与心肺训练处方](Train-Well/cardio/aerobic-and-conditioning-programming.md) | [训练方案与进阶](Train-Well/training/training-programming-and-progression.md) |
 | 月经期/孕期/产后能不能练？怎么安排？ | [女性全生命周期训练](Train-Well/women/women-across-lifespan.md) | [运动前健康筛查与风险分层](Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md)、[Know Well](Know-Well/hypertrophy/hypertrophy-mechanisms-and-training-principles.md) |
+| 想塑形/怕练壮/局部减脂存不存在/练臀粗腿？ | [女性塑形与体型审美](Train-Well/women/female-body-shaping-and-aesthetics.md) | [肌肥大机制与训练原理](Know-Well/hypertrophy/hypertrophy-mechanisms-and-training-principles.md)、[身材焦虑与进食障碍边界](Recover-Well/injuries-and-behavior/body-image-and-eating-disorder-boundaries.md) |
+| 痛经能练吗？月经期怎么安排？避孕药影响训练吗？月经不来了怎么办？ | [经期专题：周期、激素与训练](Train-Well/women/menstrual-cycle-and-training.md) | [女性塑形与体型审美](Train-Well/women/female-body-shaping-and-aesthetics.md)、[身材焦虑与进食障碍边界](Recover-Well/injuries-and-behavior/body-image-and-eating-disorder-boundaries.md) |
+| 为什么女生 ACL 更容易受伤？怎么预防？ | [经期专题：周期、激素与训练](Train-Well/women/menstrual-cycle-and-training.md) | [膝部结构损伤：半月板与 ACL](Recover-Well/injuries-and-behavior/knee-structural-injuries.md)、[伤后重返运动总框架](Recover-Well/recovery-and-pain/return-to-sport-framework.md) |
+| 跑跳漏尿怎么办？凯格尔怎么做？产后能跑跳吗？ | [盆底健康与训练](Train-Well/women/pelvic-floor-health-and-training.md) | [产后回归实操](Train-Well/women/postpartum-return-to-training.md)、[女性全生命周期训练](Train-Well/women/women-across-lifespan.md) |
+| 产后多久能练？腹直肌分离怎么处理？剖宫产怎么恢复？ | [产后回归实操](Train-Well/women/postpartum-return-to-training.md) | [盆底健康与训练](Train-Well/women/pelvic-floor-health-and-training.md)、[女性全生命周期训练](Train-Well/women/women-across-lifespan.md) |
+| 45+ 女性能练力量吗？钙/维D/激素治疗和运动怎么搭？ | [围绝经期骨健康整合](Train-Well/women/perimenopause-bone-health.md) | [慢病运动处方](Train-Well/chronic-conditions/chronic-conditions-and-exercise.md)、[老年防跌倒与平衡训练](Train-Well/falls-prevention/falls-prevention-and-balance.md) |
+| 跑步胸痛/内衣怎么选？练胸能让胸变大吗？ | [运动内衣与乳房健康](Train-Well/women/sports-bra-and-breast-health.md) | [女性塑形与体型审美](Train-Well/women/female-body-shaping-and-aesthetics.md)、[运动解剖基础与训练应用](Know-Well/anatomy/sports-anatomy-foundations.md) |
+| 备孕还能练吗？运动影响生育力吗？孕前怎么储备体能？ | [备孕与运动](Train-Well/women/preconception-and-exercise.md) | [经期专题：周期、激素与训练](Train-Well/women/menstrual-cycle-and-training.md)、[女性全生命周期训练](Train-Well/women/women-across-lifespan.md) |
+| 女跑者容易应力性骨折/缺铁吗？怎么预防？ | [女跑者专项](Train-Well/running/female-runner-specific.md) | [经期专题：周期、激素与训练](Train-Well/women/menstrual-cycle-and-training.md)、[补剂第二梯队与证据边界](Eat-Well/supplements-and-activity/second-tier-supplement-evidence.md)、[跑步与耐力专项训练](Train-Well/running/running-and-endurance-programming.md) |
+| 会员总说"太胖/必须瘦/不想壮"，会不会有问题？ | [身材焦虑与进食障碍：教练边界](Recover-Well/injuries-and-behavior/body-image-and-eating-disorder-boundaries.md) | [女性塑形与体型审美](Train-Well/women/female-body-shaping-and-aesthetics.md)、[经期专题：周期、激素与训练](Train-Well/women/menstrual-cycle-and-training.md)、[损伤谱补充与心理筛查](Recover-Well/screening-and-injury-spectrum/injury-spectrum-and-psychological-screening.md) |
 | 我有糖尿病/高血压/骨松/心脏病，运动怎么做？ | [慢病运动处方](Train-Well/chronic-conditions/chronic-conditions-and-exercise.md) | [运动前健康筛查与风险分层](Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md)、[Eat Well](Eat-Well/weight-management/fat-loss-and-special-populations.md) |
 | 练完要不要拉伸/泡沫轴/泡冰水/按摩？哪个有用？ | [恢复手段证据](Recover-Well/recovery-and-pain/recovery-methods-evidence.md) | [恢复与疼痛管理](Recover-Well/recovery-and-pain/recovery-and-pain-management.md)、[睡眠恢复与训练管理](Recover-Well/sleep-and-load/sleep-recovery-and-training-load.md) |
 | 深蹲蹲不下去/髋紧/肩活动度差，怎么长期改善？ | [活动度渐进改善](Flex-Well/mobility/mobility-progression.md) | [热身与柔韧性](Flex-Well/mobility/warm-up-and-flexibility.md) |
@@ -206,6 +227,15 @@
 - **"膝结构损伤"**：主归 膝部结构损伤：半月板与 ACL（Recover Well）；回归放行看 伤后重返运动总框架，力量训练衔接看 训练方案与进阶，慢病并发（OA）看 慢性病与运动处方。
 - **"踝不稳"**：主归 慢性踝关节不稳（Recover Well）；急性处理衔接 PEACE&LOVE，足部结构看 足部结构与扁平足，回归看 伤后重返运动总框架。
 - **"重返运动"**：主归 伤后重返运动总框架（Recover Well）；各损伤具体标准看 踝不稳/膝结构损伤/肩不稳/ITBS/腘绳肌文件，负荷监控看 训练监控与调整工作流，放行职责在医疗/康复团队。
+- **"女性塑形与审美"**：主归 女性塑形与体型审美（Train Well）；增肌机制与预期看 肌肥大机制与训练原理、训练适应生理机制，体态因素看 体态与姿势管理，焦虑与进食障碍边界看 身材焦虑与进食障碍（Recover Well）。
+- **"经期与激素"**：主归 经期专题：周期、激素与训练（Train Well）；孕产边界看 女性全生命周期训练、备孕与运动、产后回归实操，LEA/进食障碍看 身材焦虑与进食障碍（Recover Well），ACL 回归看 膝部结构损伤，补铁边界看 女跑者专项。
+- **"盆底健康"**：主归 盆底健康与训练（Train Well）；产后时间线看 产后回归实操，孕期边界看 女性全生命周期训练，症状持续转介盆底康复（医疗职责）。
+- **"产后回归"**：主归 产后回归实操（Train Well）；盆底训练看 盆底健康与训练，孕前准备看 备孕与运动，回归跑量衔接看 跑步与耐力专项训练。
+- **"围绝经期骨健康"**：主归 围绝经期骨健康整合（Train Well）；骨松处方边界看 慢病运动处方，防跌倒看 老年防跌倒与平衡训练，钙/维D 补剂看 营养补剂与日常活动。
+- **"运动内衣与乳房"**：主归 运动内衣与乳房健康（Train Well）；胸肌训练与解剖看 运动解剖基础与训练应用，塑形沟通看 女性塑形与体型审美。
+- **"备孕运动"**：主归 备孕与运动（Train Well）；月经与 RED-S 看 经期专题、身材焦虑与进食障碍（Recover Well），孕期衔接看 女性全生命周期训练。
+- **"女跑者专项"**：主归 女跑者专项（Train Well）；跑量结构看 跑步与耐力专项训练，月经/骨健康看 经期专题、围绝经期骨健康整合，铁看 补剂第二梯队与证据边界，损伤识别看 足部结构与扁平足、膝结构损伤。
+- **"身材焦虑与进食障碍边界"**：主归 身材焦虑与进食障碍：教练边界（Recover Well）；塑形咨询场景看 女性塑形与体型审美，月经消失看 经期专题，心理量表边界看 损伤谱补充与心理筛查，转介后训练仍可为功能向。
 
 ---
 
@@ -359,6 +389,35 @@
 
 > 说明：第八轮为 P0/P1 缺口补齐（体态姿势含关节松弛谱系、脊柱侧弯、扁平足、颈痛、肩不稳与冻结肩、膝结构损伤、慢性踝不稳、重返运动框架），全部网络检索引证式入库；[169][171][173][174][177][178][179][180][181][182][183] 作者/期刊细节未逐条核对，仅登记题名与 PMC/DOI 链接供网络复核。主题文件同时复用既有编号 [7][45][49][126][163] 等；P2 证据空白（6.5–7h 睡眠 RCT、助眠补剂、ITBS 精确跑量增幅、DOAC×omega-3 等药物交互、中国儿童高血压硬终点、MBSR 运动表现）维持既有登记，不新增文件。
 
+### 第九轮新增文献（2026-10-06：女性专题深化 9 项——塑形审美/经期深化/盆底/身材焦虑与进食障碍/产后实操/围绝经期骨健康/运动内衣/备孕/女跑者专项，网络检索引证式入库，未下载新 PDF）
+
+| 编号 | 文献 | 主题 | 读取状态 |
+|---|---|---|---|
+| [184] | Abdominal Aerobic Endurance Exercise Reveals Spot Reduction Exists: A Randomized Controlled Trial, 2023（PMC10680576） | 塑形-局部减脂争议 | 题名/PMC 已核验，作者/期刊细节未核对 |
+| [185] | Effects of Different Exercise Interventions on Body Composition in Women with Overweight and Obesity: SR & NMA. BMJ Open, 2026;16(6):e113206 | 塑形-女性体成分 | 题名已核验，作者细节未核对 |
+| [186] | Mountjoy M, et al. The IOC Consensus Statement: Beyond the Female Athlete Triad—Relative Energy Deficiency in Sport (RED-S). Br J Sports Med, 2014;48(7):491–497 | 经期/RED-S | 共识声明已核验 |
+| [187] | 2025 Update to the Female Athlete Triad Coalition Consensus Statement Part 1: State of the Science and Introduction of a New Adolescent Model（PMC12982264） | 经期/RED-S 更新 | 题名已核验，作者/期刊细节未核对 |
+| [188] | Comparative Effectiveness of Exercise Interventions for Primary Dysmenorrhea: SR & NMA, 2024（PMC11569607） | 痛经运动 | 题名已核验，作者/期刊细节未核对 |
+| [189] | Aerobic Exercise to Alleviate Primary Dysmenorrhea in Adolescents and Young Women: SR & MA of RCTs, 2025（PMC11981095） | 痛经有氧剂量 | 题名已核验，作者/期刊细节未核对 |
+| [190] | The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: SR & Multilevel MA. Sports Med, 2023（PMID 37755666） | 避孕药×力量 | 题名/PMID 已核验 |
+| [191] | Effects of the Menstrual Cycle on Lower-Limb Biomechanics, Neuromuscular Control, and ACL Injury Risk: A Systematic Review. J Athl Train, 2018（PMC5505581） | 女性 ACL 风险 | 题名/PMC 已核验，卷期细节未核对 |
+| [192] | Dumoulin C, et al. Pelvic Floor Muscle Training versus No Treatment, or Inactive Control Treatments, for Urinary Incontinence in Women. Cochrane Database Syst Rev, 2018（PMID 30288727） | 盆底训练 | 题名/PMID 已核验 |
+| [193] | Effects of Various Exercise Interventions for Postpartum Stress Urinary Incontinence: SR & NMA. Front Med, 2026（DOI 10.3389/fmed.2026.1795125） | 产后漏尿运动 | 题名已核验，作者细节未核对 |
+| [194] | What Is the Evidence for Abdominal and Pelvic Floor Muscle Training to Treat Diastasis Recti Abdominis Postpartum? SR with MA. Braz J Phys Ther, 2021（PMC8721086） | 产后 DRA 证据 | 题名已核验，卷期细节未核对 |
+| [195] | Non-Operative Management of Postpartum Diastasis Recti: SR & MA of RCTs, 2026（PMC13090193） | 产后 DRA 干预 | 题名已核验，作者/期刊细节未核对 |
+| [196] | Comparative Efficacy of Different Resistance Training Protocols on BMD in Postmenopausal Women: SR & NMA, 2023（PMC9941565） | 围绝经期力量剂量 | 题名已核验，作者/期刊细节未核对 |
+| [197] | Effects of Combined Exercise and Calcium/Vitamin D Supplementation on BMD in Postmenopausal Women: SR & MA, 2026（PMID 41470812） | 围绝经期营养联合 | 题名已核验，作者/期刊细节未核对 |
+| [198] | Reductions in Kinematics from Brassieres with Varying Breast Support. Int J Exerc Sci, 2019（PMC6413842） | 运动内衣运动学 | 题名已核验，卷期细节未核对 |
+| [199] | Increasing Breast Support Is Associated with Altered Knee Joint Biomechanics during Running. Front Sports Act Living, 2023;5:1113952 | 支撑与跑步生物力学 | 题名已核验，作者细节未核对 |
+| [200] | Rao M, et al. Maternal Physical Activity before IVF/ICSI Cycles Improves Clinical Pregnancy Rate and Live Birth Rate: SR & MA. Reprod Biol Endocrinol, 2018（PMC5803901） | 备孕运动 | 题名已核验，卷期细节未核对 |
+| [201] | Physical Activity during the Perinatal Period: A Fact Sheet for Clinicians, 2025（PMC12328362） | 围产期运动 | 题名已核验，作者/期刊细节未核对 |
+| [202] | NICE. Eating Disorders: Recognition and Treatment（NG69）, 2017（NCBI Bookshelf NBK568394） | 进食障碍边界 | 指南已核验 |
+| [203] | Contributing Factors to Low Energy Availability in Female Athletes: A Narrative Review. Int J Environ Res Public Health, 2022（PMC8912784） | LEA/身体意象 | 题名已核验，卷期细节未核对 |
+| [204] | Bone Health in Athletes: The Role of Exercise, Nutrition, and Hormones. Sports Health, 2017;9(2):108–117（PMC5349390） | 女跑者骨健康 | 题名已核验，作者细节未核对 |
+| [205] | Identification of Predictive Risk Factors for the Development of a Stress Fracture within 6 Months in Highly Trained Female Long-Distance Runners: A Prospective Cohort Study, 2025（PMC12789398） | 女跑者应力骨折预测 | 题名已核验，作者/期刊细节未核对 |
+
+> 说明：第九轮为女性专题深化补齐（P0 塑形/经期/盆底、P1 身材焦虑进食障碍/产后/围绝经期、P2 运动内衣/备孕/女跑者），全部网络检索引证式入库；[184][185][187][188][189][193][194][195][196][197][199][201][205] 作者/期刊细节未逐条核对，仅登记题名与 PMC/PMID/DOI 链接供网络复核。主题文件同时复用既有编号 [7][39][45][132][133][157][168] 等。
+
 ---
 
 ## 六、未被材料覆盖的重要问题（知识库缺口）
@@ -374,7 +433,7 @@
 
 1. **ITBS 无 JOSPT 级临床实践指南，且无 ITBS 特异的统一精确跑量增幅百分比**：ITBS 回归跑量文件已如实确认（"≤10%/周"为通用跑者经验法则，且已被 RCT/大队列质疑 [107][108]）；只给证据支持的区间（初始减量 20%–50% 为应用建议）与无痛渐进原则。
 2. **MBSR 对运动表现/训练恢复的直接 RCT 缺失**：MBSR 与正念文件已标注；中文认证 MBSR 师资名录、3 分钟呼吸空间在健身人群的独立剂量 RCT 未覆盖。
-3. **中国儿童高质量硬终点 RCT 仍有限**：儿童运动硬终点补检索文件新增 4 项单中心小样本 RCT（n=30–115、8–12 周，心肺适能+体成分方向）；无中国儿童高血压 mmHg 硬终点专门 RCT，无超越 Wang 2025 [93] 的新骨密度 RCT；青少年女性三联征（能量可利用性低/月经紊乱/骨密度低）未展开。
+3. **中国儿童高质量硬终点 RCT 仍有限**：儿童运动硬终点补检索文件新增 4 项单中心小样本 RCT（n=30–115、8–12 周，心肺适能+体成分方向）；无中国儿童高血压 mmHg 硬终点专门 RCT，无超越 Wang 2025 [93] 的新骨密度 RCT。青少年女性三联征已于第九轮（经期专题 [186][187]）展开，不再作为未覆盖项登记。
 4. **维生素 D 处方级数值仅作转介参考**：维 D 剂量与药物交互补遗已给出 Endocrine Society 2011 = 中国 2018 共识数值（缺乏纠正 50000 IU/周或 6000 IU/天×8 周、维持 1500–2000 IU/天）；具体方案由医生决定，儿童/孕哺/CKD 一律转介。
 5. **DOAC×omega-3、GLP-1 RA/SGLT2i×肌酸、抗凝×肌酸仍无专门 RCT**：18 经 2024-01 至 2026-10 补检再次确认"证据空白"（DOAC×omega-3 仅机制与交互数据库提示 [120][121]）；肌酸假性升高血肌酐干扰肾功能监测为新增应用建议 [122]。
 
@@ -578,8 +637,30 @@
 181. Current Clinical Concepts: Nonoperative Management of Shoulder Instability. J Athl Train, 2024;59(3):243–257. https://pmc.ncbi.nlm.nih.gov/articles/PMC10976332/（作者细节未核对）
 182. The Formal EU-US Meniscus Rehabilitation 2024 Consensus: An ESSKA-AOSSM-AASPT Initiative. Part II—Prevention, Non-Operative Treatment and Return to Sport. Knee Surg Sports Traumatol Arthrosc, 2025. https://doi.org/10.1002/ksa.12689（作者细节未核对）
 183. Muscle Strength, Muscle Power and Body Composition in College-Aged Young Women and Men with Generalized Joint Hypermobility. PLoS One, 2020;15(7):e0236266. https://doi.org/10.1371/journal.pone.0236266
+184. Abdominal Aerobic Endurance Exercise Reveals Spot Reduction Exists: A Randomized Controlled Trial, 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC10680576/（作者/期刊细节未核对）
+185. Effects of Different Exercise Interventions on Body Composition in Women with Overweight and Obesity: A Systematic Review and Network Meta-Analysis. BMJ Open, 2026;16(6):e113206. https://bmjopen.bmj.com/content/16/6/e113206（作者细节未核对）
+186. Mountjoy M, et al. The IOC Consensus Statement: Beyond the Female Athlete Triad—Relative Energy Deficiency in Sport (RED-S). Br J Sports Med, 2014;48(7):491–497. https://stillmed.olympics.com/media/Documents/Athletes/Medical-Scientific/Consensus-Statements/IOC-consensus-statement-Relative-Energy-Deficiency-in-Sport-2014.pdf
+187. 2025 Update to the Female Athlete Triad Coalition Consensus Statement Part 1: State of the Science and Introduction of a New Adolescent Model. https://pmc.ncbi.nlm.nih.gov/articles/PMC12982264/（作者/期刊细节未核对）
+188. Comparative Effectiveness of Exercise Interventions for Primary Dysmenorrhea: A Systematic Review and Network Meta-Analysis, 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC11569607/（作者/期刊细节未核对）
+189. Aerobic Exercise to Alleviate Primary Dysmenorrhea in Adolescents and Young Women: A Systematic Review and Meta-Analysis of RCTs, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC11981095/（作者/期刊细节未核对）
+190. The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: A Systematic Review and Multilevel Meta-Analysis. Sports Med, 2023. https://pubmed.ncbi.nlm.nih.gov/37755666/
+191. Effects of the Menstrual Cycle on Lower-Limb Biomechanics, Neuromuscular Control, and Anterior Cruciate Ligament Injury Risk: A Systematic Review. J Athl Train, 2018. https://pmc.ncbi.nlm.nih.gov/articles/PMC5505581/（卷期细节未核对）
+192. Dumoulin C, Cacciari LP, Hay-Smith EJC. Pelvic Floor Muscle Training versus No Treatment, or Inactive Control Treatments, for Urinary Incontinence in Women. Cochrane Database Syst Rev, 2018. https://pubmed.ncbi.nlm.nih.gov/30288727/
+193. Effects of Various Exercise Interventions for Postpartum Stress Urinary Incontinence: A Systematic Review and Network Meta-Analysis. Front Med, 2026. https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1795125/pdf（作者细节未核对）
+194. What Is the Evidence for Abdominal and Pelvic Floor Muscle Training to Treat Diastasis Recti Abdominis Postpartum? A Systematic Review with Meta-Analysis. Braz J Phys Ther, 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC8721086/（卷期细节未核对）
+195. Non-Operative Management of Postpartum Diastasis Recti: A Systematic Review and Meta-Analysis of Randomized Controlled Trials, 2026. https://pmc.ncbi.nlm.nih.gov/articles/PMC13090193/（作者/期刊细节未核对）
+196. Comparative Efficacy of Different Resistance Training Protocols on Bone Mineral Density in Postmenopausal Women: A Systematic Review and Network Meta-Analysis, 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC9941565/（作者/期刊细节未核对）
+197. Effects of Combined Exercise and Calcium/Vitamin D Supplementation on Bone Mineral Density in Postmenopausal Women: A Systematic Review and Meta-Analysis, 2026. https://pmc.ncbi.nlm.nih.gov/articles/pmid/41470812/（作者/期刊细节未核对）
+198. Reductions in Kinematics from Brassieres with Varying Breast Support. Int J Exerc Sci, 2019. https://pmc.ncbi.nlm.nih.gov/articles/PMC6413842/（卷期细节未核对）
+199. Increasing Breast Support Is Associated with Altered Knee Joint Biomechanics during Running. Front Sports Act Living, 2023;5:1113952. https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2023.1113952/full（作者细节未核对）
+200. Rao M, et al. Maternal Physical Activity before IVF/ICSI Cycles Improves Clinical Pregnancy Rate and Live Birth Rate: A Systematic Review and Meta-Analysis. Reprod Biol Endocrinol, 2018;16:111. https://pmc.ncbi.nlm.nih.gov/articles/PMC5803901/（卷期细节未核对）
+201. Physical Activity during the Perinatal Period: A Fact Sheet for Clinicians, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12328362/（作者/期刊细节未核对）
+202. National Institute for Health and Care Excellence. Eating Disorders: Recognition and Treatment (NICE Guideline NG69), 2017. https://www.ncbi.nlm.nih.gov/books/NBK568394/
+203. Contributing Factors to Low Energy Availability in Female Athletes: A Narrative Review of Energy Availability, Training Demands, Nutrition Barriers, Body Image, and Disordered Eating. Int J Environ Res Public Health, 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC8912784/（卷期细节未核对）
+204. Bone Health in Athletes: The Role of Exercise, Nutrition, and Hormones. Sports Health, 2017;9(2):108–117. https://pmc.ncbi.nlm.nih.gov/articles/PMC5349390/（作者细节未核对）
+205. Identification of Predictive Risk Factors for the Development of a Stress Fracture within 6 Months in Highly Trained Female Long-Distance Runners: A Prospective Cohort Study, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12789398/（作者/期刊细节未核对）
 
-> 注：新编号 [27]–[122] 按文件分配（07: 27–34；08: 36–44；09: 49–57；10: 61–66；11: 67–74；12: 75–82；13: 84–89；14: 90–96；15: 97–103；16: 104–109；17: 110–113；18: 116–122）；[35][45]–[48][58]–[60][83][114][115] 原为预留编号，已于第四轮（19 运动解剖、20 执教技术）分配使用；[123][124] 为第四轮新分配编号，[125]–[150] 为第五轮（2026-10-05，全补充 11 个缺口主题）分配，[151]–[158] 为第六轮（2026-10-05，补剂第二梯队）分配，[159]–[168] 为第七轮（2026-10-05，训练服务闭环 7 项）分配，[169]–[183] 为第八轮（2026-10-05，P0/P1 缺口 8 项）分配，后续补充文献从 [184] 起分配。
+> 注：新编号 [27]–[122] 按文件分配（07: 27–34；08: 36–44；09: 49–57；10: 61–66；11: 67–74；12: 75–82；13: 84–89；14: 90–96；15: 97–103；16: 104–109；17: 110–113；18: 116–122）；[35][45]–[48][58]–[60][83][114][115] 原为预留编号，已于第四轮（19 运动解剖、20 执教技术）分配使用；[123][124] 为第四轮新分配编号，[125]–[150] 为第五轮（2026-10-05，全补充 11 个缺口主题）分配，[151]–[158] 为第六轮（2026-10-05，补剂第二梯队）分配，[159]–[168] 为第七轮（2026-10-05，训练服务闭环 7 项）分配，[169]–[183] 为第八轮（2026-10-05，P0/P1 缺口 8 项）分配，[184]–[205] 为第九轮（2026-10-06，女性专题深化 9 项）分配，后续补充文献从 [206] 起分配。
 
 > 引用规则：主题文件引用文献编号或文献名称，编号与上表一致；优先提供题名、作者／机构、年份、DOI 或公开链接，便于网络检索，不要求具体页码。仅核对摘要、译本、间接引述或尚未核实的结论仍须明确标注。
 

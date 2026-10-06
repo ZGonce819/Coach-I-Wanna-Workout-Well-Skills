@@ -143,6 +143,33 @@
 99. *The Formal EU-US Meniscus Rehabilitation 2024 Consensus: An ESSKA-AOSSM-AASPT Initiative. Part II—Prevention, Non-Operative Treatment and Return to Sport*. Knee Surgery, Sports Traumatology, Arthroscopy, 2025. DOI: [10.1002/ksa.12689](https://doi.org/10.1002/ksa.12689)（作者细节未核对）.
 100. *Muscle Strength, Muscle Power and Body Composition in College-Aged Young Women and Men with Generalized Joint Hypermobility*. PLOS ONE, 2020. DOI: [10.1371/journal.pone.0236266](https://doi.org/10.1371/journal.pone.0236266).
 
+## 第九轮：女性专题深化（塑形审美/经期深化/盆底/身材焦虑与进食障碍/产后实操/围绝经期骨健康/运动内衣/备孕/女跑者专项）
+
+> 2026-10-06 按用户"继续补充"补齐 9 项女性专题：P0 3（塑形审美、经期深化、盆底健康）、P1 3（身材焦虑与进食障碍边界、产后回归实操、围绝经期骨健康整合）、P2 3（运动内衣、备孕与运动、女跑者专项）；新增 9 份主题文件；编号与知识库总表 [184]–[205] 对应，网络检索引证式入库（未下载新 PDF）。
+
+101. *Abdominal Aerobic Endurance Exercise Reveals Spot Reduction Exists: A Randomized Controlled Trial*, 2023. PMC: [10680576](https://pmc.ncbi.nlm.nih.gov/articles/PMC10680576/)（作者/期刊细节未核对）.
+102. *Effects of Different Exercise Interventions on Body Composition in Women with Overweight and Obesity: A Systematic Review and Network Meta-Analysis*. BMJ Open, 2026. https://bmjopen.bmj.com/content/16/6/e113206（作者细节未核对）.
+103. Mountjoy M, et al. *The IOC Consensus Statement: Beyond the Female Athlete Triad—Relative Energy Deficiency in Sport (RED-S)*. British Journal of Sports Medicine, 2014. https://stillmed.olympics.com/media/Documents/Athletes/Medical-Scientific/Consensus-Statements/IOC-consensus-statement-Relative-Energy-Deficiency-in-Sport-2014.pdf
+104. *2025 Update to the Female Athlete Triad Coalition Consensus Statement Part 1: State of the Science and Introduction of a New Adolescent Model*. PMC: [12982264](https://pmc.ncbi.nlm.nih.gov/articles/PMC12982264/)（作者/期刊细节未核对）.
+105. *Comparative Effectiveness of Exercise Interventions for Primary Dysmenorrhea: A Systematic Review and Network Meta-Analysis*, 2024. PMC: [11569607](https://pmc.ncbi.nlm.nih.gov/articles/PMC11569607/)（作者/期刊细节未核对）.
+106. *Aerobic Exercise to Alleviate Primary Dysmenorrhea in Adolescents and Young Women: A Systematic Review and Meta-Analysis of RCTs*, 2025. PMC: [11981095](https://pmc.ncbi.nlm.nih.gov/articles/PMC11981095/)（作者/期刊细节未核对）.
+107. *The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: A Systematic Review and Multilevel Meta-Analysis*. Sports Medicine, 2023. PMID: [37755666](https://pubmed.ncbi.nlm.nih.gov/37755666/).
+108. *Effects of the Menstrual Cycle on Lower-Limb Biomechanics, Neuromuscular Control, and Anterior Cruciate Ligament Injury Risk: A Systematic Review*. Journal of Athletic Training, 2018. PMC: [5505581](https://pmc.ncbi.nlm.nih.gov/articles/PMC5505581/)（卷期细节未核对）.
+109. Dumoulin C, Cacciari LP, Hay-Smith EJC. *Pelvic Floor Muscle Training versus No Treatment, or Inactive Control Treatments, for Urinary Incontinence in Women*. Cochrane Database of Systematic Reviews, 2018. PMID: [30288727](https://pubmed.ncbi.nlm.nih.gov/30288727/).
+110. *Effects of Various Exercise Interventions for Postpartum Stress Urinary Incontinence: A Systematic Review and Network Meta-Analysis*. Frontiers in Medicine, 2026. https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1795125/pdf（作者细节未核对）.
+111. *What Is the Evidence for Abdominal and Pelvic Floor Muscle Training to Treat Diastasis Recti Abdominis Postpartum? A Systematic Review with Meta-Analysis*. Brazilian Journal of Physical Therapy, 2021. PMC: [8721086](https://pmc.ncbi.nlm.nih.gov/articles/PMC8721086/)（卷期细节未核对）.
+112. *Non-Operative Management of Postpartum Diastasis Recti: A Systematic Review and Meta-Analysis of Randomized Controlled Trials*, 2026. PMC: [13090193](https://pmc.ncbi.nlm.nih.gov/articles/PMC13090193/)（作者/期刊细节未核对）.
+113. *Comparative Efficacy of Different Resistance Training Protocols on Bone Mineral Density in Postmenopausal Women: A Systematic Review and Network Meta-Analysis*, 2023. PMC: [9941565](https://pmc.ncbi.nlm.nih.gov/articles/PMC9941565/)（作者/期刊细节未核对）.
+114. *Effects of Combined Exercise and Calcium/Vitamin D Supplementation on Bone Mineral Density in Postmenopausal Women: A Systematic Review and Meta-Analysis*, 2026. https://pmc.ncbi.nlm.nih.gov/articles/pmid/41470812/（作者/期刊细节未核对）.
+115. *Reductions in Kinematics from Brassieres with Varying Breast Support*. International Journal of Exercise Science, 2019. PMC: [6413842](https://pmc.ncbi.nlm.nih.gov/articles/PMC6413842/)（卷期细节未核对）.
+116. *Increasing Breast Support Is Associated with Altered Knee Joint Biomechanics during Running*. Frontiers in Sports and Active Living, 2023. https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2023.1113952/full（作者细节未核对）.
+117. Rao M, et al. *Maternal Physical Activity before IVF/ICSI Cycles Improves Clinical Pregnancy Rate and Live Birth Rate: A Systematic Review and Meta-Analysis*. Reproductive Biology and Endocrinology, 2018. PMC: [5803901](https://pmc.ncbi.nlm.nih.gov/articles/PMC5803901/)（卷期细节未核对）.
+118. *Physical Activity during the Perinatal Period: A Fact Sheet for Clinicians*, 2025. PMC: [12328362](https://pmc.ncbi.nlm.nih.gov/articles/PMC12328362/)（作者/期刊细节未核对）.
+119. National Institute for Health and Care Excellence. *Eating Disorders: Recognition and Treatment* (NICE Guideline NG69), 2017. https://www.ncbi.nlm.nih.gov/books/NBK568394/
+120. *Contributing Factors to Low Energy Availability in Female Athletes: A Narrative Review of Energy Availability, Training Demands, Nutrition Barriers, Body Image, and Disordered Eating*. International Journal of Environmental Research and Public Health, 2022. PMC: [8912784](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912784/)（卷期细节未核对）.
+121. *Bone Health in Athletes: The Role of Exercise, Nutrition, and Hormones*. Sports Health, 2017. PMC: [5349390](https://pmc.ncbi.nlm.nih.gov/articles/PMC5349390/)（作者细节未核对）.
+122. *Identification of Predictive Risk Factors for the Development of a Stress Fracture within 6 Months in Highly Trained Female Long-Distance Runners: A Prospective Cohort Study*, 2025. PMC: [12789398](https://pmc.ncbi.nlm.nih.gov/articles/PMC12789398/)（作者/期刊细节未核对）.
+
 ## 引用与安全提示
 
 - 本项目优先使用共识声明、临床指南、系统综述和 Meta 分析；单项研究只用于补充机制或具体问题。
