@@ -55,7 +55,7 @@
 ## 六、证据限制与来源说明
 - 网络 meta [196] 为间接比较；BMD 变化不等同于骨折风险降低（骨折终点证据仍缺）。
 - [197] 为 2026 年新 meta，运动+钙/维D 联合效应显著但干预异质性大。
-- 引用编号 [196][197] 为本轮（第九轮，2026-10-06）新分配；[36–44]（补剂/钙维D 相关）为复用既有编号。
+- 引用编号 [196][197] 为本文件新增；[36–44]（补剂/钙维D 相关）为复用既有编号。
 
 | 问题 | 推荐 | 注意 |
 |---|---|---|
@@ -69,4 +69,4 @@
 196. Comparative Efficacy of Different Resistance Training Protocols on Bone Mineral Density in Postmenopausal Women: A Systematic Review and Network Meta-Analysis, 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC9941565/（作者/期刊细节未核对）
 197. Effects of Combined Exercise and Calcium/Vitamin D Supplementation on Bone Mineral Density in Postmenopausal Women: A Systematic Review and Meta-Analysis, 2026. https://pmc.ncbi.nlm.nih.gov/articles/pmid/41470812/（作者/期刊细节未核对）
 
-> 交叉引用已有文献：[196][197] 第九轮新分配；[36–44] 补剂与营养素（既有）；[89] 相关健康主题；[132] 女性全生命周期训练。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[196][197] 新增编号；[36–44] 补剂与营养素（既有）；[89] 相关健康主题；[132] 女性全生命周期训练。完整书目见 topic-index.md 四、参考文献总表。

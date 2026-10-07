@@ -149,7 +149,7 @@
 [42] Dunstan DW, Kingwell BA, Larsen R, et al. Breaking Up Prolonged Sitting Reduces Postprandial Glucose and Insulin Responses. Diabetes Care, 2012;35(6):1227-1234. https://pmc.ncbi.nlm.nih.gov/articles/PMC3329818/
 [43] VanSchaardenburg R, et al. International society of sports nutrition position stand: coffee and sports performance. Journal of the International Society of Sports Nutrition / International Journal of Sport Nutrition and Exercise Metabolism, 2023. https://tandfonline.com/doi/full/10.1080/15502783.2023.2237952
 [44] International Society of Sports Nutrition Position Stand: Long-Chain Omega-3 Polyunsaturated Fatty Acids. Journal of the International Society of Sports Nutrition, 2025 (PMID 39810703). https://pubmed.ncbi.nlm.nih.gov/39810703/
-> 交叉引用已有文献：[13] ISSN 蛋白立场（2017）、[14] ISSN 膳食与体成分立场（2017）、[16] ACSM 运动营养立场（2009）、[19] 儿童青少年肥胖食养指南（2024）、[24] 成人慢性肾脏病食养指南（2024）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[13] ISSN 蛋白立场（2017）、[14] ISSN 膳食与体成分立场（2017）、[16] ACSM 运动营养立场（2009）、[19] 儿童青少年肥胖食养指南（2024）、[24] 成人慢性肾脏病食养指南（2024）。完整书目见 topic-index.md 四、参考文献总表。
 
 
 

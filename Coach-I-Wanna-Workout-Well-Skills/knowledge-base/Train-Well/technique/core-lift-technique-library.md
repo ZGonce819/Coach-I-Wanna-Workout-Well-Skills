@@ -89,7 +89,7 @@
 ## 七、证据限制与来源说明
 - 动作技术证据多为**生物力学分析与教科书共识**（非 RCT 干预），属于"技术共识级"而非"疗效级"；深蹲深度有系统综述支持 [159]。
 - 个体差异（骨性结构、活动度、既往伤史）使"标准姿势"只能作为起点而非终点；判断标准以"无痛、可控、可加重"为准 [39]。
-- 引用编号 [159] 为本轮（第七轮，2026-10-05）新分配；[39][45][48][52][3] 为复用既有编号。
+- 引用编号 [159] 为本文件新增；[39][45][48][52][3] 为复用既有编号。
 
 | 动作 | 技术要点（核心提示） | 常见错误 | 主要降级 | 主要升级 |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@
 ## 八、文献清单
 159. Hartmann H, Wirth K, Klusemann M. Analysis of the Load on the Knee Joint and Vertebral Column with Changes in Squatting Depth and Weight Load. Sports Med, 2013;43(10):993–1008. https://doi.org/10.1007/s40279-013-0073-6
 
-> 交叉引用已有文献：[39] NSCA Essentials of Strength Training and Conditioning（动作技术教科书共识）；[45][48] 运动解剖基础与训练应用（肌肉定位与代偿）；[52] 肩袖 AAOS CPG；[3] IUSCA 训练与周期化；[9,10,11,12] 疼痛耐受框架（Recover Well 06）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[39] NSCA Essentials of Strength Training and Conditioning（动作技术教科书共识）；[45][48] 运动解剖基础与训练应用（肌肉定位与代偿）；[52] 肩袖 AAOS CPG；[3] IUSCA 训练与周期化；[9,10,11,12] 疼痛耐受框架（Recover Well 06）。完整书目见 topic-index.md 四、参考文献总表。

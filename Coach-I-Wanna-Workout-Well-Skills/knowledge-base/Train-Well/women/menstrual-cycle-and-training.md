@@ -58,7 +58,7 @@
 ## 六、证据限制与来源说明
 - 周期-表现研究异质性强，个体差异大 [190]；ACL 相位证据有综述支持但 meta 间不完全一致 [191]。
 - 痛经运动证据以原发性痛经为主，继发性（子宫内膜异位等）需医疗评估 [188]。
-- 引用编号 [186]–[191] 为本轮（第九轮，2026-10-06）新分配；[132][133] 为复用既有编号。
+- 引用编号 [186]–[191] 为本文件新增；[132][133] 为复用既有编号。
 
 | 场景 | 处理 | 转介 |
 |---|---|---|
@@ -76,4 +76,4 @@
 190. The Effect of Hormonal Contraceptive Use on Skeletal Muscle Hypertrophy, Power and Strength Adaptations to Resistance Exercise Training: A Systematic Review and Multilevel Meta-Analysis. Sports Med, 2023. https://pubmed.ncbi.nlm.nih.gov/37755666/
 191. Effects of the Menstrual Cycle on Lower-Limb Biomechanics, Neuromuscular Control, and Anterior Cruciate Ligament Injury Risk: A Systematic Review. J Athl Train, 2018. https://pmc.ncbi.nlm.nih.gov/articles/PMC5505581/（卷期细节未核对）
 
-> 交叉引用已有文献：[132] 女性全生命周期训练；[133] 周期与表现（既有）；[203] LEA 贡献因素（第九轮新增）；[7] 心理筛查；[39] NSCA Essentials。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[132] 女性全生命周期训练；[133] 周期与表现（既有）；[203] LEA 贡献因素（新增）；[7] 心理筛查；[39] NSCA Essentials。完整书目见 topic-index.md 四、参考文献总表。

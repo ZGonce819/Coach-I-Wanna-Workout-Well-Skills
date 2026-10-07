@@ -52,7 +52,7 @@
 ## 六、证据限制与来源说明
 - IVF 前运动 meta [200] 观察性为主（OR 有混杂可能）；一般人群生育力运动研究混杂因素多。
 - 阈值（≥150 分钟/周）来自围产期共识 Fact Sheet 与指南汇总 [201]，为参考值。
-- 引用编号 [200][201] 为本轮（第九轮，2026-10-06）新分配；[186]（RED-S）、[132] 为复用既有编号。
+- 引用编号 [200][201] 为本文件新增；[186]（RED-S）、[132] 为复用既有编号。
 
 | 情形 | 建议 | 转介 |
 |---|---|---|
@@ -66,4 +66,4 @@
 200. Rao M, et al. Maternal Physical Activity before IVF/ICSI Cycles Improves Clinical Pregnancy Rate and Live Birth Rate: A Systematic Review and Meta-Analysis. Reprod Biol Endocrinol, 2018;16:111. https://pmc.ncbi.nlm.nih.gov/articles/PMC5803901/（卷期细节未核对）
 201. Physical Activity during the Perinatal Period: A Fact Sheet for Clinicians, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12328362/（作者/期刊细节未核对）
 
-> 交叉引用已有文献：[186] RED-S IOC 共识；[132] 女性全生命周期训练；[203] LEA 贡献因素；[39] NSCA Essentials。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[186] RED-S IOC 共识；[132] 女性全生命周期训练；[203] LEA 贡献因素；[39] NSCA Essentials。完整书目见 topic-index.md 四、参考文献总表。

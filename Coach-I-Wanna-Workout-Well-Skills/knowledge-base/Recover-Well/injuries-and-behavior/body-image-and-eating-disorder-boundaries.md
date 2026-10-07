@@ -53,7 +53,7 @@
 ## 六、证据限制与来源说明
 - 风险比例（约 20%）来自单一国家健身房调查（挪威 232 人），作为风险现实参考，非普遍率 [203]。
 - 红旗清单综合 NICE 指南 [202] 与 LEA 综述 [203]，为识别导向而非诊断标准。
-- 引用编号 [202][203] 为本轮（第九轮，2026-10-06）新分配；[186][187]（RED-S）、[7] 为复用既有编号。
+- 引用编号 [202][203] 为本文件新增；[186][187]（RED-S）、[7] 为复用既有编号。
 
 | 信号 | 教练动作 | 转介 |
 |---|---|---|
@@ -67,4 +67,4 @@
 202. National Institute for Health and Care Excellence. Eating Disorders: Recognition and Treatment (NICE Guideline NG69), 2017. https://www.ncbi.nlm.nih.gov/books/NBK568394/
 203. Contributing Factors to Low Energy Availability in Female Athletes: A Narrative Review of Energy Availability, Training Demands, Nutrition Barriers, Body Image, and Disordered Eating. Int J Environ Res Public Health, 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC8912784/（卷期细节未核对）
 
-> 交叉引用已有文献：[186] RED-S IOC 共识；[187] 2025 三联征更新；[7] 损伤心理与行为支持；[132] 女性全生命周期训练；[39] NSCA Essentials。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[186] RED-S IOC 共识；[187] 2025 三联征更新；[7] 损伤心理与行为支持；[132] 女性全生命周期训练；[39] NSCA Essentials。完整书目见 topic-index.md 四、参考文献总表。

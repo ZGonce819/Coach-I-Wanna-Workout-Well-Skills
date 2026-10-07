@@ -61,7 +61,7 @@
 ## 六、证据限制与来源说明
 - 肩不稳非手术管理为临床概念综述（专家框架），阶段划分有共识但个体化参数少 [181]。
 - 冻结肩手法+运动 meta [178] 显示有效，但各研究剂量差异大；糖尿病相关病程证据来自观察性资料 [178]。
-- 引用编号 [181][178] 为本轮（第八轮，2026-10-05）新分配；[45][39][126] 为复用既有编号。
+- 引用编号 [181][178] 为本文件新增；[45][39][126] 为复用既有编号。
 
 | 情形 | 训练方向 | 转介 |
 |---|---|---|
@@ -74,4 +74,4 @@
 178. Kirker K, O'Connell M, Bradley L, et al. Manual Therapy and Exercise for Adhesive Capsulitis: A Systematic Review with Meta-Analysis. J Man Manip Ther, 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC10566414/（卷期细节未核对）
 181. Current Clinical Concepts: Nonoperative Management of Shoulder Instability. J Athl Train, 2024;59(3):243–257. https://pmc.ncbi.nlm.nih.gov/articles/PMC10976332/（作者细节未核对）
 
-> 交叉引用已有文献：[45] 运动解剖（肩袖/肩胛结构）；[39] NSCA Essentials（负荷渐进）；[126] ACSM（筛查与停止条件）；[86] 肌酸（与肩部无关，不引用）；[168] 个体差异（训练反应）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[45] 运动解剖（肩袖/肩胛结构）；[39] NSCA Essentials（负荷渐进）；[126] ACSM（筛查与停止条件）；[86] 肌酸（与肩部无关，不引用）；[168] 个体差异（训练反应）。完整书目见 topic-index.md 四、参考文献总表。

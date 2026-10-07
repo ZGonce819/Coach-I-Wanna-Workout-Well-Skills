@@ -99,6 +99,7 @@
 | "每周≤10%"法则：Buist RCT 10.5% vs 24% 周涨幅伤率无差异（HR 0.8） | [107] Buist 2008（转引自训练负荷系统综述 PMC6253751） | RCT（通用跑者，非 ITBS） |
 | 真正伤率预测是单次距离 spike 而非周总量周环比（小 spike HRR 1.64） | [108] Garmin-RUNSAFE, BJSM 2025 | 前瞻队列 n=5205（通用跑者，非 ITBS） |
 | 疼痛≤3/10 且次日不加重为可耐受；先减容量不减频率；4–6 周窗口；红旗转诊 | [9,10,11,12]（见 06）；[53]（见 09） | CPG/综述 |
+- **2026-10 补检索确认**：PubMed 按 guideline 出版类型过滤 0 命中，无 JOSPT 级（或同等权威机构）ITBS 专项 CPG；[53] 纳入的 13 项研究均为保守治疗手段、无一以跑量渐进/回归跑步为干预变量（ITBS 康复试点 RCT [251] 亦然）；大队列显示周跑量增幅过大与 ITBS 等损伤类型相关 [252]，跑量渐进 vs 强度渐进 RCT 未显示对特定损伤类型的差异 [253]。"≤10%/周"仍是通用经验法则外推，不给 ITBS 特异统一增幅百分比。
 ---
 ## 参考文献（本文件引用）
 [104] Fredericson M, Cookingham CL, Chaudhari AM, Dowdell BC, Oestreicher N, Sahrmann SA. Hip abductor weakness in distance runners with iliotibial band syndrome. Clin J Sport Med, 2000;10(3):169–75. https://pubmed.ncbi.nlm.nih.gov/10959926/ （病例系列 n=24）
@@ -107,8 +108,11 @@
 [107] Buist I, 等（2008）：新手跑者随机对照试验，周里程渐进约 10.5% vs 约 23.7%–24%，伤率 HR 0.8（95%CI 0.6–1.3），无显著差异；数据转引自训练负荷变化与跑步损伤系统综述。 https://pmc.ncbi.nlm.nih.gov/articles/PMC6253751/ （通用跑者人群，非 ITBS 专项）
 [108] Schuster Brandt Frandsen C, 等. How much running is too much? Identifying high-risk running sessions in a 5200-person cohort study. Br J Sports Med, 2025. https://bjsm.bmj.com/content/bjsports/early/2025/07/07/bjsports-2024-109380.full.pdf （Garmin-RUNSAFE，n=5205、18 个月、588071 次跑步；通用跑者队列，非 ITBS 专项）
 [109] Fredericson M, Wolf C. Iliotibial band syndrome in runners: innovations in treatment. Sports Med, 2005;35(5):451–9. PMID 15896092. https://pubmed.ncbi.nlm.nih.gov/15896092/
+[251] McKay J, Maffulli N, Aicale R, Taunton J. Iliotibial band syndrome rehabilitation in female runners: a pilot randomized study. J Orthop Surg Res, 2020;15(1):188. PMID 32448384. https://pubmed.ncbi.nlm.nih.gov/32448384/
+[252] Nielsen RØ, et al. Excessive progression in weekly running distance and risk of running-related injuries: an association which varies according to type of injury. J Orthop Sports Phys Ther, 2014;44(10):739–747. PMID 25155475. https://pubmed.ncbi.nlm.nih.gov/25155475/
+[253] Ramskov D, et al. Progression in running intensity or running volume and the development of specific injuries in recreational runners: Run Clever, a randomized trial. J Orthop Sports Phys Ther, 2018;48(10):740–748. PMID 29895234. https://pubmed.ncbi.nlm.nih.gov/29895234/
 
-> 交叉引用既有编号：[53]（2024 ITBS 保守治疗系统综述，见 09）、[9][10][11][12]（疼痛耐受/转介框架，见 06）。本文件新增编号 [104]–[109]。
+> 交叉引用既有编号：[53]（2024 ITBS 保守治疗系统综述，见 09）、[9][10][11][12]（疼痛耐受/转介框架，见 06）。本文件新增编号 [104]–[109]；补检索登记 [251]–[253]（完整书目见导读四、参考文献总表）。
 
 
 

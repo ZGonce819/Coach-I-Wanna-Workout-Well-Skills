@@ -48,7 +48,7 @@
 ## 六、证据限制与来源说明
 - 增肌速度区间为**教科书共识与人群研究估计**（[39][168]），个体差异大，作为"预期管理"而非保证值。
 - 盈余推荐基于维持热量估算，维持热量的个体误差约 ±10–20%——必须用体重趋势反推，不能把公式当精确值 [162][126]。
-- 引用编号 [162][168] 为本轮（第七轮，2026-10-05）新分配；[15][39][126][128] 为复用既有编号。
+- 引用编号 [162][168] 为本文件新增；[15][39][126][128] 为复用既有编号。
 
 | 训练水平 | 参考盈余 | 瘦体重增速预期（/月） | 蛋白参考 | 追踪频率 |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@
 162. Aragon AA, Schoenfeld BJ, Wildman R, et al. International Society of Sports Nutrition Position Stand: Diets and Body Composition. J Int Soc Sports Nutr, 2017;14:16. https://pubmed.ncbi.nlm.nih.gov/28630601/
 168. Hubal MJ, Gordish-Dressman H, Thompson PD, et al. Variability in Muscle Size and Strength Gain after Unilateral Resistance Training. Med Sci Sports Exerc, 2005;37(6):964–972. https://pubmed.ncbi.nlm.nih.gov/15976842/
 
-> 交叉引用已有文献：[15] 蛋白摄入 meta；[39] NSCA Essentials；[126] ACSM 测试与处方指南；[128] ACSM 有氧立场；[132] 女性全生命周期训练；[164] 素食运动营养（第七轮新增）；[7] 睡眠与恢复。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[15] 蛋白摄入 meta；[39] NSCA Essentials；[126] ACSM 测试与处方指南；[128] ACSM 有氧立场；[132] 女性全生命周期训练；[164] 素食运动营养（新增）；[7] 睡眠与恢复。完整书目见 topic-index.md 四、参考文献总表。

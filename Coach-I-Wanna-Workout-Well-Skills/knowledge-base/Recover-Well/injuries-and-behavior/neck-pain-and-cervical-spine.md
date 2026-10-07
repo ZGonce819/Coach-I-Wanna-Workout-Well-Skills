@@ -52,7 +52,7 @@
 ## 六、证据限制与来源说明
 - 网络 meta [176] 基于 RCT，但各运动类型间直接对比少，结论为"无最优类型"而非"均等效"。
 - 头前伸-颈痛关系 [169] 为系统综述，因果方向不明确；本文件只用于避免过度归因。
-- 引用编号 [176] 为本轮（第八轮，2026-10-05）新分配；[169][7][126][39] 为复用既有编号。
+- 引用编号 [176] 为本文件新增；[169][7][126][39] 为复用既有编号。
 
 | 情形 | 处理 | 转介 |
 |---|---|---|
@@ -65,4 +65,4 @@
 ## 七、文献清单
 176. de Zoete RMJ, et al. Comparative Effectiveness of Physical Exercise Interventions for Chronic Non-Specific Neck Pain: A Systematic Review with Network Meta-Analysis of 40 Randomised Controlled Trials. Br J Sports Med, 2021;55(13):730–742. https://bjsm.bmj.com/content/55/13/730
 
-> 交叉引用已有文献：[169] 头前伸-颈痛关系（第八轮新增）；[7] 热身与久坐（颈痛拉伸与力量相当）；[126] ACSM（筛查与停止条件）；[39] NSCA Essentials；[45] 运动解剖（颈部结构）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[169] 头前伸-颈痛关系（新增）；[7] 热身与久坐（颈痛拉伸与力量相当）；[126] ACSM（筛查与停止条件）；[39] NSCA Essentials；[45] 运动解剖（颈部结构）。完整书目见 topic-index.md 四、参考文献总表。

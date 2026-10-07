@@ -62,7 +62,7 @@
 ## 六、证据限制与来源说明
 - sRPE 相关性与有效性证据主要来自运动员样本 [163]；普通健身人群同样可用但解释保守。
 - HRV 与训练决策的关系仍在发展，个体差异大；本文件仅给出"趋势提示"的使用边界，不把 HRV 当作处方工具 [167]。
-- 引用编号 [163][167] 为本轮（第七轮，2026-10-05）新分配；[126][39][3][33] 为复用既有编号。
+- 引用编号 [163][167] 为本文件新增；[126][39][3][33] 为复用既有编号。
 
 | 指标 | 采集方式 | 判断"进步/恢复"的用法 | 主要局限 |
 |---|---|---|---|
@@ -77,4 +77,4 @@
 163. Haddad M, Stylianides G, Djaoui L, Dellal A, Chamari K. Session-RPE Method for Training Load Monitoring: Validity, Ecological Usefulness, and Influencing Factors. Front Neurosci, 2017;11:612. https://pubmed.ncbi.nlm.nih.gov/28243193/
 167. Monitoring Training Adaptation and Recovery Status in Athletes Using Heart Rate Variability via Mobile Devices: A Narrative Review, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12787763/（作者/期刊细节未核对）
 
-> 交叉引用已有文献：[126] ACSM 测试与处方指南（复测/评估标准）；[39] NSCA Essentials（RIR 与剂量）；[3] IUSCA（训练与周期化）；[33] 过度训练（睡眠恢复文件）；[7] 睡眠与恢复。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[126] ACSM 测试与处方指南（复测/评估标准）；[39] NSCA Essentials（RIR 与剂量）；[3] IUSCA（训练与周期化）；[33] 过度训练（睡眠恢复文件）；[7] 睡眠与恢复。完整书目见 topic-index.md 四、参考文献总表。

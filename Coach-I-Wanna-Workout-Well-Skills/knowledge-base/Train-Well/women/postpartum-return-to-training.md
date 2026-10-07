@@ -56,7 +56,7 @@
 ## 六、证据限制与来源说明
 - DRA 证据：meta 显示结构化运动优于不干预，但高质量 RCT 少、测量方法不一（触诊/超声）；"早期开始更好"来自亚组分析 [195]。
 - 时间线为操作化整合（[193][195] 与临床惯例），不是单一指南的固定标准，注明个体化。
-- 引用编号 [194][195] 为本轮（第九轮，2026-10-06）新分配；[192][193]（盆底）、[132] 为复用既有编号。
+- 引用编号 [194][195] 为本文件新增；[192][193]（盆底）、[132] 为复用既有编号。
 
 | 阶段 | 内容 | 门槛 |
 |---|---|---|
@@ -69,4 +69,4 @@
 194. What Is the Evidence for Abdominal and Pelvic Floor Muscle Training to Treat Diastasis Recti Abdominis Postpartum? A Systematic Review with Meta-Analysis. Braz J Phys Ther, 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC8721086/（卷期细节未核对）
 195. Non-Operative Management of Postpartum Diastasis Recti: A Systematic Review and Meta-Analysis of Randomized Controlled Trials, 2026. https://pmc.ncbi.nlm.nih.gov/articles/PMC13090193/（作者/期刊细节未核对）
 
-> 交叉引用已有文献：[192] PFMT 与尿失禁 Cochrane（2018）；[193] 产后 SUI NMA（第九轮新增）；[132] 女性全生命周期训练；[39] NSCA Essentials。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[192] PFMT 与尿失禁 Cochrane（2018）；[193] 产后 SUI NMA（新增）；[132] 女性全生命周期训练；[39] NSCA Essentials。完整书目见 topic-index.md 四、参考文献总表。

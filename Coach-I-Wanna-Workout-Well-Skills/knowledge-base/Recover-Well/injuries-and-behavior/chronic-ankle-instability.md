@@ -53,7 +53,7 @@
 ## 六、证据限制与来源说明
 - 剂量推荐来自平衡训练 meta 的亚组归纳（3 次/周、20–30 分钟、4–6 周），为观察性归纳而非 RCT 直接对比，解释保留幅度 [177]。
 - CAI 识别阈值（CAIT ≤24）为常用临床界值，未在本库单独核验原始来源；以频率与感觉为主判断 [177]。
-- 引用编号 [177] 为本轮（第八轮，2026-10-05）新分配；[174][126][39] 为复用既有编号。
+- 引用编号 [177] 为本文件新增；[174][126][39] 为复用既有编号。
 
 | 场景 | 处理 | 转介 |
 |---|---|---|
@@ -65,4 +65,4 @@
 ## 七、文献清单
 177. Meta-Analysis of the Dosage of Balance Training on Ankle Function and Dynamic Balance Ability in Patients with Chronic Ankle Instability, 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC11365157/（作者/期刊细节未核对）
 
-> 交叉引用已有文献：[174] 足部结构与扁平足（第八轮新增，足部背景）；[126] ACSM（急性处理与筛查）；[39] NSCA Essentials；[180] 伤后重返运动总框架（第八轮新增）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[174] 足部结构与扁平足（新增，足部背景）；[126] ACSM（急性处理与筛查）；[39] NSCA Essentials；[180] 伤后重返运动总框架（新增）。完整书目见 topic-index.md 四、参考文献总表。

@@ -54,7 +54,7 @@
 ## 六、证据限制与来源说明
 - [204] 为综述（骨健康与运动员），含少经 6 倍风险引用；[205] 为单中心前瞻队列（高训练量女长跑者），样本有限。
 - 铁缺乏风险与补铁边界整合自 [157]（补剂第二梯队）与综述 [204]。
-- 引用编号 [204][205] 为本轮（第九轮，2026-10-06）新分配；[157]（铁）、[186] 为复用既有编号。
+- 引用编号 [204][205] 为本文件新增；[157]（铁）、[186] 为复用既有编号。
 
 | 信号 | 动作 | 转介 |
 |---|---|---|
@@ -68,4 +68,4 @@
 204. Bone Health in Athletes: The Role of Exercise, Nutrition, and Hormones. Sports Health, 2017;9(2):108–117. https://pmc.ncbi.nlm.nih.gov/articles/PMC5349390/（作者细节未核对）
 205. Identification of Predictive Risk Factors for the Development of a Stress Fracture within 6 Months in Highly Trained Female Long-Distance Runners: A Prospective Cohort Study, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12789398/（作者/期刊细节未核对）
 
-> 交叉引用已有文献：[157] 铁（补剂第二梯队）；[186] RED-S IOC 共识；[204][205] 第九轮新分配；[45] 运动解剖；[39] NSCA Essentials。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[157] 铁（补剂第二梯队）；[186] RED-S IOC 共识；[204][205] 新增编号；[45] 运动解剖；[39] NSCA Essentials。完整书目见 topic-index.md 四、参考文献总表。

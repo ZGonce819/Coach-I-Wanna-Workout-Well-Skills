@@ -22,6 +22,7 @@ description: 制定和调整增肌、减脂与维持体重的饮食安排，计�
 - 增肌期盈余与追踪：[增肌期营养实操](../knowledge-base/Eat-Well/muscle-gain/muscle-gain-nutrition-practice.md)；青少年或素食/纯素训练者：[特殊人群营养补遗：青少年与素食者](../knowledge-base/Eat-Well/special-populations/special-population-nutrition.md)。
 - 有相关用药的补剂问题：[药物补剂相互作用](../knowledge-base/Eat-Well/supplements-and-activity/drug-supplement-interactions.md)；维D治疗剂量或更新交互证据：[维D剂量与药物交互补遗](../knowledge-base/Eat-Well/supplements-and-activity/vitamin-d-dosing-and-drug-interactions.md)。
 - 常见食物每 100g 热量/蛋白/碳水/脂肪参考值、份量换算与外食估算、营养成分表阅读：[食物营养含量速查](../knowledge-base/Eat-Well/fundamentals/food-nutrition-content-quick-reference.md)。
+- 吃饭也消耗热量吗/高蛋白"燃烧更多"/少食多餐提高代谢等代谢科普：[食物热效应与减脂](../knowledge-base/Eat-Well/fundamentals/thermic-effect-of-food.md)。
 
 ## 决策与计算
 

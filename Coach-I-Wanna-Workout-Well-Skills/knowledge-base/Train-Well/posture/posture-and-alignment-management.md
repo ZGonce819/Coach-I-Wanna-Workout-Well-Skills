@@ -53,7 +53,7 @@
 ## 六、证据限制与来源说明
 - 姿势-疼痛研究多为横断面/观察性，因果方向难定 [169]；治疗性运动证据以短期症状改善为主 [170]。
 - 正常变异范围（骨盆前倾比例、Beighton 阈值）来自人群研究，阈值本身有学术共识但非诊断金标准 [171][175]。
-- 引用编号 [169]–[171][175][183] 为本轮（第八轮，2026-10-05）新分配；[7][45][39] 为复用既有编号。
+- 引用编号 [169]–[171][175][183] 为本文件新增；[7][45][39] 为复用既有编号。
 
 | 标签 | 常见性 | 处理 | 转介信号 |
 |---|---|---|---|
@@ -69,4 +69,4 @@
 175. Children with Generalised Joint Hypermobility and Musculoskeletal Complaints: State of the Art on Diagnostics, Clinical Characteristics, and Treatment, 2013. https://pmc.ncbi.nlm.nih.gov/articles/PMC3736514/
 183. Muscle Strength, Muscle Power and Body Composition in College-Aged Young Women and Men with Generalized Joint Hypermobility. PLoS One, 2020. https://doi.org/10.1371/journal.pone.0236266
 
-> 交叉引用已有文献：[7] 热身与久坐（颈痛拉伸与力量相当）；[45] 运动解剖基础（肩胛/骨盆定位）；[39] NSCA Essentials（负荷与控制）；[49] 足底筋膜炎（足部转介）；[126] ACSM 测试与处方。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[7] 热身与久坐（颈痛拉伸与力量相当）；[45] 运动解剖基础（肩胛/骨盆定位）；[39] NSCA Essentials（负荷与控制）；[49] 足底筋膜炎（足部转介）；[126] ACSM 测试与处方。完整书目见 topic-index.md 四、参考文献总表。

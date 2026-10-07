@@ -53,7 +53,7 @@
 ## 六、证据限制与来源说明
 - 侧弯运动证据以青少年为主，成人高质量研究少；Cochrane 证据确定性低（Cobb 角 MD −3.6°，2 研究 52 人）[173]。
 - SOSORT 2011 为指南性文件，含专家共识成分；支具证据基于其引用研究，未在本库逐条核验 [172]。
-- 引用编号 [172][173] 为本轮（第八轮，2026-10-05）新分配；[126][39][45] 为复用既有编号。
+- 引用编号 [172][173] 为本文件新增；[126][39][45] 为复用既有编号。
 
 | 场景 | 教练动作 | 转介 |
 |---|---|---|
@@ -66,4 +66,4 @@
 172. Negrini S, Aulisa AG, Aulisa L, et al. 2011 SOSORT Guidelines: Orthopaedic and Rehabilitation Treatment of Idiopathic Scoliosis during Growth. Scoliosis, 2012;7:3. https://pmc.ncbi.nlm.nih.gov/articles/PMC3292965/
 173. What type of therapeutic exercise is best for treating scoliosis in adolescents? Cochrane Database Syst Rev, 2024. https://www.cochrane.org/CD007837/BACK_what-type-therapeutic-exercise-best-treating-scoliosis-adolescents（作者/期刊细节未核对）
 
-> 交叉引用已有文献：[126] ACSM 测试与处方（一般训练剂量）；[39] NSCA Essentials；[45] 运动解剖（躯干结构）；[12] 疼痛框架（症状处理）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[126] ACSM 测试与处方（一般训练剂量）；[39] NSCA Essentials；[45] 运动解剖（躯干结构）；[12] 疼痛框架（症状处理）。完整书目见 topic-index.md 四、参考文献总表。

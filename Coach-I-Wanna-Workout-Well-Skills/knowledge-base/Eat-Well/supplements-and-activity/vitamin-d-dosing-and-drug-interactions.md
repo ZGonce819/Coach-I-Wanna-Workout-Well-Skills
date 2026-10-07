@@ -1,6 +1,6 @@
 # 维生素D 缺乏纠正剂量 与 药物补剂交互证据补遗（主题指南）
 > [返回导读与主题索引](../../topic-index.md)
-> 本文件为本轮第四轮补齐文件之一，由两个子主题块共用八段式结构：
+> 本文件为补充文件之一，由两个子主题块共用八段式结构：
 > - **子主题 A**：维生素D 缺乏的处方级纠正/维持剂量（转介参考与科普边界）。
 > - **子主题 B**：13 已标注"证据空白/可能"的药物×补剂交互项在 2024-01 至 2026-10 之间的补检索结果。
 >
@@ -183,7 +183,7 @@
 
 [122] Nutrition support whilst on glucagon-like peptide-1 based therapy. Is it necessary? Postgrad Med J / 相关期刊, 2025（PubMed 40401903）. https://pubmed.ncbi.nlm.nih.gov/40401903/
 
-> 交叉引用已有文献：[36] Rawson 等（2021）肌酸常见问题；[37] ISSN 咖啡因立场（2021）；[39] NIH ODS 维D 专业事实表；[84] NIH ODS Omega-3 消费者事实表；[85] NHS 左甲状腺素药品页；[86] ISSN 肌酸安全立场（2017）；[87] StatPearls Omega-3；[88] Mayo Clinic 血压与补剂；[89] DailyMed 氢氯噻嗪说明书。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[36] Rawson 等（2021）肌酸常见问题；[37] ISSN 咖啡因立场（2021）；[39] NIH ODS 维D 专业事实表；[84] NIH ODS Omega-3 消费者事实表；[85] NHS 左甲状腺素药品页；[86] ISSN 肌酸安全立场（2017）；[87] StatPearls Omega-3；[88] Mayo Clinic 血压与补剂；[89] DailyMed 氢氯噻嗪说明书。完整书目见 topic-index.md 四、参考文献总表。
 
 ---
 

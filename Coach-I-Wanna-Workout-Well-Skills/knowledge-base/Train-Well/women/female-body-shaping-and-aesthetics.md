@@ -54,7 +54,7 @@
 ## 六、证据限制与来源说明
 - 局部减脂争议：主流综述支持"无局部减脂"，[184] 为单中心 RCT（超重男性），样本与人群有限，作为"争议存在"标注，不改变主流建议。
 - 女性体成分证据 [185] 为网络 meta 汇总，各干预对比间接；个体反应差异大 [168]。
-- 引用编号 [184][185] 为本轮（第九轮，2026-10-06）新分配；[39][132][168] 为复用既有编号。
+- 引用编号 [184][185] 为本文件新增；[39][132][168] 为复用既有编号。
 
 | 咨询 | 关键话术 | 训练方向 |
 |---|---|---|
@@ -67,4 +67,4 @@
 184. Abdominal Aerobic Endurance Exercise Reveals Spot Reduction Exists: A Randomized Controlled Trial, 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC10680576/（作者/期刊细节未核对）
 185. Effects of Different Exercise Interventions on Body Composition in Women with Overweight and Obesity: A Systematic Review and Network Meta-Analysis. BMJ Open, 2026;16(6):e113206. https://bmjopen.bmj.com/content/16/6/e113206（作者细节未核对）
 
-> 交叉引用已有文献：[168] 个体差异（训练反应）；[39] NSCA Essentials（容量与渐进）；[132] 女性全生命周期训练；[45] 运动解剖（臀部/肩部结构）；[202] 进食障碍边界（第九轮新增）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[168] 个体差异（训练反应）；[39] NSCA Essentials（容量与渐进）；[132] 女性全生命周期训练；[45] 运动解剖（臀部/肩部结构）；[202] 进食障碍边界（新增）。完整书目见 topic-index.md 四、参考文献总表。

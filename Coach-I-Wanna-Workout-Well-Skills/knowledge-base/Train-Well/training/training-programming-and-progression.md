@@ -2,7 +2,7 @@
 > [返回导读与主题索引](../../topic-index.md)
 > 本文件为本主题的主要归属入口；交叉领域请按导读索引读取关联文件。
 
-> 本文件供 AI 教练按需读取，回答会员关于抗阻训练设计的问题：练什么、练多重、练多少组、多久练一次、怎么加重量、要不要练到力竭、动作怎么排。所有结论仅依据本轮提供的文献（参考文献编号见文末，编号体系与 导读统一）。
+> 本文件供 AI 教练按需读取，回答会员关于抗阻训练设计的问题：练什么、练多重、练多少组、多久练一次、怎么加重量、要不要练到力竭、动作怎么排。所有结论仅依据本文件引用的文献（参考文献编号见文末，编号体系与 导读统一）。
 > 若会员存在疼痛、损伤或慢性病，先参照 [Recover Well](../../Recover-Well/recovery-and-pain/recovery-and-pain-management.md) 与 [Eat Well](../../Eat-Well/weight-management/fat-loss-and-special-populations.md) 的对应章节，本文件默认面向健康成人。
 ---
 ## 一、本主题回答哪些问题
@@ -139,7 +139,7 @@
 | 新手留余力、高水平者把力竭用于最后 1 组/单关节动作 | [3] IUSCA，组终止部分 |
 | 高级训练法（drop set 等）无一致优势；可偶尔使用 | [3] IUSCA，高级训练法部分 |
 | 适中训练量下肌肥大未见明确干扰；建议间隔数小时或分日 | [3] IUSCA |
-| 固定 deload 剂量未核实；周期化讨论与应用减量需区分 | [3] IUSCA |
+| deload 已有 2 项专门 RCT（结果方向相反、人群不同）仍无头对头剂量研究；周期化按结局分层表述 | [246][247]（详见平台期文件）；[3] IUSCA |
 | 力量需要高负荷（≥60%–80%1RM 区间） | [1,4] ACSM；Wackerhage 等（2019）负荷建议部分 |
 | 女性相对增肌与男性相当、绝对量约 70% | [5] Lim 等（2026），增肌预期部分 |
 ---
@@ -149,6 +149,8 @@
 [3] Schoenfeld BJ 等（IUSCA 立场声明）：Resistance Training Recommendations to Maximize Muscle Hypertrophy in an Athletic Population，International Journal of Strength and Conditioning，2021。DOI: 10.47206/ijsc.v1i1.81。
 [4] Wackerhage H 等：Stimuli and sensors that initiate skeletal muscle hypertrophy following resistance exercise，2019。
 [5] Lim C 等：Load-induced human skeletal muscle hypertrophy: mechanisms, myths, and misconceptions，2026。
+[246] Coleman M 等：Gaining More From Doing Less? Effects of a One-Week Deload Period During Supervised Resistance Training on Muscular Adaptations. PeerJ, 2024;12:e16777. https://pubmed.ncbi.nlm.nih.gov/38274324/
+[247] Pancar Z 等：Effects of Deload Periods in Resistance Training on Muscle Hypertrophy and Strength Endurance in Untrained Young Men. Sci Rep, 2026;16(1):10299. https://pubmed.ncbi.nlm.nih.gov/41730991/
 
 
 

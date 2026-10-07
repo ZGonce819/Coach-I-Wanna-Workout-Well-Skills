@@ -137,7 +137,7 @@
 [87] StatPearls. Omega-3 Fatty Acids. NCBI Bookshelf, National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/books/NBK564314/
 [88] Sparks D. Medications and supplements that can raise your blood pressure. Mayo Clinic News Network, 2020-09-08. https://newsnetwork.mayoclinic.org/discussion/medications-and-supplements-that-can-raise-your-blood-pressure/
 [89] DailyMed. HYDROCHLOROTHIAZIDE tablet（美国处方药品说明书：噻嗪类减少尿钙排泄、可致血钙轻度升高、明显高钙血症提示隐匿甲旁亢、严重肾病慎用）. https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?audience=consumer&setid=a85f69f5-ba97-478d-e053-2a95a90a0a97
-> 交叉引用已有文献：[36] Rawson 等（2021）肌酸常见问题；[37] ISSN 咖啡因立场（2021）；[38] NIH ODS 运动补剂事实表；[39] NIH ODS 维生素D 事实表；[20] 成人糖尿病食养指南（2023）；[24] 成人慢性肾脏病食养指南（2024）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[36] Rawson 等（2021）肌酸常见问题；[37] ISSN 咖啡因立场（2021）；[38] NIH ODS 运动补剂事实表；[39] NIH ODS 维生素D 事实表；[20] 成人糖尿病食养指南（2023）；[24] 成人慢性肾脏病食养指南（2024）。完整书目见 topic-index.md 四、参考文献总表。
 
 
 

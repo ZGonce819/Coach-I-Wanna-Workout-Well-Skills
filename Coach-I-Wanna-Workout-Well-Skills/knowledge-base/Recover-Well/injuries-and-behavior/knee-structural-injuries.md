@@ -57,7 +57,7 @@
 ## 六、证据限制与来源说明
 - 半月板共识 [182] 为 2024 国际共识（ESSKA-AOSSM-AASPT），推荐等级多为 GRADE B；10 年随访 RCT 证据 [182] 用于"结局相当"。
 - ACL 回归综述 [179] 汇总标准，但各标准有效性证据仍有限；再伤率 1/5 数据来自 <20 岁高冲击人群研究 [179]。
-- 引用编号 [182][179] 为本轮（第八轮，2026-10-05）新分配；[126][39][180] 为复用/关联编号（[180] 见重返运动框架）。
+- 引用编号 [182][179] 为本文件新增；[126][39][180] 为复用/关联编号（[180] 见重返运动框架）。
 
 | 场景 | 处理 | 转介 |
 |---|---|---|
@@ -70,4 +70,4 @@
 179. When Is It Safe to Return to Sport After ACL Reconstruction? Reviewing the Criteria. Sports Health, 2019. https://pmc.ncbi.nlm.nih.gov/articles/PMC6600576/（作者/卷期细节未核对）
 182. The Formal EU-US Meniscus Rehabilitation 2024 Consensus: An ESSKA-AOSSM-AASPT Initiative. Part II—Prevention, Non-Operative Treatment and Return to Sport. Knee Surg Sports Traumatol Arthrosc, 2025. https://doi.org/10.1002/ksa.12689（作者细节未核对）
 
-> 交叉引用已有文献：[180] 伤后重返运动总框架（第八轮新增，通用阶段）；[126] ACSM（筛查）；[39] NSCA Essentials；[61] 儿童青少年（年轻 ACL 人群）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[180] 伤后重返运动总框架（新增，通用阶段）；[126] ACSM（筛查）；[39] NSCA Essentials；[61] 儿童青少年（年轻 ACL 人群）。完整书目见 topic-index.md 四、参考文献总表。

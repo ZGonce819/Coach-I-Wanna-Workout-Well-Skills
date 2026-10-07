@@ -60,7 +60,7 @@
 ## 六、证据限制与来源说明
 - HIIT 编程参数 [166] 为专家综述框架（变量清单与区间），具体组合需按人群与目标选择，无"唯一正确方案"。
 - HIIT vs MICT 结论来自 meta [130][131]，方向一致但效应量受人群/方案影响；个体执行与偏好优先。
-- 引用编号 [166] 为本轮（第七轮，2026-10-05）新分配；[128][130][131][39][163][158] 为复用既有编号。
+- 引用编号 [166] 为本文件新增；[128][130][131][39][163][158] 为复用既有编号。
 
 | 课程元素 | 推荐范围 | 备注 |
 |---|---|---|
@@ -77,4 +77,4 @@
 ## 七、文献清单
 166. Buchheit M, Laursen PB. High-Intensity Interval Training, Solutions to the Programming Puzzle. Part I: Cardiopulmonary Emphasis. Sports Med, 2013;43(5):313–338；Part II: Anaerobic Energy, Neuromuscular Load and Practical Applications. Sports Med, 2013;43(10):927–954. https://doi.org/10.1007/s40279-013-0029-x（Part I）；（Part II DOI 10.1007/s40279-013-0066-5 供网络复核）
 
-> 交叉引用已有文献：[128] ACSM 有氧立场（课程结构与安全）；[130][131] HIIT vs MICT meta（效果方向）；[39] NSCA Essentials（动作选择与进退阶）；[163] sRPE 监控（负荷记录）；[158] 电解质（补水）；[9,10,11,12] 疼痛框架（课中损伤处理）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[128] ACSM 有氧立场（课程结构与安全）；[130][131] HIIT vs MICT meta（效果方向）；[39] NSCA Essentials（动作选择与进退阶）；[163] sRPE 监控（负荷记录）；[158] 电解质（补水）；[9,10,11,12] 疼痛框架（课中损伤处理）。完整书目见 topic-index.md 四、参考文献总表。

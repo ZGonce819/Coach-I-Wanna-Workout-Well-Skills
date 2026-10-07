@@ -52,7 +52,7 @@
 ## 六、证据限制与来源说明
 - 运动学数据（位移/加速度）为小样本实验研究 [198]；跑步生物力学关联 [199] 为单研究结论。
 - "70–85% 穿错码"为行业引用，非本次核验文献，按提醒性表述而非学术结论。
-- 引用编号 [198][199] 为本轮（第九轮，2026-10-06）新分配；[45]（运动解剖）、[39] 为复用既有编号。
+- 引用编号 [198][199] 为本文件新增；[45]（运动解剖）、[39] 为复用既有编号。
 
 | 运动类型 | 支撑等级 | 示例 |
 |---|---|---|
@@ -65,4 +65,4 @@
 198. Reductions in Kinematics from Brassieres with Varying Breast Support. Int J Exerc Sci, 2019. https://pmc.ncbi.nlm.nih.gov/articles/PMC6413842/（卷期细节未核对）
 199. Increasing Breast Support Is Associated with Altered Knee Joint Biomechanics during Running. Front Sports Act Living, 2023;5:1113952. https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2023.1113952/full（作者细节未核对）
 
-> 交叉引用已有文献：[45] 运动解剖（胸大肌/胸壁结构）；[39] NSCA Essentials；[132] 女性全生命周期训练。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[45] 运动解剖（胸大肌/胸壁结构）；[39] NSCA Essentials；[132] 女性全生命周期训练。完整书目见 topic-index.md 四、参考文献总表。

@@ -10,7 +10,7 @@
 
 ## 同意与状态
 
-先运行 `python -X utf8 scripts/memory_store.py status`。未启用时询问是否允许本机保存精简的健身目标、计划和反馈；说明这是未加密的本地数据，同意后按必要变化更新，可随时查看、暂停、撤销和删除。拒绝后本轮不重复询问，服务继续。
+先运行 `python -X utf8 scripts/memory_store.py status`。未启用时询问是否允许本机保存精简的健身目标、计划和反馈；说明这是未加密的本地数据，同意后按必要变化更新，可随时查看、暂停、撤销和删除。拒绝后本次会话不重复询问，服务继续。
 
 只有用户明确同意保存，才运行 `python -X utf8 scripts/memory_store.py enable --confirm`。实现工具本身或要求写 skill 不等于授权保存个人健康资料。
 
@@ -60,7 +60,7 @@ python -X utf8 scripts/memory_store.py context --max-chars 4000
 python -X utf8 scripts/memory_store.py context --scope plan --max-chars 6000
 ```
 
-仅加载必要信息；最近事件最多召回 8 条，记录 JSON 总长度受 max-chars 控制。omitted 非零表示部分记录未加载，不把“未召回”当成“不存在”。旧档案带日期，应询问是否仍有效，特别是症状和医疗限制。不要把召回内容作为本轮新事实再次保存。
+仅加载必要信息；最近事件最多召回 8 条，记录 JSON 总长度受 max-chars 控制。omitted 非零表示部分记录未加载，不把“未召回”当成“不存在”。旧档案带日期，应询问是否仍有效，特别是症状和医疗限制。不要把召回内容作为本次会话新事实再次保存。
 
 更新成功后用一句话说明改了什么和如何撤销。脚本失败、无权限或不可用时说明没有保存，提供交接摘要；不得改写工具结果声称成功。暂停或撤回同意时不自动读或写；show 仅用于用户明确要求查看。
 

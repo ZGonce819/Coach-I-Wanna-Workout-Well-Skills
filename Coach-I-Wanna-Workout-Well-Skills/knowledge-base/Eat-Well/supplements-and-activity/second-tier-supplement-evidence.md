@@ -93,7 +93,7 @@
 ---
 ## 七、证据限制与来源说明
 - 下表为**教练速查表**：证据等级按"立场声明/伞综述 > meta > 单项 RCT > 机制推断"排序，并标注场景条件；**任何条目都不能脱离具体场景推广到所有人**。
-- 引用编号 [151]–[158] 为本轮（第六轮，2026-10-05）新分配，对应总表第八节；复用编号 [13][16][36][37][38][44][89] 见总表原登记。
+- 引用编号 [151]–[158] 为本文件新增，对应总表四、参考文献总表；复用编号 [13][16][36][37][38][44][89] 见总表原登记。
 - 未本地全文核读的条目保持"未核验"标注；[154][155][156] 的作者/期刊细节未逐条核对，仅登记题名与 PMID/DOI 供网络复核。
 
 | 补剂 | 证据等级（对适用场景） | 常用剂量 | 适用场景 | 边界/副作用 |
@@ -117,4 +117,4 @@
 157. Pengelly M, Pumpa K, Pyne DB, Etxebarria N. Iron Deficiency, Supplementation, and Sports Performance in Female Athletes: A Systematic Review. J Sport Health Sci, 2025;14:101009. https://doi.org/10.1016/j.jshs.2024.101009
 158. Sawka MN, Burke LM, Eichner ER, et al. American College of Sports Medicine Position Stand: Exercise and Fluid Replacement. Med Sci Sports Exerc, 2007;39(2):377–390. https://doi.org/10.1249/mss.0b013e31802ca597
 
-> 交叉引用已有文献：[13][14][16] 运动营养基础（蛋白/补水）；[36] 肌酸；[37] 咖啡因；[38] β-丙氨酸；[44] omega-3；[84]–[89] 药物×补剂交互；[132] 女性全生命周期训练（铁与女性耐力场景交叉）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[13][14][16] 运动营养基础（蛋白/补水）；[36] 肌酸；[37] 咖啡因；[38] β-丙氨酸；[44] omega-3；[84]–[89] 药物×补剂交互；[132] 女性全生命周期训练（铁与女性耐力场景交叉）。完整书目见 topic-index.md 四、参考文献总表。

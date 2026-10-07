@@ -52,7 +52,7 @@
 ## 六、证据限制与来源说明
 - Cochrane [192] 证据高质量，但剂量最优值未完全统一（各组方案差异）；PFMT 长期依从是现实挑战。
 - 产后 SUI NMA [193] 归纳干预剂量（PFMT 8–12 次/组等），为网络比较间接证据。
-- 引用编号 [192][193] 为本轮（第九轮，2026-10-06）新分配；[132]（产后清单）、[45] 为复用既有编号。
+- 引用编号 [192][193] 为本文件新增；[132]（产后清单）、[45] 为复用既有编号。
 
 | 情形 | 处理 | 转介 |
 |---|---|---|
@@ -66,4 +66,4 @@
 192. Dumoulin C, Cacciari LP, Hay-Smith EJC. Pelvic Floor Muscle Training versus No Treatment, or Inactive Control Treatments, for Urinary Incontinence in Women. Cochrane Database Syst Rev, 2018. https://pubmed.ncbi.nlm.nih.gov/30288727/
 193. Effects of Various Exercise Interventions for Postpartum Stress Urinary Incontinence: A Systematic Review and Network Meta-Analysis. Front Med, 2026. https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1795125/pdf（作者细节未核对）
 
-> 交叉引用已有文献：[132] 女性全生命周期训练（产后清单）；[195] 产后回归实操（第九轮新增，腹直肌分离）；[45] 运动解剖（核心/盆底结构）。完整书目见 topic-index.md 第八节。
+> 交叉引用已有文献：[132] 女性全生命周期训练（产后清单）；[195] 产后回归实操（新增，腹直肌分离）；[45] 运动解剖（核心/盆底结构）。完整书目见 topic-index.md 四、参考文献总表。
