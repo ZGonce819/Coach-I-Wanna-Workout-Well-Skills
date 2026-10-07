@@ -47,10 +47,10 @@ python scripts/check_version.py --auto-update off   # 关闭
 发现新版不等于获得更新授权。`auto_update` 已开启或用户本次明确授权时按本流程执行；未开启且未授权时**不询问、不更新**，继续本地服务，服务结束时说明“本次回答基于当前安装版本，建议更新后重试”；用户明确要求更新时再按本流程执行。更新必须先于检索：完成下载、校验、安装与核验后，再开始读取知识库作答。紧急安全建议优先，不因更新阻塞服务。授权后由智能体在本次服务内直接完成更新，不再要求用户手工操作。
 
 1. **记录检查结果**：`current_version`、`latest_version`、`region`、`repository_url`、`manifest_url`。
-2. **下载**：把所选来源的完整仓库压缩包下载到本机临时目录（不得放在技能目录内部）。地址按来源固定：
+2. **下载**：把所选来源的完整仓库压缩包下载到本机临时目录（不得放在技能目录内部），**必须使用 `curl`（带 `-L`）**：Windows 用 `curl.exe -L -o <路径> <url>`（PowerShell `Invoke-WebRequest` 会被 Gitee 反爬返回 HTML 验证页而非 zip，伪装 User-Agent 同样无效；curl.exe 实测可行）；macOS / Linux 直接用系统自带 `curl -L -o <路径> <url>`。地址按来源固定：
    - `cn`（Gitee）：`https://gitee.com/zgonce819/Coach-I-Wanna-Workout-Well-Skills/repository/archive/main.zip`
    - `global`（GitHub）：`https://github.com/ZGonce819/Coach-I-Wanna-Workout-Well-Skills/archive/refs/heads/main.zip`
-   下载失败或超时：不安装，说明原因，继续使用本地版本。
+   下载后校验文件头：真 zip 以 `PK` 开头；若文件很小（数十至数百字节）且内容为 HTML，判定为验证页，按下载失败处理。下载失败、超时或验证页：不安装，说明原因，继续使用本地版本。
 3. **解压并定位技能包根目录**：按内容定位，找到同时包含 `SKILL.md` 与 `version.json` 的那一层目录（压缩包内通常是 `<仓库名>-main/Coach-I-Wanna-Workout-Well-Skills/`；镜像命名可能不同，不按目录名猜，按内容确认）。只取该技能包目录，不安装仓库根目录里的其他文件。
 4. **校验**：包内 `version.json` 的版本必须等于 `latest_version`；包内必须包含 `scripts/check_version.py`、`scripts/memory_store.py`、`references/long-term-memory.md`、`knowledge-base/topic-index.md`。任一不符即中止，不安装。
 5. **备份**：把当前技能目录完整复制到配置目录 `coach-i-wanna-workout-well/backups/<YYYYmmdd-HHMMSS>/`（与 `update-settings.json` 同目录），保留最近 3 份备份。
