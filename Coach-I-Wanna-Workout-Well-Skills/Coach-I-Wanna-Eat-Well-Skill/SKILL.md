@@ -13,7 +13,7 @@ description: 制定和调整增肌、减脂与维持体重的饮食安排，计�
 
 沿用 [接待与反馈](../references/intake-and-feedback.md) 中已知信息。完整饮食方案按需补充年龄段、目标、身高体重及近期趋势、活动量、常见三餐、过敏与饮食限制、预算、做饭或外食条件，以及相关疾病、用药和孕产状态。不知道体脂可留空；不为了回答“蛋白粉要不要买”要求完整档案。
 
-从 [索引](../knowledge-base/topic-index.md) 默认选择 1–3 份主题：
+从 [索引](../knowledge-base/topic-index.md) 定位主主题并按需增量读取（复合/风险场景可继续补读，直到新文件不再改变结论）：
 
 - 一般营养与蛋白目标：[运动营养基础](../knowledge-base/Eat-Well/fundamentals/sports-nutrition-basics.md)。
 - 减脂或特殊人群：[减脂与特殊人群食养](../knowledge-base/Eat-Well/weight-management/fat-loss-and-special-populations.md)。

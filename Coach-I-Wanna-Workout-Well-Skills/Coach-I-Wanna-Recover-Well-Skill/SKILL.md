@@ -19,7 +19,7 @@ description: 筛查运动相关疼痛与恢复问题，识别需要医疗处理�
 
 ## 按需读取
 
-从 [索引](../knowledge-base/topic-index.md) 默认选择 1–3 份相关主题，风险需要时补读：
+从 [索引](../knowledge-base/topic-index.md) 定位主主题并按需增量读取相关主题（风险/复合场景可继续补读，直到新文件不再改变结论）：
 
 - 通用疼痛、腰膝跟腱：[恢复与疼痛管理](../knowledge-base/Recover-Well/recovery-and-pain/recovery-and-pain-management.md)。
 - 足底、ITBS、腘绳肌与肩袖：[常见损伤与心理干预](../knowledge-base/Recover-Well/injuries-and-behavior/common-injuries-and-behavior-support.md)。

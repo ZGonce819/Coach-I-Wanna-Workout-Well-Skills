@@ -1,8 +1,8 @@
 # 导读与主题索引
 
 > Coach I Wanna Workout Well · 循证健身知识库
-> 用途：AI 教练接到用户问题后，先按"二、用户问题 → 应读取的主题文件"或"一、主题索引"定位并读取 1–3 份主题指南，再作出判断、方案与转介建议。
-> 构成：本导读 1 份 + 主题指南 70 份 + 处方核验报告 1 份，共 72 份 Markdown，分属五大领域（Train Well 训练处方与进阶 / Eat Well 饮食与运动营养 / Know Well 肌肥大机制与训练原理 / Flex Well 热身、柔韧性与活动度 / Recover Well 疼痛、康复与返场）。
+> 用途：AI 教练接到用户问题后，先按"二、用户问题 → 应读取的主题文件"或"一、主题索引"定位主主题，按需增量读取主文件与关联文件（以"新文件不再改变回答"为停止标准），再作出判断、方案与转介建议。
+> 构成：本导读 1 份 + 主题指南 87 份 + 处方核验报告 1 份，共 89 份 Markdown，分属五大领域（Train Well 训练处方与进阶 / Eat Well 饮食与运动营养 / Know Well 肌肥大机制与训练原理 / Flex Well 热身、柔韧性与活动度 / Recover Well 疼痛、康复与返场）。
 > 引用体系：主题文件内 [编号] 均指向"四、参考文献总表"，编号唯一、跨文件复用；主题文件之间的交叉引用使用相对路径链接。
 > 证据边界：ACSM 两份文献仅据中文译本与英文摘要核对；网络检索引证条目按题名/PMID/DOI 核验、未逐条全文审校；[26] 中国居民膳食指南按 2022 版引用——源文件名标注年份与内容不符，若确有新版需另行提供文件。
 
@@ -48,6 +48,15 @@
 | [爆发力与增强式训练处方](Train-Well/training/power-and-plyometric-training.md) | 跳跃/投掷/速度-力量/增强式剂量与渐进 | [231][232][115][61] |
 | [游泳与骑行专项编程](Train-Well/sport-specific/swimming-and-cycling-programming.md) | 游泳干地力量/骑行大重量下肢/同时训练安排 | [237][238][181][128] |
 | [力量举与奥举专项编程](Train-Well/sport-specific/powerlifting-and-olympic-lifting-programming.md) | 三大项频率强度/RPE-RIR/peaking/举重入门 | [239]–[241][163][159] |
+| [生病与训练](Train-Well/chronic-conditions/illness-and-training.md) | 感冒能不能练/颈上法则/发热与全身症状/病后阶梯回归 | [266][267] |
+| [旅行/出差期间训练与饮食](Train-Well/home-and-equipment/travel-and-training-maintenance.md) | 停练时间线/最小维持剂量/无器械方案/外食与时差 | [270][271][272] |
+| [环境训练：炎热与寒冷](Train-Well/training/environmental-conditions-and-training.md) | 热天补水补盐/热病谱系/风冷与冻伤/分层穿衣 | [274][275][276] |
+| [内分泌慢病与运动：甲状腺与 PCOS](Train-Well/chronic-conditions/endocrine-conditions-and-exercise.md) | 甲减/甲亢运动边界、PCOS 运动剂量、转介 | [279][280][281] |
+| [GLP-1 减重药物与运动营养](Train-Well/chronic-conditions/glp1-medications-and-exercise.md) | 用药期训练结构/防肌肉流失/蛋白 1.2–1.6 g/kg/就医信号 | [289][290] |
+| [拳击与格斗类运动力量与体能](Train-Well/sport-specific/combat-sports-programming.md) | 复合力量+爆发/肩腕膝颈防伤/实战前减量 | [283][213][214] |
+| [舞蹈训练力量与体能](Train-Well/sport-specific/dance-programming.md) | 舞者体能补充/踝膝腰背防伤/神经肌肉热身 | [284][285] |
+| [滑雪与攀岩训练准备](Train-Well/sport-specific/ski-and-climbing-programming.md) | 滑雪下肢离心/等长+H:Q 平衡/攀岩抓握肩胛/强度管理 | [286][287] |
+| [男性增肌减脂专项](Train-Well/men/male-body-composition-and-fat-loss.md) | 男性体成分/减脂保肌/腹部脂肪/睾酮筛查边界 | [291][292][15] |
 
 ### Eat Well（饮食与运动营养）
 
@@ -64,6 +73,10 @@
 | [增肌期营养实操](Eat-Well/muscle-gain/muscle-gain-nutrition-practice.md) | 盈余幅度/宏量分配/增肌速度预期/追踪校准 | [162][168][15][39] |
 | [特殊人群营养补遗：青少年与素食者](Eat-Well/special-populations/special-population-nutrition.md) | 青少年蛋白/补剂边界、素食蛋白与微量营养素 | [164][165][157][86] |
 | [碳水循环与进阶饮食法](Eat-Well/weight-management/carb-cycling-and-advanced-diets.md) | 碳水循环定位/操作模板/生酮断食关系/LEA 边界 | [233][234][14][162] |
+| [消化与肠胃健康](Eat-Well/digestive-health/digestion-and-gut-health.md) | 便秘/腹泻/训练时胃肠不适/蛋白粉肠胃敏感/转介 | [256]–[259] |
+| [酒精与健身](Eat-Well/supplements-and-activity/alcohol-and-fitness.md) | 练后饮酒剂量/肌蛋白合成抑制/宿醉训练/减脂期安排 | [268][269] |
+| [乳糖不耐与补剂选择](Eat-Well/special-populations/lactose-intolerance-and-supplements.md) | 乳清浓缩/分离/水解选型、植物蛋白替代、自测耐受 | [273][256] |
+| [学生党低预算高蛋白饮食](Eat-Well/weight-management/budget-student-nutrition.md) | 单位蛋白性价比/食堂宿舍搭配/蛋白粉比价/30 元/天示例 | [282][206][207] |
 
 ### Know Well（肌肥大机制与训练原理）
 
@@ -79,6 +92,7 @@
 |---|---|---|
 | [热身与柔韧性](Flex-Well/mobility/warm-up-and-flexibility.md) | 热身/静态动态 PNF/柔韧性训练/防伤 | [7][8] |
 | [活动度渐进改善](Flex-Well/mobility/mobility-progression.md) | 力量训练改善活动度/踝髋肩渐进方案/复测 | [141][138][7][8] |
+| [瑜伽与普拉提：与力量训练搭配](Flex-Well/mobility/yoga-pilates-integration.md) | 瑜伽柔韧/普拉提核心证据、搭配安排、非替代训练 | [288][7][8] |
 
 ### Recover Well（疼痛、康复与返场）
 
@@ -104,12 +118,15 @@
 | [髋部疼痛与损伤](Recover-Well/injuries-and-behavior/hip-pain-and-injury.md) | 髋撞击/臀肌腱病/大转子疼痛分诊与训练调整/转介红旗 | [215][216][217][9] |
 | [小腿与胫骨损伤](Recover-Well/injuries-and-behavior/shin-splints-and-calf-injuries.md) | MTSS/应力骨折分诊/回归跑步/小腿三头肌拉伤 | [225]–[227][77][149] |
 | [训练成瘾与男性肌肉上瘾](Recover-Well/injuries-and-behavior/exercise-addiction-and-muscle-dysmorphia.md) | 训练成瘾识别/EAI 线索/肌肉上瘾/转介边界 | [235][236][202][203] |
+| [皮肤问题与运动](Recover-Well/injuries-and-behavior/skin-health-and-exercise.md) | 湿疹×运动/汗疹/健身皮肤感染/游泳氯水/三阶段护理 | [260][261][262] |
+| [肩峰撞击综合征](Recover-Well/injuries-and-behavior/shoulder-impingement-syndrome.md) | 疼痛弧/窗口运动/肩袖肩胛稳定/与冻结肩鉴别/转介 | [263][264][265] |
+| [急性软组织损伤处理](Recover-Well/recovery-and-pain/acute-soft-tissue-injury-management.md) | PEACE & LOVE/RICE 争议/72h 处理/渐进回归/转介红线 | [277][278] |
 
 ---
 
 ## 二、用户问题 → 应读取的主题文件
 
-> 默认读取 1–3 份。交叉问题先读主文件，再看关联文件。
+> 按需增量读取：先读主文件；交叉问题再读关联文件；复合或风险场景可继续补读，直到新文件不再改变结论为止。禁止无增益加载。
 
 | 会员问题（典型表述） | 主文件 | 关联文件 |
 |---|---|--- |
@@ -212,6 +229,23 @@
 | 老年人练什么防跌倒？单腿站不稳怎么办？ | [老年防跌倒与平衡训练](Train-Well/falls-prevention/falls-prevention-and-balance.md) | [慢病运动处方](Train-Well/chronic-conditions/chronic-conditions-and-exercise.md)、[运动前健康筛查与风险分层](Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md) |
 | 鸡胸/鸡蛋/米饭/香蕉各多少热量和蛋白？怎么配够蛋白？外食怎么估？ | [食物营养含量速查](Eat-Well/fundamentals/food-nutrition-content-quick-reference.md) | [运动营养基础](Eat-Well/fundamentals/sports-nutrition-basics.md)、[增肌期营养实操](Eat-Well/muscle-gain/muscle-gain-nutrition-practice.md)、[减脂与特殊人群食养](Eat-Well/weight-management/fat-loss-and-special-populations.md) |
 | 吃饭也消耗热量吗？高蛋白"燃烧更多"是真的吗？少食多餐能提高代谢吗？ | [食物热效应与减脂](Eat-Well/fundamentals/thermic-effect-of-food.md) | [运动营养基础](Eat-Well/fundamentals/sports-nutrition-basics.md)、[减脂与特殊人群食养](Eat-Well/weight-management/fat-loss-and-special-populations.md)、[食物营养含量速查](Eat-Well/fundamentals/food-nutrition-content-quick-reference.md) |
+| 健身/减脂期便秘了，怎么办？喝蛋白粉胀气/腹泻是乳糖问题吗？ | [消化与肠胃健康](Eat-Well/digestive-health/digestion-and-gut-health.md) | [乳糖不耐与补剂选择](Eat-Well/special-populations/lactose-intolerance-and-supplements.md)、[药物补剂相互作用](Eat-Well/supplements-and-activity/drug-supplement-interactions.md) |
+| 我有湿疹/皮肤敏感，能运动吗？出汗痒怎么办？健身长痘/毛囊炎？ | [皮肤问题与运动](Recover-Well/injuries-and-behavior/skin-health-and-exercise.md) | [消化与肠胃健康](Eat-Well/digestive-health/digestion-and-gut-health.md)（若伴肠胃警报）、[运动前健康筛查与风险分层](Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md) |
+| 举臂到一半肩痛（疼痛弧）/肩峰撞击，还能练胸练肩吗？ | [肩峰撞击综合征](Recover-Well/injuries-and-behavior/shoulder-impingement-syndrome.md) | [肩关节不稳与冻结肩](Recover-Well/injuries-and-behavior/shoulder-instability-and-frozen-shoulder.md)、[常见损伤与心理干预](Recover-Well/injuries-and-behavior/common-injuries-and-behavior-support.md) |
+| 感冒/发烧了还能练吗？病好了多久恢复？ | [生病与训练](Train-Well/chronic-conditions/illness-and-training.md) | [运动前健康筛查与风险分层](Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md)、[睡眠恢复与训练管理](Recover-Well/sleep-and-load/sleep-recovery-and-training-load.md) |
+| 训练后喝酒会白练吗？喝多少影响增肌？宿醉能练吗？ | [酒精与健身](Eat-Well/supplements-and-activity/alcohol-and-fitness.md) | [运动营养基础](Eat-Well/fundamentals/sports-nutrition-basics.md)、[睡眠恢复与训练管理](Recover-Well/sleep-and-load/sleep-recovery-and-training-load.md) |
+| 出差/旅行两周不练会掉肌肉吗？酒店没器械怎么维持？ | [旅行/出差期间训练与饮食](Train-Well/home-and-equipment/travel-and-training-maintenance.md) | [居家/自重/弹力带训练](Train-Well/home-and-equipment/home-and-bodyweight-training.md)、[时间紧凑训练](Train-Well/training/time-efficient-training.md) |
+| 乳糖不耐能吃乳清蛋白吗？浓缩/分离/水解怎么选？ | [乳糖不耐与补剂选择](Eat-Well/special-populations/lactose-intolerance-and-supplements.md) | [消化与肠胃健康](Eat-Well/digestive-health/digestion-and-gut-health.md)、[特殊人群营养补遗：青少年与素食者](Eat-Well/special-populations/special-population-nutrition.md) |
+| 大热天/冬天户外训练怎么补水防冻？热射病怎么识别？ | [环境训练：炎热与寒冷](Train-Well/training/environmental-conditions-and-training.md) | [有氧与心肺训练处方](Train-Well/cardio/aerobic-and-conditioning-programming.md)、[营养补剂与日常活动](Eat-Well/supplements-and-activity/supplements-and-daily-activity.md) |
+| 刚扭伤/拉伤（72 小时内）怎么处理？冰敷吗？ | [急性软组织损伤处理](Recover-Well/recovery-and-pain/acute-soft-tissue-injury-management.md) | [伤后重返运动总框架](Recover-Well/recovery-and-pain/return-to-sport-framework.md)、[恢复与疼痛管理](Recover-Well/recovery-and-pain/recovery-and-pain-management.md) |
+| 甲减/甲亢能健身吗？PCOS 适合什么运动？ | [内分泌慢病与运动：甲状腺与 PCOS](Train-Well/chronic-conditions/endocrine-conditions-and-exercise.md) | [慢病运动处方](Train-Well/chronic-conditions/chronic-conditions-and-exercise.md)、[运动前健康筛查与风险分层](Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md) |
+| 生活费有限，怎么吃够增肌蛋白？食堂/宿舍怎么搭？ | [学生党低预算高蛋白饮食](Eat-Well/weight-management/budget-student-nutrition.md) | [食物营养含量速查](Eat-Well/fundamentals/food-nutrition-content-quick-reference.md)、[运动营养基础](Eat-Well/fundamentals/sports-nutrition-basics.md) |
+| 练拳击/格斗还要举铁吗？怎么练出拳爆发力？ | [拳击与格斗类运动力量与体能](Train-Well/sport-specific/combat-sports-programming.md) | [球类运动专项力量与编程](Train-Well/sport-specific/ball-sports-programming.md)、[爆发力与增强式训练处方](Train-Well/training/power-and-plyometric-training.md) |
+| 跳舞要单独练力量吗？舞者怎么防伤？ | [舞蹈训练力量与体能](Train-Well/sport-specific/dance-programming.md) | [急性软组织损伤处理](Recover-Well/recovery-and-pain/acute-soft-tissue-injury-management.md)、[慢性踝关节不稳](Recover-Well/injuries-and-behavior/chronic-ankle-instability.md) |
+| 滑雪季前怎么练腿？攀岩练什么能进步、手指疼怎么办？ | [滑雪与攀岩训练准备](Train-Well/sport-specific/ski-and-climbing-programming.md) | [爆发力与增强式训练处方](Train-Well/training/power-and-plyometric-training.md)、[急性软组织损伤处理](Recover-Well/recovery-and-pain/acute-soft-tissue-injury-management.md) |
+| 瑜伽/普拉提能代替举铁吗？怎么和力量训练搭配？ | [瑜伽与普拉提：与力量训练搭配](Flex-Well/mobility/yoga-pilates-integration.md) | [热身与柔韧性](Flex-Well/mobility/warm-up-and-flexibility.md)、[活动度渐进改善](Flex-Well/mobility/mobility-progression.md) |
+| 在打 GLP-1 减重药，怎么练不掉肌肉？蛋白吃多少？ | [GLP-1 减重药物与运动营养](Train-Well/chronic-conditions/glp1-medications-and-exercise.md) | [减脂期抗阻训练专项](Train-Well/training/fat-loss-resistance-training.md)、[减脂与特殊人群食养](Eat-Well/weight-management/fat-loss-and-special-populations.md) |
+| 男性减脂怎么不掉肌肉？肚子怎么减？要不要查睾酮？ | [男性增肌减脂专项](Train-Well/men/male-body-composition-and-fat-loss.md) | [减脂期抗阻训练专项](Train-Well/training/fat-loss-resistance-training.md)、[肌肥大机制与训练原理](Know-Well/hypertrophy/hypertrophy-mechanisms-and-training-principles.md) |
 
 ---
 
@@ -254,6 +288,15 @@
 - **"爆发力与增强式"**：主归 爆发力与增强式训练处方（Train Well）；球类需求看 球类运动专项力量与编程，儿童青少年看 儿童青少年与长期效应，损伤衔接 膝部结构损伤、慢性踝关节不稳。
 - **"游泳骑行专项"**：主归 游泳与骑行专项编程（Train Well）；有氧编程看 有氧与心肺训练处方，肩伤看 肩关节不稳与冻结肩，通用处方看 训练方案与进阶。
 - **"力量举奥举专项"**：主归 力量举与奥举专项编程（Train Well）；强度监控看 训练监控与调整工作流，技术教学看 执教技术与动作教学，伤病衔接 膝部结构损伤、肩关节不稳与冻结肩。
+- **"生病与训练"**：主归 生病与训练（Train Well）；筛查前置看 运动前健康筛查与风险分层，恢复衔接 睡眠恢复与训练管理、伤后重返运动总框架；不替代医嘱。
+- **"旅行/出差维持"**：主归 旅行/出差期间训练与饮食（Train Well）；无器械执行看 居家/自重/弹力带训练，短时安排看 时间紧凑训练，外食蛋白看 食物营养含量速查。
+- **"环境训练（热/冷）"**：主归 环境训练：炎热与寒冷（Train Well）；补水补盐看 营养补剂与日常活动（电解质）与 运动营养基础，心肺强度看 有氧与心肺训练处方。
+- **"内分泌慢病（甲减/甲亢/PCOS）"**：主归 内分泌慢病与运动：甲状腺与 PCOS（Train Well）；一般慢病边界看 慢病运动处方，筛查转介看 运动前健康筛查与风险分层，女性激素场景看 经期专题、女性全生命周期训练。
+- **"GLP-1 用药期训练营养"**：主归 GLP-1 减重药物与运动营养（Train Well）；训练保肌剂量看 减脂期抗阻训练专项，营养侧看 减脂与特殊人群食养、增肌期营养实操，药物管理在医疗端。
+- **"格斗/拳击专项"**：主归 拳击与格斗类运动力量与体能（Train Well）；爆发力剂量看 爆发力与增强式训练处方，通用处方看 训练方案与进阶，损伤侧看 急性软组织损伤处理、肩关节不稳与冻结肩。
+- **"舞蹈专项"**：主归 舞蹈训练力量与体能（Train Well）；踝/膝/腰背损伤看 慢性踝关节不稳、恢复与疼痛管理，柔韧侧看 热身与柔韧性、瑜伽与普拉提。
+- **"滑雪攀岩专项"**：主归 滑雪与攀岩训练准备（Train Well）；下肢爆发与离心看 爆发力与增强式训练处方，抓握/指关节不适看 急性软组织损伤处理；攀岩指/腕、滑雪 ACL 高发场景不并入球类专项。
+- **"男性增肌减脂专项"**：主归 男性增肌减脂专项（Train Well）；减脂保肌训练侧看 减脂期抗阻训练专项，营养侧看 减脂与特殊人群食养、增肌期营养实操，肌肉上瘾/LEA 看 训练成瘾与男性肌肉上瘾（Recover Well）。
 
 ### Eat Well
 
@@ -270,6 +313,9 @@
 - **"食物营养含量与配餐"**：主归 食物营养含量速查（Eat Well）；宏量摄入目标与分配看 运动营养基础、增肌期营养实操，减脂选择看 减脂与特殊人群食养，素食/青少年看 特殊人群营养补遗；本文件只做"含量参考值 + 份量换算 + 外食估算 + 标签阅读"，不重复宏观摄入目标与剂量。
 - **"食物热效应与代谢"**：主归 食物热效应与减脂（Eat Well）；热量规划与减脂口径看 减脂与特殊人群食养、运动营养基础，含量数值看 食物营养含量速查；本文件只做 TEF 占比/宏量差异/进餐频率的量级科普与话术校准，不重复宏观能量目标与减脂流程。
 - **"碳水循环与进阶饮食法"**：主归 碳水循环与进阶饮食法（Eat Well）；减脂基础看 减脂与特殊人群食养、食物热效应与减脂，进食障碍边界看 身材焦虑与进食障碍：教练边界。
+- **"消化与肠胃健康"**：主归 消化与肠胃健康（Eat Well）；补剂相关的肠胃反应看 乳糖不耐与补剂选择、药物补剂相互作用，便秘/腹泻的医学红线转介消化内科；不替代胃肠专科诊断。
+- **"酒精与健身"**：主归 酒精与健身（Eat Well）；蛋白/碳水基础看 运动营养基础，睡眠与恢复看 睡眠恢复与训练管理，增肌减脂场景的宏量分配看 增肌期营养实操、减脂与特殊人群食养。
+- **"乳糖不耐与补剂"**：主归 乳糖不耐与补剂选择（Eat Well）；肠胃不适鉴别看 消化与肠胃健康，植物蛋白/素食看 特殊人群营养补遗，核心补剂剂量看 营养补剂与日常活动。
 
 ### Know Well
 
@@ -285,6 +331,7 @@
 
 - **"热身与柔韧"**：Flex Well（05）覆盖急性效应；01 只在休息/顺序规则中涉及，不重复拉伸内容。
 - **"活动度渐进改善"**：主归 活动度渐进改善（Flex Well）；急性拉伸/热身看 05，解剖代偿排查看 运动解剖基础与训练应用。
+- **"瑜伽与普拉提"**：主归 瑜伽与普拉提：与力量训练搭配（Flex Well）；急性拉伸与热身看 热身与柔韧性，长期活动度看 活动度渐进改善，柔韧相关损伤边界看 恢复与疼痛管理；瑜伽/普拉提不替代力量训练处方。
 
 ### Recover Well
 
@@ -310,6 +357,9 @@
 - **"髋部疼痛与损伤"**：主归 髋部疼痛与损伤（Recover Well）；疼痛框架看 恢复与疼痛管理，筛查转介衔接 运动前健康筛查与风险分层；与髌股痛的"髋+膝结合"互补不重叠。
 - **"小腿与胫骨损伤"**：主归 小腿与胫骨损伤（Recover Well）；跑量规则看 跑步与耐力专项训练，跟腱问题看 恢复与疼痛管理，不重复各自范围。
 - **"训练成瘾与肌肉上瘾"**：主归 训练成瘾与男性肌肉上瘾（Recover Well）；进食障碍侧看 身材焦虑与进食障碍：教练边界，LEA/RED-S 看 经期专题、身材焦虑与进食障碍边界，心理筛查看 损伤谱补充与心理筛查。
+- **"皮肤问题与运动"**：主归 皮肤问题与运动（Recover Well）；湿疹等皮肤免疫/炎症场景与肠胃警报并行时看 消化与肠胃健康，运动安全筛查看 运动前健康筛查与风险分层；教练做护理与装备建议，不处方皮肤药。
+- **"肩峰撞击/肩袖相关痛"**：主归 肩峰撞击综合征（Recover Well）；与 肩关节不稳与冻结肩 方向鉴别（主动痛弧 vs 过动 vs 被动受限），肩袖/滑囊鉴别看 常见损伤与心理干预，上肢训练安排看 训练方案与进阶。
+- **"急性软组织损伤（72h 内）"**：主归 急性软组织损伤处理（Recover Well）；急性期后回归看 伤后重返运动总框架，部位具体康复（踝/膝/肩）看 慢性踝关节不稳、膝部结构损伤、肩峰撞击综合征，疼痛框架看 恢复与疼痛管理。
 
 ---
 
@@ -570,8 +620,45 @@
 253. Ramskov D, et al. Progression in Running Intensity or Running Volume and the Development of Specific Injuries in Recreational Runners: Run Clever, a Randomized Trial. 2018. https://pubmed.ncbi.nlm.nih.gov/29895234/
 254. Mohammed WA, et al. Effect of Mindfulness Based Stress Reduction in Increasing Pain Tolerance and Improving the Mental Health of Injured Athletes. 2018. https://pubmed.ncbi.nlm.nih.gov/29867682/（结局为疼痛耐受与心理健康，非运动表现/恢复）
 255. Bühlmayer L, et al. Effects of Mindfulness Practice on Performance-Relevant Parameters and Performance Outcomes in Sports: A Meta-Analytical Review. 2017. https://pubmed.ncbi.nlm.nih.gov/28664327/（泛正念干预，非标准化 MBSR）
+256. de Oliveira EP, Burini RC. Gastrointestinal Complaints During Exercise: Prevalence, Etiology, and Nutritional Recommendations. Sports Med, 2014. https://pmc.ncbi.nlm.nih.gov/articles/PMC4008808/
+257. (探索性研究) Management strategies reported by endurance athletes with exercise-associated gastrointestinal symptoms. 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC9691682/（作者细节未核对）
+258. FYSS 28. Gastrointestinal diseases. European Federation of Sports Medicine Associations (EFSMA). https://www.efsma.org/images/pdf/references/eph_and_gastrointestinal_system/FYSS-28.-Gastrointestinal-diseases.pdf
+259. 中华医学会消化病学分会. 中国慢性便秘专家共识意见（2019，广州）. 中华消化杂志, 2019. https://rs.yiigle.com/cmaid/1163448
+260. (叙述性综述) The Effects of Physical Activity on Skin Health: A Narrative Review. 2026. https://pmc.ncbi.nlm.nih.gov/articles/PMC12417714/（作者细节未核对）
+261. Exercise and eczema. National Eczema Society（英国国家湿疹学会）. https://www.eczema.org.uk/support/exercise-and-eczema（患者教育，应用建议）
+262. 湿疹与运动：使用建议. Pierre Fabre Eczema Foundation（湿疹基金会，中文页）. https://www.pierrefabreeczemafoundation.org/zh-hans/shou-bangzhu/shiyong-jianyi/yundong（患者教育，应用建议）
+263. (系统综述+网络 meta) Effects of seven types of exercise in the treatment of rotator cuff-related shoulder pain (RCRSP). J Orthop Surg Res, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12715924/（卷期细节未核对）
+264. Comparative effectiveness of physical therapy interventions in adults with rotator cuff tendinopathy: a systematic review and network meta-analysis. Br J Sports Med, 2026;60(13):970. https://bjsm.bmj.com/content/60/13/970
+265. Shoulder Impingement Syndrome. StatPearls, NCBI Bookshelf (2026 更新). https://www.ncbi.nlm.nih.gov/books/NBK554518/
+266. 国家体育总局：感冒后能否运动？专家支招：看脖子（科研所国民体质与科学健身研究中心）. 2023. https://www.sport.gov.cn/n20001280/n20001265/n20066978/c27188974/content.html（官方科普；颈上法则框架）
+267. (安全共识/免疫学框架) Exercise when sick: safe guidelines & myocarditis risk（临床共识性资料，2025）. https://imedic.health/en/health/physical-activity-and-exercise/exercise-when-sick（含病毒感染后心肌炎风险与回归时限；健康科普，按共识引用）
+268. (系统综述) The Effects of Alcohol Consumption on Recovery Following Resistance Exercise: A Systematic Review. 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC7739274/（作者细节未核对）
+269. Parr EB, Camera DM, Areta JL, et al. Alcohol Ingestion Impairs Maximal Post-Exercise Rates of Myofibrillar Protein Synthesis following a Single Bout of Concurrent Training. PLoS One, 2014. https://pmc.ncbi.nlm.nih.gov/articles/PMC3922864/
+270. Bickel CS, Cross JM, Bamman MM. Exercise Dosing to Retain Resistance Training Adaptations in Young and Older Adults. Med Sci Sports Exerc, 2011;43(7):1177–1187.（卷期细节以原文为准）
+271. Mujika I, Padilla S. Detraining: Loss of Training-Induced Physiological and Performance Adaptations. Sports Med, 2000;30(2):79–87.（停训综述；卷期细节以原文为准）
+272. (综述) Muscle memory: myonuclei and re-training. 2025. https://www.zelosstrength.com/post/muscle-memory-how-fast-you-lose-regain-strength（二手科普，仅作复训框架参考；关键机制以原始综述为准）
+273. (应用建议/商业科普聚合) Whey isolate for lactose intolerance: protein supplementation guide. 2025–2026.（含 WPI 乳糖 <1%、水解乳清、植物蛋白替代选型）代表页面：https://wellbeingnutrition.com/blogs/digestion/whey-protein-and-lactose-can-you-take-it-if-you-re-intolerant
+274. Consensus Recommendations on Training and Competing in the Heat. https://pmc.ncbi.nlm.nih.gov/articles/PMC4473280/（运动医学共识；作者与年份细节未核对）
+275. ACSM Expert Consensus Statement: Injury Prevention and Exercise Performance during Cold-Weather Exercise.（ACSM 冷环境专家共识；代表页面 https://corkscrew.acsm.org/exercising-in-cold-weather/）
+276. ACSM. Staying Active Pays Off! Understanding Outdoor Heat and Cold Stress and Preventing Injury.（患者教育 PDF）. https://acsm.org/wp-content/uploads/2025/02/Exercising-in-hot-and-cold-environments.pdf
+277. (叙述性综述) Review of PEACE and LOVE: the new era of RICE in acute soft tissue injury management? 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12489226/（作者细节未核对）
+278. Dubois B, Esculier JF. Soft-tissue injuries simply need PEACE and LOVE. Br J Sports Med, 2020;54(2):72–73.
+279. (综述) Exercise Recommendations for Women with Polycystic Ovary Syndrome: Is the Evidence Enough? 2019. https://pmc.ncbi.nlm.nih.gov/articles/PMC6905185/（作者细节未核对）
+280. (国际循证指南) Recommendations from the international evidence-based guideline for the assessment and management of polycystic ovary syndrome. Hum Reprod, 2018;33(9):1602. https://academic.oup.com/humrep/article/33/9/1602/5056069
+281. (系统综述+meta) The Effect of Exercise on Cardiometabolic Risk Factors in Women with Polycystic Ovary Syndrome. 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC8835550/（作者细节未核对）
+282. (应用建议/商业科普聚合) Cheap high protein foods: budget guide. 2025–2026.（含每克蛋白成本对比与采购策略）代表页面：https://macronutrients.com/guides/macros-budget/ 与 https://myproteincalc.com/learn/cheap-high-protein-foods
+283. (应用建议/教练与诊所科普聚合) Combat sports strength & conditioning and injury prevention guides. 2025–2026.（含复合力量结构、肩/腕/膝/颈防伤重点）代表页面：https://upwellhealth.com.au/upwell-blog/combat-sports-chronicle-injury-prevention-recovery-2026 与 https://righttrackphysio.com.cy/pages/blog/injury-prevention-combat-sports
+284. (系统综述) The Efficacy of Physical Fitness Training on Dance Injury: A Systematic Review. 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC11329298/（作者细节未核对）
+285. Active & Safe（加拿大运动医学公共项目）. Dance: physical fitness training and neuromuscular training. https://activesafe.ca/dance/（项目资料；神经肌肉热身防伤建议）
+286. (应用建议/物理治疗科普聚合) Alpine skiing injury prevention and strength & conditioning guides. 2025–2026.（含下肢损伤占比、单腿与后链训练、落地筛查）代表页面：https://research.poin-t-go.com/en/sports/general/alpine-skiing-leg-strength 与 https://ski-sports.com/master-your-ski-fitness-five-essential-exercises-to-prevent-injuries-and-boost-performance-this-season/
+287. (应用建议/教练科普) Ski fitness: isometric endurance and H:Q balance for knee protection. 2025–2026.（H:Q ≥0.60 阈值为经二手转引的等速测试参考）代表页面：https://research.poin-t-go.com/en/sports/general/alpine-ski-leg-strength-balance
+288. (证据综述) The Effect of Yoga and Pilates on Flexibility and Core Strength: a review of evidence 2000–2024. https://skirec.org/wp-content/uploads/Econ-dilbag-2.pdf（含 RCT/系统综述/meta 综合；作者与期刊细节未核对）
+289. (专家共识/Delphi) Nutritional and lifestyle supportive care recommendations for management of obesity with GLP-1-based therapies. 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC12768930/（作者细节未核对）
+290. (应用资料) How to prevent muscle loss on GLP-1 medications: resistance training & protein guidance. 2026.（来源为减重医学/健身科普聚合）代表页面：https://ai.jumpstartmd.com/how-to-prevent-muscle-loss-on-glp-1-meds
+291. (RCT) Resistance training increases lean body mass and reduces fat mass in overweight/obese young men. 2013. https://pmc.ncbi.nlm.nih.gov/articles/PMC3845495/（含 SHBG 变化；LBM 增加、躯干脂肪减少）
+292. (应用资料/40+ 人群) Body composition changes after 40 in men: resistance training meta evidence (Sports Med 2021, 58 RCT) & male fat-loss guidance. 2025–2026.（经二手转引）代表页面：https://heydaymd.com/body-composition-changes-men-40s
 
-> 注：新编号 [27]–[122] 按文件分配（07: 27–34；08: 36–44；09: 49–57；10: 61–66；11: 67–74；12: 75–82；13: 84–89；14: 90–96；15: 97–103；16: 104–109；17: 110–113；18: 116–122）；[35][45]–[48][58]–[60][83][114][115] 原为预留编号，已分配给运动解剖与执教技术（2026-10-05，19/20 主题文件）；[123][124] 同期新分配，[125]–[150] 分配给全补充 11 个缺口主题（2026-10-05），[151]–[158] 分配给补剂第二梯队（2026-10-05），[159]–[168] 分配给训练服务闭环 7 项（2026-10-05），[169]–[183] 分配给 P0/P1 缺口 8 项（2026-10-05），[184]–[205] 分配给女性专题深化 9 项（2026-10-06），[206][207] 分配给食物营养含量速查（2026-10-06），[208][209][210] 分配给食物热效应（2026-10-06），[211]–[241] 为本批新增（2026-10-06，12 个缺口主题）分配，[242]–[255] 为补检索修复登记（2026-10-07，周期化/deload/停训/ITBS/MBSR 证据）分配，后续补充文献从 [256] 起分配。
+> 注：新编号 [27]–[122] 按文件分配（07: 27–34；08: 36–44；09: 49–57；10: 61–66；11: 67–74；12: 75–82；13: 84–89；14: 90–96；15: 97–103；16: 104–109；17: 110–113；18: 116–122）；[35][45]–[48][58]–[60][83][114][115] 原为预留编号，已分配给运动解剖与执教技术（2026-10-05，19/20 主题文件）；[123][124] 同期新分配，[125]–[150] 分配给全补充 11 个缺口主题（2026-10-05），[151]–[158] 分配给补剂第二梯队（2026-10-05），[159]–[168] 分配给训练服务闭环 7 项（2026-10-05），[169]–[183] 分配给 P0/P1 缺口 8 项（2026-10-05），[184]–[205] 分配给女性专题深化 9 项（2026-10-06），[206][207] 分配给食物营养含量速查（2026-10-06），[208][209][210] 分配给食物热效应（2026-10-06），[211]–[241] 为本批新增（2026-10-06，12 个缺口主题）分配，[242]–[255] 为补检索修复登记（2026-10-07，周期化/deload/停训/ITBS/MBSR 证据）分配，[256]–[292] 分配给 17 个补充缺口主题（2026-10-07：消化与肠胃健康/皮肤问题与运动/肩峰撞击/生病与训练/酒精/旅行维持/乳糖不耐/环境训练/急性损伤/内分泌（甲状腺+PCOS）/学生低预算饮食/拳击格斗/舞蹈/滑雪攀岩/瑜伽普拉提/GLP-1/男性专项），后续补充文献从 [293] 起分配。
 
 > 引用规则：主题文件引用文献编号或文献名称，编号与上表一致；优先提供题名、作者／机构、年份、DOI 或公开链接，便于网络检索，不要求具体页码。仅核对摘要、译本、间接引述或尚未核实的结论仍须明确标注。
 

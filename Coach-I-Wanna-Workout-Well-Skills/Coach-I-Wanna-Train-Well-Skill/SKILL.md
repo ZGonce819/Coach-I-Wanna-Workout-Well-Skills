@@ -17,7 +17,7 @@ description: 制定和调整抗阻训练计划，处理每周排期、动作替�
 
 ## 按需读取
 
-从 [导读与主题索引](../knowledge-base/topic-index.md) 选择默认 1–3 份主题文件：
+从 [导读与主题索引](../knowledge-base/topic-index.md) 定位主主题并按需增量读取（复合/风险场景可继续补读，直到新文件不再改变结论）：
 
 - 成人抗阻计划必读 [训练方案与进阶](../knowledge-base/Train-Well/training/training-programming-and-progression.md)。
 - 儿童青少年必读 [儿童青少年与长期效应](../knowledge-base/Train-Well/youth-and-long-term/youth-and-long-term-effects.md)；成人剂量不直接迁移。
