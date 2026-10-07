@@ -15,7 +15,7 @@
 ```text
 请将公开仓库 https://gitee.com/zgonce819/Coach-I-Wanna-Workout-Well-Skills 下载并安装为本地 Skill。
 请安装仓库内完整的 Coach-I-Wanna-Workout-Well-Skills/ 目录，包含五个领域子 Skill、knowledge-base/、references/、scripts/ 和 version.json。
-安装后运行 scripts/check_version.py --region cn --remember-region，保存中国更新来源。
+安装后运行 scripts/check_version.py --region cn --remember-region --auto-update on，保存中国更新来源并开启自动更新（推荐）。
 ```
 
 ### 国外用户
@@ -25,12 +25,12 @@
 ```text
 请将公开仓库 https://github.com/ZGonce819/Coach-I-Wanna-Workout-Well-Skills 下载并安装为本地 Skill。
 请安装仓库内完整的 Coach-I-Wanna-Workout-Well-Skills/ 目录，包含五个领域子 Skill、knowledge-base/、references/、scripts/ 和 version.json。
-安装后运行 scripts/check_version.py --region global --remember-region，保存国外更新来源。
+安装后运行 scripts/check_version.py --region global --remember-region --auto-update on，保存国外更新来源并开启自动更新（推荐）。
 ```
 
 ### 使用时检查更新
 
-每次调用 Skill 时，AI 助手先根据已保存的地区选择查询对应仓库。尚未选择时，先确认使用中国还是国外更新来源。版本检查逻辑集中在 [check_version.py](Coach-I-Wanna-Workout-Well-Skills/scripts/check_version.py)，输出当前版本、最新版本、检查状态和更新仓库地址。脚本只负责检查，不下载或覆盖远程代码；发现新版且用户已授权自动更新时，AI 助手按 [version-updates.md](Coach-I-Wanna-Workout-Well-Skills/references/version-updates.md) 的更新流程自行下载完整技能包并安装，保留本机长期档案与地区配置，安装后核验版本与档案；未授权时提醒并询问。离线或检查失败时继续使用本地版本。
+每次调用 Skill 时，先按已保存的地区在对应仓库查询版本信息，有新版本会检测到。已开启自动更新（推荐）时，AI 助手按 [version-updates.md](Coach-I-Wanna-Workout-Well-Skills/references/version-updates.md) 的更新流程自动下载并安装；未开启时提示新版本，需要用户授权后才更新。
 
 发布新版时，修改技能包内 [version.json](Coach-I-Wanna-Workout-Well-Skills/version.json) 的版本号，并将相同版本和完整技能包同步到 Gitee 与 GitHub 的 `main` 分支。版本号采用 `主版本.次版本.修订版本`，例如 `1.0.1`。仅修改文件而不提高版本号不会触发新版提醒；镜像尚未同步时，以对应来源实际发布的版本为准。
 
@@ -176,7 +176,7 @@ python -X utf8 -m unittest discover -s Coach-I-Wanna-Workout-Well-Skills/tests -
 
 测试使用临时目录与虚构数据，不启用个人档案，覆盖同意状态、持久化与重复更新、暂停、撤销、删除、来源约束、容量上限、压缩召回和 UTF-8 输入。
 
-版本检查测试覆盖中国与国外来源选择、跨调用保存地区、数字版本比较、镜像落后、网络失败、无效远程响应和损坏的配置文件；测试不联网，也不修改个人配置。更新流程由 AI 助手按 version-updates.md 执行，不依赖额外脚本，测试不覆盖下载与安装。
+版本检查测试覆盖中国与国外来源选择、跨调用保存地区、自动更新偏好持久化与合并、数字版本比较、镜像落后、网络失败、无效远程响应和损坏的配置文件；测试不联网，也不修改个人配置。更新流程由 AI 助手按 version-updates.md 执行，不依赖额外脚本，测试不覆盖下载与安装。
 
 截至 2026-10-04，已完成六个 skill 的格式校验、十三项工具测试、二百二十四个本地链接检查，以及四个独立虚构场景试用。格式与工具检查不代表真实咨询效果或医疗安全已被验证；案例文件列出持续试用时应观察的行为。
 

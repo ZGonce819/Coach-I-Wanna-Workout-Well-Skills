@@ -66,10 +66,35 @@ def check(region, timeout=4):
     return result
 
 
+def read_config(path):
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8-sig"))
+    if not isinstance(data, dict):
+        raise ValueError("Config must be a JSON object")
+    if "auto_update" in data and not isinstance(data["auto_update"], bool):
+        raise ValueError("auto_update must be true or false")
+    return data
+
+
+def write_config(path, updates):
+    existing = {}
+    try:
+        existing = read_config(path)
+    except (OSError, ValueError, TypeError):
+        existing = {}
+    existing.update(updates)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(existing) + "\n", encoding="utf-8")
+    return existing
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--region", choices=SOURCES)
     parser.add_argument("--remember-region", action="store_true")
+    parser.add_argument("--auto-update", choices=("on", "off"),
+                        help="Persist the auto-update preference (on/off) in the config file")
     parser.add_argument("--config", type=Path, default=default_config())
     parser.add_argument("--timeout", type=float, default=4)
     args = parser.parse_args(argv)
@@ -78,16 +103,26 @@ def main(argv=None):
     if args.remember_region and not args.region:
         parser.error("--remember-region requires --region")
     region = args.region
+    auto_update = None
     config_error = None
     try:
-        if args.remember_region:
-            args.config.parent.mkdir(parents=True, exist_ok=True)
-            args.config.write_text(json.dumps({"region": region}) + "\n", encoding="utf-8")
-        elif region is None and args.config.exists():
-            region = json.loads(args.config.read_text(encoding="utf-8-sig")).get("region")
+        if args.remember_region or args.auto_update is not None:
+            updates = {}
+            if args.remember_region:
+                updates["region"] = region
+            if args.auto_update is not None:
+                updates["auto_update"] = args.auto_update == "on"
+            write_config(args.config, updates)
+        if region is None or auto_update is None:
+            saved = read_config(args.config)
+            if region is None:
+                region = saved.get("region")
+            if auto_update is None and "auto_update" in saved:
+                auto_update = saved["auto_update"]
     except (OSError, ValueError, TypeError, AttributeError) as exc:
         config_error = str(exc)
     result = check(region, args.timeout)
+    result["auto_update"] = auto_update
     if config_error:
         result["config_error"] = config_error
     print(json.dumps(result, ensure_ascii=True))
