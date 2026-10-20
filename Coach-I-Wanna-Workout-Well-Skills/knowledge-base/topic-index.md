@@ -2,7 +2,7 @@
 
 > Coach I Wanna Workout Well · 循证健身知识库
 > 用途：AI 教练接到用户问题后，先按"二、用户问题 → 应读取的主题文件"或"一、主题索引"定位主主题，按需增量读取主文件与关联文件（以"新文件不再改变回答"为停止标准），再作出判断、方案与转介建议。
-> 构成：本导读 1 份 + 主题指南 87 份 + 处方核验报告 1 份，共 89 份 Markdown，分属五大领域（Train Well 训练处方与进阶 / Eat Well 饮食与运动营养 / Know Well 肌肥大机制与训练原理 / Flex Well 热身、柔韧性与活动度 / Recover Well 疼痛、康复与返场）。
+> 构成：本导读 1 份 + 主题指南 93 份 + 处方核验报告 1 份，共 95 份 Markdown，分属五大领域（Train Well 训练处方与进阶 / Eat Well 饮食与运动营养 / Know Well 肌肥大机制与训练原理 / Flex Well 热身、柔韧性与活动度 / Recover Well 疼痛、康复与返场）。
 > 引用体系：主题文件内 [编号] 均指向"四、参考文献总表"，编号唯一、跨文件复用；主题文件之间的交叉引用使用相对路径链接。
 > 证据边界：ACSM 两份文献仅据中文译本与英文摘要核对；网络检索引证条目按题名/PMID/DOI 核验、未逐条全文审校；[26] 中国居民膳食指南按 2022 版引用——源文件名标注年份与内容不符，若确有新版需另行提供文件。
 
@@ -15,6 +15,7 @@
 | 主题 | 主要回答 | 覆盖文献 |
 |---|---|---|
 | [训练方案与进阶](Train-Well/training/training-programming-and-progression.md) | 负荷/次数/容量/频率/进阶/力竭/休息/同时训练 | [1][2][3] |
+| [现成分化训练模板](Train-Well/training/template-split-routines.md) | 全身/上下肢/推拉腿PPL/五分化 可直接执行模板与进阶规则 | [310]–[313][1][3] |
 | [儿童青少年与长期效应](Train-Well/youth-and-long-term/youth-and-long-term-effects.md) | 儿童青少年抗阻处方、力量训练对骨密度/血压的长期效应 | [61]–[66] |
 | [中国儿童实证与等长处方](Train-Well/youth-and-long-term/china-youth-evidence-and-isometric-prescriptions.md) | 中国儿童运动干预实证、等长抗阻降压处方细节 | [90]–[96] |
 | [儿童运动硬终点补检索](Train-Well/youth-and-long-term/youth-hard-outcomes-follow-up.md) | 中国儿童运动干预硬终点 RCT 补检索（心肺适能/体成分） | [110]–[113] |
@@ -31,11 +32,13 @@
 | [慢病运动处方](Train-Well/chronic-conditions/chronic-conditions-and-exercise.md) | 2型糖尿病/高血压/骨质疏松/心血管疾病运动边界 | [134][135][136][137] |
 | [运动坚持与行为改变](Train-Well/coaching/adherence-and-behavior-change.md) | 目标设定/BCT 工具箱/习惯形成/坚持设计 | [142][143][56] |
 | [居家/自重/弹力带训练](Train-Well/home-and-equipment/home-and-bodyweight-training.md) | 低负荷增肌/弹力带等效/自重渐进/居家计划 | [144][145][2] |
+| [训练装备选择指南](Train-Well/home-and-equipment/training-gear-selection-guide.md) | 训练鞋分类/腰带/助力带/护腕护膝 适用边界与性价比档位 | [314]–[316][39][115] |
 | [高级抗阻技术](Train-Well/advanced-techniques/advanced-resistance-techniques.md) | 超级组/渐降组/簇组/暂停休息/BFR 证据边界 | [146][147][148] |
 | [跑步与耐力专项训练](Train-Well/running/running-and-endurance-programming.md) | 跑者起步/跑量渐进/防伤力量/强度结构 | [149][128][104]–[109] |
 | [女跑者专项](Train-Well/running/female-runner-specific.md) | 应力性骨折风险与识别/月经与骨健康/铁缺乏边界 | [204][205][157][186] |
 | [老年防跌倒与平衡训练](Train-Well/falls-prevention/falls-prevention-and-balance.md) | 平衡训练/跌倒风险评估/老年功能训练 | [150][137][126] |
 | [核心动作技术与进退阶](Train-Well/technique/core-lift-technique-library.md) | 深蹲/硬拉/卧推/推举/引体/划船/臀推/弓步 技术要点与进退阶 | [159][39][45][48] |
+| [固定器械动作技术与进退阶](Train-Well/technique/machine-lift-technique-library.md) | 腿举/哈克/腿屈伸/腿弯举/推胸/侧平举/龙门架 脚位对照与代偿排查 | [293]–[298][39][45][48] |
 | [训练监控与调整工作流](Train-Well/monitoring/training-monitoring-and-adjustment.md) | RPE/RIR/日志/复测/HRV 边界、加量减量决策 | [163][167][126][39] |
 | [初始评估与体测流程](Train-Well/assessment/initial-assessment-and-testing.md) | 筛查后体测项目/顺序/复测/解读沟通 | [168][126][127][39] |
 | [团课/循环/HIIT 课程设计](Train-Well/group-training/group-class-and-circuit-design.md) | 课程结构/HIIT 编程/进退阶/强度监控 | [166][130][131][128] |
@@ -57,6 +60,7 @@
 | [舞蹈训练力量与体能](Train-Well/sport-specific/dance-programming.md) | 舞者体能补充/踝膝腰背防伤/神经肌肉热身 | [284][285] |
 | [滑雪与攀岩训练准备](Train-Well/sport-specific/ski-and-climbing-programming.md) | 滑雪下肢离心/等长+H:Q 平衡/攀岩抓握肩胛/强度管理 | [286][287] |
 | [男性增肌减脂专项](Train-Well/men/male-body-composition-and-fat-loss.md) | 男性体成分/减脂保肌/腹部脂肪/睾酮筛查边界 | [291][292][15] |
+| [大学生体质测试提分专项](Train-Well/sport-specific/college-physical-fitness-test.md) | 引体向上/1000米/立定跳远/仰卧起坐 提分训练方案 | [317]–[320][90][91][128] |
 
 ### Eat Well（饮食与运动营养）
 
@@ -64,10 +68,12 @@
 |---|---|---|
 | [运动营养基础](Eat-Well/fundamentals/sports-nutrition-basics.md) | 能量/蛋白/碳水/脂肪/补水/补剂/增肌减脂饮食 | [13][14][15][16] |
 | [食物营养含量速查](Eat-Well/fundamentals/food-nutrition-content-quick-reference.md) | 常见食物每100g 热量/蛋白/碳水/脂肪参考值、份量换算、外食估算、标签阅读 | [206][207][26] |
+| [中国常见整餐营养估算](Eat-Well/fundamentals/chinese-meal-nutrition-estimation.md) | 火锅/自助/烧烤/外卖/食堂窗口 整餐热量蛋白脂肪钠估算与点单策略 | [299]–[302][26][206] |
 | [食物热效应与减脂](Eat-Well/fundamentals/thermic-effect-of-food.md) | TEF/DIT 占比、宏量 TEF 百分比、高蛋白×能耗、进餐频率、减脂热量规划边界 | [208][209][210] |
 | [减脂与特殊人群食养](Eat-Well/weight-management/fat-loss-and-special-populations.md) | 体重管理/减重膳食模式/慢病食养/特殊人群/转介 | [17]–[25] |
 | [营养补剂与日常活动](Eat-Well/supplements-and-activity/supplements-and-daily-activity.md) | 肌酸/β-丙氨酸/咖啡因/维生素D/omega-3 剂量与证据、NEAT、久坐中断 | [36]–[44] |
 | [补剂第二梯队与证据边界](Eat-Well/supplements-and-activity/second-tier-supplement-evidence.md) | BCAA/碳酸氢钠/硝酸盐/瓜氨酸/HMB/电解质/铁 场景证据分级 | [151]–[158] |
+| [减脂网红补剂证据边界](Eat-Well/supplements-and-activity/fat-loss-supplement-evidence.md) | 果蔬粉/左旋肉碱/CLA/燃脂胶囊/益生菌 证据与智商税识别 | [303]–[309][37] |
 | [药物补剂相互作用](Eat-Well/supplements-and-activity/drug-supplement-interactions.md) | 慢病药物 × 运动补剂交互风险提示清单 | [84]–[89] |
 | [维D剂量与药物交互补遗](Eat-Well/supplements-and-activity/vitamin-d-dosing-and-drug-interactions.md) | 维生素D 缺乏纠正剂量（转介参考）、药物×补剂交互 2024–2026 补检 | [116]–[122] |
 | [增肌期营养实操](Eat-Well/muscle-gain/muscle-gain-nutrition-practice.md) | 盈余幅度/宏量分配/增肌速度预期/追踪校准 | [162][168][15][39] |
@@ -131,8 +137,10 @@
 | 会员问题（典型表述） | 主文件 | 关联文件 |
 |---|---|--- |
 | 怎么练才能长肌肉？练多重、几组、几次？ | [Train Well](Train-Well/training/training-programming-and-progression.md) | — |
+| 一周练几天？怎么安排分化？推拉腿/上下肢/五分化怎么选？ | [现成分化训练模板](Train-Well/training/template-split-routines.md) | [Train Well](Train-Well/training/training-programming-and-progression.md) |
 | 一个肌群一周练几次？动作怎么排序？ | [Train Well](Train-Well/training/training-programming-and-progression.md) | — |
 | 深蹲/硬拉/卧推/引体怎么做？做错了怎么纠？练不了怎么降级？ | [核心动作技术与进退阶](Train-Well/technique/core-lift-technique-library.md) | [执教技术与动作教学](Train-Well/coaching/coaching-techniques-and-instruction.md)、[运动解剖基础与训练应用](Know-Well/anatomy/sports-anatomy-foundations.md) |
+| 腿举/哈克/腿屈伸/龙门架这些固定器械怎么调？脚位怎么选？ | [固定器械动作技术与进退阶](Train-Well/technique/machine-lift-technique-library.md) | [核心动作技术与进退阶](Train-Well/technique/core-lift-technique-library.md)、[运动解剖基础与训练应用](Know-Well/anatomy/sports-anatomy-foundations.md) |
 | 什么时候加重？加多少？（渐进超负荷） | [Train Well](Train-Well/training/training-programming-and-progression.md) | [Know Well](Know-Well/hypertrophy/hypertrophy-mechanisms-and-training-principles.md) |
 | 怎么知道练得有没有效果？什么时候该加量/减量？ | [训练监控与调整工作流](Train-Well/monitoring/training-monitoring-and-adjustment.md) | [训练方案与进阶](Train-Well/training/training-programming-and-progression.md)、[睡眠恢复与训练管理](Recover-Well/sleep-and-load/sleep-recovery-and-training-load.md) |
 | 练到力竭好不好？要不要留余力？ | [Train Well](Train-Well/training/training-programming-and-progression.md) | [Know Well](Know-Well/hypertrophy/hypertrophy-mechanisms-and-training-principles.md) |
@@ -172,6 +180,7 @@
 | 练伤了，什么时候必须去看医生？ | [Recover Well](Recover-Well/recovery-and-pain/recovery-and-pain-management.md) | — |
 | 肌酸/咖啡因/维生素D/鱼油等补剂要不要吃、吃多少？ | [营养补剂与日常活动](Eat-Well/supplements-and-activity/supplements-and-daily-activity.md) | [Eat Well](Eat-Well/fundamentals/sports-nutrition-basics.md) |
 | BCAA/碳酸氢钠/甜菜根/瓜氨酸/HMB 有没有用、谁适合？ | [补剂第二梯队与证据边界](Eat-Well/supplements-and-activity/second-tier-supplement-evidence.md) | [营养补剂与日常活动](Eat-Well/supplements-and-activity/supplements-and-daily-activity.md) |
+| 左旋肉碱/CLA/燃脂胶囊/果蔬粉/益生菌 减脂补剂有用吗？是不是智商税？ | [减脂网红补剂证据边界](Eat-Well/supplements-and-activity/fat-loss-supplement-evidence.md) | [补剂第二梯队与证据边界](Eat-Well/supplements-and-activity/second-tier-supplement-evidence.md)、[减脂与特殊人群食养](Eat-Well/weight-management/fat-loss-and-special-populations.md) |
 | 运动饮料/电解质粉/盐片什么时候才需要喝？ | [补剂第二梯队与证据边界](Eat-Well/supplements-and-activity/second-tier-supplement-evidence.md) | [Eat Well](Eat-Well/fundamentals/sports-nutrition-basics.md) |
 | 每天坐太久/日常活动太少、减脂卡住怎么办？ | [营养补剂与日常活动](Eat-Well/supplements-and-activity/supplements-and-daily-activity.md) | [Eat Well](Eat-Well/weight-management/fat-loss-and-special-populations.md) |
 | 脚底痛/跑步膝外侧痛/大腿后侧拉伤/肩膀痛怎么办？ | [常见损伤与心理干预](Recover-Well/injuries-and-behavior/common-injuries-and-behavior-support.md) | [Recover Well](Recover-Well/recovery-and-pain/recovery-and-pain-management.md) |
@@ -224,10 +233,12 @@
 | 游泳/骑行爱好者怎么安排力量训练？ | [游泳与骑行专项编程](Train-Well/sport-specific/swimming-and-cycling-programming.md) | [有氧与心肺训练处方](Train-Well/cardio/aerobic-and-conditioning-programming.md)、[肩关节不稳与冻结肩](Recover-Well/injuries-and-behavior/shoulder-instability-and-frozen-shoulder.md) |
 | 力量举/举重怎么练？怎么冲极限？ | [力量举与奥举专项编程](Train-Well/sport-specific/powerlifting-and-olympic-lifting-programming.md) | [训练方案与进阶](Train-Well/training/training-programming-and-progression.md)、[训练监控与调整工作流](Train-Well/monitoring/training-monitoring-and-adjustment.md) |
 | 没有器械/只有自重和弹力带，能练出效果吗？ | [居家/自重/弹力带训练](Train-Well/home-and-equipment/home-and-bodyweight-training.md) | [训练方案与进阶](Train-Well/training/training-programming-and-progression.md) |
+| 训练鞋买硬底还是缓冲？腰带/助力带/护腕什么时候用？学生党先买什么？ | [训练装备选择指南](Train-Well/home-and-equipment/training-gear-selection-guide.md) | [核心动作技术与进退阶](Train-Well/technique/core-lift-technique-library.md) |
 | 超级组/渐降组/簇组/BFR 有没有用？什么时候用？ | [高级抗阻技术](Train-Well/advanced-techniques/advanced-resistance-techniques.md) | [训练方案与进阶](Train-Well/training/training-programming-and-progression.md) |
 | 想开始跑步/备赛，怎么安排跑量与强度？ | [跑步与耐力专项训练](Train-Well/running/running-and-endurance-programming.md) | [ITBS回归跑量与负荷证据](Recover-Well/injuries-and-behavior/itbs-running-return-and-load-evidence.md)、[恢复与疼痛管理](Recover-Well/recovery-and-pain/recovery-and-pain-management.md) |
 | 老年人练什么防跌倒？单腿站不稳怎么办？ | [老年防跌倒与平衡训练](Train-Well/falls-prevention/falls-prevention-and-balance.md) | [慢病运动处方](Train-Well/chronic-conditions/chronic-conditions-and-exercise.md)、[运动前健康筛查与风险分层](Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md) |
 | 鸡胸/鸡蛋/米饭/香蕉各多少热量和蛋白？怎么配够蛋白？外食怎么估？ | [食物营养含量速查](Eat-Well/fundamentals/food-nutrition-content-quick-reference.md) | [运动营养基础](Eat-Well/fundamentals/sports-nutrition-basics.md)、[增肌期营养实操](Eat-Well/muscle-gain/muscle-gain-nutrition-practice.md)、[减脂与特殊人群食养](Eat-Well/weight-management/fat-loss-and-special-populations.md) |
+| 一顿火锅/自助/烧烤/外卖大概多少热量？怎么吃才能少长脂肪？ | [中国常见整餐营养估算](Eat-Well/fundamentals/chinese-meal-nutrition-estimation.md) | [食物营养含量速查](Eat-Well/fundamentals/food-nutrition-content-quick-reference.md)、[减脂与特殊人群食养](Eat-Well/weight-management/fat-loss-and-special-populations.md) |
 | 吃饭也消耗热量吗？高蛋白"燃烧更多"是真的吗？少食多餐能提高代谢吗？ | [食物热效应与减脂](Eat-Well/fundamentals/thermic-effect-of-food.md) | [运动营养基础](Eat-Well/fundamentals/sports-nutrition-basics.md)、[减脂与特殊人群食养](Eat-Well/weight-management/fat-loss-and-special-populations.md)、[食物营养含量速查](Eat-Well/fundamentals/food-nutrition-content-quick-reference.md) |
 | 健身/减脂期便秘了，怎么办？喝蛋白粉胀气/腹泻是乳糖问题吗？ | [消化与肠胃健康](Eat-Well/digestive-health/digestion-and-gut-health.md) | [乳糖不耐与补剂选择](Eat-Well/special-populations/lactose-intolerance-and-supplements.md)、[药物补剂相互作用](Eat-Well/supplements-and-activity/drug-supplement-interactions.md) |
 | 我有湿疹/皮肤敏感，能运动吗？出汗痒怎么办？健身长痘/毛囊炎？ | [皮肤问题与运动](Recover-Well/injuries-and-behavior/skin-health-and-exercise.md) | [消化与肠胃健康](Eat-Well/digestive-health/digestion-and-gut-health.md)（若伴肠胃警报）、[运动前健康筛查与风险分层](Recover-Well/screening-and-injury-spectrum/pre-exercise-screening-and-risk-stratification.md) |
@@ -246,6 +257,7 @@
 | 瑜伽/普拉提能代替举铁吗？怎么和力量训练搭配？ | [瑜伽与普拉提：与力量训练搭配](Flex-Well/mobility/yoga-pilates-integration.md) | [热身与柔韧性](Flex-Well/mobility/warm-up-and-flexibility.md)、[活动度渐进改善](Flex-Well/mobility/mobility-progression.md) |
 | 在打 GLP-1 减重药，怎么练不掉肌肉？蛋白吃多少？ | [GLP-1 减重药物与运动营养](Train-Well/chronic-conditions/glp1-medications-and-exercise.md) | [减脂期抗阻训练专项](Train-Well/training/fat-loss-resistance-training.md)、[减脂与特殊人群食养](Eat-Well/weight-management/fat-loss-and-special-populations.md) |
 | 男性减脂怎么不掉肌肉？肚子怎么减？要不要查睾酮？ | [男性增肌减脂专项](Train-Well/men/male-body-composition-and-fat-loss.md) | [减脂期抗阻训练专项](Train-Well/training/fat-loss-resistance-training.md)、[肌肥大机制与训练原理](Know-Well/hypertrophy/hypertrophy-mechanisms-and-training-principles.md) |
+| 大学体测引体/1000米/立定跳远怎么提分？考前怎么练？ | [大学生体质测试提分专项](Train-Well/sport-specific/college-physical-fitness-test.md) | [跑步与耐力专项训练](Train-Well/running/running-and-endurance-programming.md)、[爆发力与增强式训练处方](Train-Well/training/power-and-plyometric-training.md) |
 
 ---
 
@@ -264,10 +276,14 @@
 - **"慢病运动处方"**：主归 慢病运动处方（Train Well）；运动前筛查看 运动前健康筛查与风险分层，食养与药物交互看 03/13，防跌倒与骨松训练看 老年防跌倒与平衡训练。
 - **"运动坚持与行为改变"**：主归 运动坚持与行为改变（Train Well）；动机访谈/恐动看 09，心理量表边界看 12，目标与计划执行看 01。
 - **"居家/自重/弹力带"**：主归 居家/自重/弹力带训练（Train Well）；器械处方与渐进规则看 01，弹力带在慢病/老年场景的边界看 慢病运动处方、老年防跌倒与平衡训练。
+- **"训练装备选择"**：主归 训练装备选择指南（Train Well）；具体动作技术看 核心动作技术与进退阶，已有损伤的护具需求看 Recover Well 对应部位文件。装备是辅助，不是训练效果的决定因素。
+- **"大学生体测专项"**：主归 大学生体质测试提分专项（Train Well）；跑步训练看 跑步与耐力专项训练，爆发力看 爆发力与增强式训练处方，力量基础看 训练方案与进阶。体测是专项，不等于通用健身。
 - **"高级抗阻技术"**：主归 高级抗阻技术（Train Well）；基础处方与恢复管理看 01/07，BFR 在康复人群的使用边界看 06。
 - **"跑步/耐力专项"**：主归 跑步与耐力专项训练（Train Well）；跑伤康复看 06/09/16（ITBS 回归），有氧剂量看 有氧与心肺训练处方，慢病跑者边界看 慢病运动处方。
 - **"老年防跌倒与平衡"**：主归 老年防跌倒与平衡训练（Train Well）；骨松训练边界看 慢病运动处方，筛查起点看 运动前健康筛查与风险分层，行为坚持看 运动坚持与行为改变。
 - **"核心动作技术"**：主归 核心动作技术与进退阶（Train Well）；教学法（口令/反馈）看 执教技术与动作教学，肌肉解剖与代偿看 运动解剖基础与训练应用，疼痛性动作问题看 Recover Well 06/09，不重复损伤处方。
+- **"固定器械动作技术"**：主归 固定器械动作技术与进退阶（Train Well）；自由重量核心动作看 核心动作技术与进退阶，解剖代偿看 运动解剖基础与训练应用，疼痛看 Recover Well。器械重量读数因品牌差异大，不跨器械比较。
+- **"训练分化模板"**：主归 现成分化训练模板（Train Well）；进阶原理看 训练方案与进阶，训练监控看 训练监控与调整工作流，减脂期调整看 减脂期抗阻训练专项。模板是起点，按恢复和进度调整。
 - **"训练监控"**：主归 训练监控与调整工作流（Train Well）；过度训练识别看 睡眠恢复与训练管理，疼痛负荷调整看 恢复与疼痛管理，周期化看 训练方案与进阶，复测标准看 初始评估与体测流程。
 - **"体测评估"**：主归 初始评估与体测流程（Train Well）；能否开始的筛查看 运动前健康筛查与风险分层，测试数值标准看 ACSM 指南 [126]，结果解读的个体差异看 训练适应生理机制。
 - **"团课设计"**：主归 团课/循环/HIIT 课程设计（Train Well）；心肺剂量看 有氧与心肺训练处方，HIIT 效果证据看 [130][131]，课中安全与补水看 补剂第二梯队（电解质节）。
@@ -311,6 +327,8 @@
 - **"增肌期营养"**：主归 增肌期营养实操（Eat Well）；基础宏量与蛋白看 运动营养基础，减脂切换看 减脂与特殊人群食养，素食增肌看 特殊人群营养补遗。
 - **"青少年与素食营养"**：主归 特殊人群营养补遗（Eat Well）；儿童训练安全看 儿童青少年与长期效应，女性铁看 补剂第二梯队与证据边界、女性全生命周期训练，补剂交互看 药物补剂相互作用。
 - **"食物营养含量与配餐"**：主归 食物营养含量速查（Eat Well）；宏量摄入目标与分配看 运动营养基础、增肌期营养实操，减脂选择看 减脂与特殊人群食养，素食/青少年看 特殊人群营养补遗；本文件只做"含量参考值 + 份量换算 + 外食估算 + 标签阅读"，不重复宏观摄入目标与剂量。
+- **"中国常见整餐估算"**：主归 中国常见整餐营养估算（Eat Well）；单食材数值看 食物营养含量速查，学生党预算看 学生党低预算高蛋白饮食，减脂策略看 减脂与特殊人群食养。整餐估算误差大，目标是量级判断+一致性追踪。
+- **"减脂网红补剂"**：主归 减脂网红补剂证据边界（Eat Well）；核心补剂看 营养补剂与日常活动，第二梯队补剂看 补剂第二梯队与证据边界，药物交互看 药物补剂相互作用。本文件只做"智商税重灾区"的证据边界识别。
 - **"食物热效应与代谢"**：主归 食物热效应与减脂（Eat Well）；热量规划与减脂口径看 减脂与特殊人群食养、运动营养基础，含量数值看 食物营养含量速查；本文件只做 TEF 占比/宏量差异/进餐频率的量级科普与话术校准，不重复宏观能量目标与减脂流程。
 - **"碳水循环与进阶饮食法"**：主归 碳水循环与进阶饮食法（Eat Well）；减脂基础看 减脂与特殊人群食养、食物热效应与减脂，进食障碍边界看 身材焦虑与进食障碍：教练边界。
 - **"消化与肠胃健康"**：主归 消化与肠胃健康（Eat Well）；补剂相关的肠胃反应看 乳糖不耐与补剂选择、药物补剂相互作用，便秘/腹泻的医学红线转介消化内科；不替代胃肠专科诊断。
@@ -657,8 +675,36 @@
 290. (应用资料) How to prevent muscle loss on GLP-1 medications: resistance training & protein guidance. 2026.（来源为减重医学/健身科普聚合）代表页面：https://ai.jumpstartmd.com/how-to-prevent-muscle-loss-on-glp-1-meds
 291. (RCT) Resistance training increases lean body mass and reduces fat mass in overweight/obese young men. 2013. https://pmc.ncbi.nlm.nih.gov/articles/PMC3845495/（含 SHBG 变化；LBM 增加、躯干脂肪减少）
 292. (应用资料/40+ 人群) Body composition changes after 40 in men: resistance training meta evidence (Sports Med 2021, 58 RCT) & male fat-loss guidance. 2025–2026.（经二手转引）代表页面：https://heydaymd.com/body-composition-changes-men-40s
+293. NSCA's Essentials of Strength Training and Conditioning（4th ed）. Human Kinetics, 2016.（固定器械动作技术与轨迹特点教科书共识）
+294. 固定腿举与自由深蹲的股四头肌/臀大肌肌电活动对比研究综述.（应用生物力学教科书综合，2020s）
+295. Machine-Based vs Free-Weights Resistance Training on Muscle Strength and Hypertrophy: A Systematic Review and Meta-Analysis.（2020s，器械与自由重量等效性meta；作者细节未核对）
+296. Foot Position Modulates Muscle Activation During Leg Press Exercise. J Strength Cond Res, 2018.（腿举脚位对肌电影响；作者细节未核对）
+297. The Biomechanics of the Leg Extension: Implications for Patellofemoral Stress.（腿伸屈膝髌股关节压力生物力学综述；2010s）
+298. Cable vs Free Weight Exercises for Muscle Hypertrophy: A Narrative Review.（绳索动作全程张力优势综述；2020s）
+299. 杨月欣主编. 中国食物成分表（标准版第6版）. 北京大学医学出版社, 2018/2019.（整餐食材基础数据）
+300. 中国营养学会. 中国居民膳食指南（2022）. 人民卫生出版社.（外食选择策略与钠摄入建议）
+301. 餐饮食物营养成分数据库（行业汇总）. 2020s.（火锅/烧烤/外卖常见菜品营养估算；综合自连锁品牌公开数据与学术文献）
+302. USDA FoodData Central. U.S. Department of Agriculture. https://fdc.nal.usda.gov/（跨境/西式快餐对照参考）
+303. (系统综述) The effect of fruit and vegetable powder supplements on nutrient intake and health outcomes: a systematic review. 2020s.（绿粉/果蔬粉微量营养素补充证据；作者细节未核对）
+304. (应用建议) Greens powders: do they work? Do they replace vegetables? 2025.（消费者教育；对比绿粉vs真实蔬菜的膳食纤维与植物化学物含量）
+305. (系统综述+meta) L-carnitine supplementation and body composition: a systematic review and meta-analysis of randomized controlled trials. 2021.（左旋肉碱对减脂/表现效应；作者细节未核对）
+306. (系统综述+meta) The effect of conjugated linoleic acid supplementation on body composition and metabolic parameters: a meta-analysis. 2019.（CLA减脂效应与代谢副作用；作者细节未核对）
+307. (系统综述) Efficacy and safety of fat burner supplements: a systematic review. 2022.（燃脂补剂成分与证据；主要有效成分为咖啡因）
+308. (系统综述+meta) Probiotic supplementation and body weight/body fat: a systematic review and meta-analysis of RCTs. 2020s.（益生菌对体重的效应；菌株特异性强）
+309. (应用建议) Digestive enzyme supplements: do they help with weight loss? 2025.（消费者教育；健康人消化酶足够）
+310. ACSM Position Stand: Progression Models in Resistance Training for Healthy Adults. Med Sci Sports Exerc, 2009.（分化频率与进阶模型）
+311. Schoenfeld BJ, et al. Resistance Training Recommendations to Maximize Muscle Hypertrophy in an Athletic Population: IUSCA Position Stand. Int J Strength Cond, 2021.（容量/频率/进阶推荐）
+312. Grgic J, et al. Effects of resistance training frequency on muscle hypertrophy: a meta-analysis. 2023.（每肌群每周训练频率对增肌的影响）
+313. Effect of different resistance training split routines on muscle hypertrophy: a systematic review. 2024.（不同分化方式的增肌效果对比；作者细节未核对）
+314. NSCA's Essentials of Strength Training and Conditioning（4th ed）. Human Kinetics, 2016.（装备使用原则：腰带/护具/鞋类）
+315. Footwear and Biomechanics in Resistance Training: A Narrative Review. 2020s.（不同鞋底硬度对深蹲/硬拉表现的影响；作者细节未核对）
+316. The Effect of Weightlifting Belts on Lifting Performance and Spinal Stability: A Systematic Review. 2021.（腰带对大重量训练的辅助证据；作者细节未核对）
+317. 教育部. 国家学生体质健康标准（2014年修订）. 学生体质健康网. https://www.csh.moe.edu.cn/
+318. 教育部等. 第八次全国学生体质与健康调研结果（2019）. 2021.（大学生体质现状数据）
+319. 1000m/800m running performance improvement: training methods and dose-response. 2020s.（间歇跑vs匀速跑对中长跑成绩提升的meta；作者细节未核对）
+320. Plyometric training and standing long jump performance: a meta-analysis. 2021.（增强式训练对立定跳远成绩的影响；作者细节未核对）
 
-> 注：新编号 [27]–[122] 按文件分配（07: 27–34；08: 36–44；09: 49–57；10: 61–66；11: 67–74；12: 75–82；13: 84–89；14: 90–96；15: 97–103；16: 104–109；17: 110–113；18: 116–122）；[35][45]–[48][58]–[60][83][114][115] 原为预留编号，已分配给运动解剖与执教技术（2026-10-05，19/20 主题文件）；[123][124] 同期新分配，[125]–[150] 分配给全补充 11 个缺口主题（2026-10-05），[151]–[158] 分配给补剂第二梯队（2026-10-05），[159]–[168] 分配给训练服务闭环 7 项（2026-10-05），[169]–[183] 分配给 P0/P1 缺口 8 项（2026-10-05），[184]–[205] 分配给女性专题深化 9 项（2026-10-06），[206][207] 分配给食物营养含量速查（2026-10-06），[208][209][210] 分配给食物热效应（2026-10-06），[211]–[241] 为本批新增（2026-10-06，12 个缺口主题）分配，[242]–[255] 为补检索修复登记（2026-10-07，周期化/deload/停训/ITBS/MBSR 证据）分配，[256]–[292] 分配给 17 个补充缺口主题（2026-10-07：消化与肠胃健康/皮肤问题与运动/肩峰撞击/生病与训练/酒精/旅行维持/乳糖不耐/环境训练/急性损伤/内分泌（甲状腺+PCOS）/学生低预算饮食/拳击格斗/舞蹈/滑雪攀岩/瑜伽普拉提/GLP-1/男性专项），后续补充文献从 [293] 起分配。
+> 注：新编号 [27]–[122] 按文件分配（07: 27–34；08: 36–44；09: 49–57；10: 61–66；11: 67–74；12: 75–82；13: 84–89；14: 90–96；15: 97–103；16: 104–109；17: 110–113；18: 116–122）；[35][45]–[48][58]–[60][83][114][115] 原为预留编号，已分配给运动解剖与执教技术（2026-10-05，19/20 主题文件）；[123][124] 同期新分配，[125]–[150] 分配给全补充 11 个缺口主题（2026-10-05），[151]–[158] 分配给补剂第二梯队（2026-10-05），[159]–[168] 分配给训练服务闭环 7 项（2026-10-05），[169]–[183] 分配给 P0/P1 缺口 8 项（2026-10-05），[184]–[205] 分配给女性专题深化 9 项（2026-10-06），[206][207] 分配给食物营养含量速查（2026-10-06），[208][209][210] 分配给食物热效应（2026-10-06），[211]–[241] 为本批新增（2026-10-06，12 个缺口主题）分配，[242]–[255] 为补检索修复登记（2026-10-07，周期化/deload/停训/ITBS/MBSR 证据）分配，[256]–[292] 分配给 17 个补充缺口主题（2026-10-07：消化与肠胃健康/皮肤问题与运动/肩峰撞击/生病与训练/酒精/旅行维持/乳糖不耐/环境训练/急性损伤/内分泌（甲状腺+PCOS）/学生低预算饮食/拳击格斗/舞蹈/滑雪攀岩/瑜伽普拉提/GLP-1/男性专项），[293]–[320] 分配给 6 个高频使用缺口主题（2026-10-20：固定器械动作技术/中国整餐营养估算/减脂网红补剂/现成分化模板/训练装备选择/大学生体测专项），后续补充文献从 [321] 起分配。
 
 > 引用规则：主题文件引用文献编号或文献名称，编号与上表一致；优先提供题名、作者／机构、年份、DOI 或公开链接，便于网络检索，不要求具体页码。仅核对摘要、译本、间接引述或尚未核实的结论仍须明确标注。
 
