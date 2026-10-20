@@ -1,15 +1,16 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.4",
   "release_notes": {
     "date": "2026-10-20",
-    "summary": "补齐6个高频使用缺口：固定器械动作技术库、中国常见整餐营养估算、网红减脂补剂证据边界、现成分化训练模板、训练装备选择指南、大学生体测专项",
+    "summary": "新增左右不对称与不平衡知识文件；topic-index.md 精准瘦身拆分（670行→141行，三个附录按需加载）",
     "new_files": [
-      "knowledge-base/Train-Well/technique/machine-lift-technique-library.md — 固定器械动作技术与进退阶（腿举/哈克/腿屈伸/腿弯举/推胸/侧平举/龙门架）",
-      "knowledge-base/Eat-Well/fundamentals/chinese-meal-nutrition-estimation.md — 中国常见整餐营养估算（火锅/自助/烧烤/外卖/食堂）",
-      "knowledge-base/Eat-Well/supplements-and-activity/fat-loss-supplement-evidence.md — 减脂网红补剂证据边界（果蔬粉/左旋肉碱/CLA/燃脂胶囊/益生菌）",
-      "knowledge-base/Train-Well/training/template-split-routines.md — 现成分化训练模板（全身/上下肢/PPL/五分化）",
-      "knowledge-base/Train-Well/home-and-equipment/training-gear-selection-guide.md — 训练装备选择指南（鞋/腰带/助力带/护腕护膝）",
-      "knowledge-base/Train-Well/sport-specific/college-physical-fitness-test.md — 大学生体质测试提分专项（引体/1000米/立定跳远）"
-    ]
+      "knowledge-base/Train-Well/training/lateral-asymmetry-and-imbalance.md — 左右不对称与不平衡（力量/围度/发力感差异正常范围、单侧训练补充原则、转介信号）"
+    ],
+    "optimizations": [
+      "topic-index.md 从 670 行瘦身到 141 行：核心问题映射完整保留，按领域分类索引/领域交叉归属/参考文献总表移到 references/ 三个附录按需加载"
+    ],
+    "previous_versions": {
+      "1.3.3": "补齐6个高频使用缺口：固定器械动作技术库、中国常见整餐营养估算、网红减脂补剂证据边界、现成分化训练模板、训练装备选择指南、大学生体测专项"
+    }
   }
 }
